@@ -1,0 +1,934 @@
+,group,child,parent
+0,10002950_1,Combinatorics,Discrete mathematics
+1,10002950_1,Graph theory,Discrete mathematics
+2,10002950_1,Combinatorial optimization,Discrete mathematics
+3,10002950_1,Generating functions,Discrete mathematics
+4,10002950_1,Approximation algorithms,Discrete mathematics
+5,10002950_1,Matroids and greedoids,Discrete mathematics
+6,10002950_1,Network flows,Graph theory
+7,10002950_1,Graph enumeration,Graph theory
+8,10002950_1,Extremal graph theory,Graph theory
+9,10002950_1,Graph algorithms,Graph theory
+10,10002950_1,Paths and connectivity problems,Graph theory
+11,10002950_1,Trees,Graph theory
+12,10002950_1,Spectra of graphs,Graph theory
+13,10002950_1,Hypergraphs,Graph theory
+14,10002950_1,Random graphs,Graph theory
+15,10002950_1,Graph coloring,Graph theory
+16,10002950_1,Matchings and factors,Graph theory
+17,10002950_1,Graphs and surfaces,Graph theory
+18,10002950_1,Combinatorics on words,Combinatorics
+19,10002950_1,Permutations and combinations,Combinatorics
+20,10002950_1,Combinatoric problems,Combinatorics
+21,10002950_1,Combinatorial algorithms,Combinatorics
+22,10002950_1,Enumeration,Combinatorics
+23,10002950_4,Discrete optimization,Mathematical optimization
+24,10002950_4,Integer programming,Discrete optimization
+25,10002950_4,Submodular optimization and polymatroids,Discrete optimization
+26,10002950_4,Mixed discrete-continuous optimization,Discrete optimization
+27,10002950_4,Continuous optimization,Mathematical optimization
+28,10002950_4,Nonconvex optimization,Continuous optimization
+29,10002950_4,Convex optimization,Continuous optimization
+30,10002950_4,Non-parametric optimization,Continuous optimization
+31,10002950_4,Quasiconvex programming and unimodality,Continuous optimization
+32,10002950_4,Semidefinite programming,Continuous optimization
+33,10002950_4,Linear programming,Continuous optimization
+34,10002950_4,Quadratic programming,Continuous optimization
+35,10002950_4,Network optimization,Continuous optimization
+36,10002950_4,Optimization with randomized search heuristics,Mathematical optimization
+37,10002950_4,Randomized local search,Optimization with randomized search heuristics
+38,10002950_4,Simulated annealing,Optimization with randomized search heuristics
+39,10002950_4,Genetic programming,Optimization with randomized search heuristics
+40,10002950_4,Bio-inspired optimization,Optimization with randomized search heuristics
+41,10002950_4,Evolutionary algorithms,Optimization with randomized search heuristics
+42,10002950_4,Tabu search,Optimization with randomized search heuristics
+43,10002950_4,Stochastic control and optimization,Mathematical optimization
+44,10002950_4,Numerical analysis,Mathematical optimization
+45,10002950_4,Numerical differentiation,Numerical analysis
+46,10002950_4,Interpolation,Numerical analysis
+47,10002950_4,Approximation,Numerical analysis
+48,10002950_4,Quadrature,Numerical analysis
+49,10002950_4,Discretization,Numerical analysis
+50,10002950_4,Interval arithmetic,Numerical analysis
+51,10002950_4,Automatic differentiation,Numerical analysis
+52,10002950_4,Arbitrary-precision arithmetic,Numerical analysis
+53,10002950_4,Computations on matrices,Numerical analysis
+54,10002950_4,Computations on polynomials,Numerical analysis
+55,10002950_4,Computation of transforms,Numerical analysis
+56,10002950_4,Computations in finite fields,Numerical analysis
+57,10002950_4,Mesh generation,Numerical analysis
+58,10002950_4,Mathematical analysis,Mathematical optimization
+59,10002950_4,Calculus,Mathematical analysis
+60,10002950_4,Differential calculus,Calculus
+61,10002950_4,Integral calculus,Calculus
+62,10002950_4,Differential equations,Mathematical analysis
+63,10002950_4,Ordinary differential equations,Differential equations
+64,10002950_4,Partial differential equations,Differential equations
+65,10002950_4,Differential algebraic equations,Differential equations
+66,10002950_4,Differential variational inequalities,Differential equations
+67,10002950_4,Integral equations,Mathematical analysis
+68,10002950_4,Functional analysis,Mathematical analysis
+69,10002950_4,Lambda calculus,Mathematical analysis
+70,10002950_4,Number-theoretic computations,Mathematical analysis
+71,10002950_4,Gröbner bases and other special bases,Mathematical analysis
+72,10002950_5,Calculus,Continuous mathematics
+73,10002950_5,Continuous functions,Calculus
+74,10002950_5,Topology,Continuous mathematics
+75,10002950_5,Geometric topology,Topology
+76,10002950_5,Algebraic topology,Topology
+77,10002950_5,Point-set topology,Topology
+78,10002951_3,Enterprise applications,Information systems applications
+79,10002951_3,Enterprise information systems,Enterprise applications
+80,10002951_3,Enterprise resource planning,Enterprise information systems
+81,10002951_3,Data analytics,Information systems applications
+82,10002951_3,Data mining,Data analytics
+83,10002951_3,Data stream mining,Data mining
+84,10002951_3,Association rules,Data mining
+85,10002951_3,Online analytical processing,Data analytics
+86,10002951_3,Data cleaning,Data analytics
+87,10002951_3,Decision support systems,Information systems applications
+88,10002951_3,Expert systems,Decision support systems
+89,10002951_3,Reputation systems,Decision support systems
+90,10002951_3,Collaborative filtering,Decision support systems
+91,10002951_3,Data management systems,Information systems applications
+92,10002951_3,Data warehouses,Data management systems
+93,10002951_3,Data centers,Data management systems
+94,10002951_3,Multimedia databases,Data management systems
+95,10002951_3,Multimedia information systems,Information systems applications
+96,10002951_3,Multimedia streaming,Multimedia information systems
+97,10002951_3,Multimedia content creation,Multimedia information systems
+98,10002951_3,Multimedia databases,Multimedia information systems
+99,10002951_3,Geographic information systems,Information systems applications
+100,10002951_3,Location-based services,Geographic information systems
+101,10002951_3,Global positioning systems,Geographic information systems
+102,10002951_3,Spatial-temporal systems,Geographic information systems
+103,10002951_3,Social and collaborative systems,Information systems applications
+104,10002951_3,Social networking sites,Social and collaborative systems
+105,10002951_3,Collaborative and social computing systems and tools,Social and collaborative systems
+106,10002951_3,Wikis,Collaborative and social computing systems and tools
+107,10002951_3,Blogs,Collaborative and social computing systems and tools
+108,10002951_3,Social tagging systems,Collaborative and social computing systems and tools
+109,10002951_3,Synchronous editors,Collaborative and social computing systems and tools
+110,10002951_3,Asynchronous editors,Collaborative and social computing systems and tools
+111,10002951_3,Internet and network systems,Information systems applications
+112,10002951_3,Extranets,Internet and network systems
+113,10002951_3,Intranets,Internet and network systems
+114,10002951_3,Sensor networks,Internet and network systems
+115,10002951_3,Data streaming,Internet and network systems
+116,10002951_3,Massively multiplayer online games,Internet and network systems
+117,10002951_3,Computational advertising,Information systems applications
+118,10002951_3,Nearest-neighbor search,Computational advertising
+119,10002951_3,Open source software,Information systems applications
+120,10002951_3,Process control systems,Information systems applications
+121,10002951_3,Mobile information processing systems,Information systems applications
+122,10002978_1,Mathematical foundations of cryptography,Cryptography
+123,10002978_1,Symmetric cryptography and hash functions,Cryptography
+124,10002978_1,Block and stream ciphers,Symmetric cryptography and hash functions
+125,10002978_1,Hash functions and message authentication codes,Symmetric cryptography and hash functions
+126,10002978_1,Public key (asymmetric) techniques,Cryptography
+127,10002978_1,Public key encryption,Public key (asymmetric) techniques
+128,10002978_1,Digital signatures,Public key (asymmetric) techniques
+129,10002978_1,Key management,Cryptography
+130,10002978_1,Information-theoretic techniques,Cryptography
+131,10002978_1,Cryptanalysis and other attacks,Cryptography
+132,10002978_10,Social aspects of security and privacy,Human and societal aspects of security and privacy
+133,10002978_10,Privacy protections,Human and societal aspects of security and privacy
+134,10002978_10,Usability in security and privacy,Human and societal aspects of security and privacy
+135,10002978_10,Economics of security and privacy,Human and societal aspects of security and privacy
+136,10002978_2,Logic and verification,Formal methods and theory of security
+137,10002978_2,Formal security models,Formal methods and theory of security
+138,10002978_2,Trust frameworks,Formal methods and theory of security
+139,10002978_2,Security requirements,Formal methods and theory of security
+140,10002978_3,Access control,Security services
+141,10002978_3,Authorization,Access control
+142,10002978_3,Authentication,Access control
+143,10002978_3,Biometrics,Authentication
+144,10002978_3,Graphical / visual passwords,Authentication
+145,10002978_3,Multi-factor authentication,Authentication
+146,10002978_3,Privacy-preserving protocols,Security services
+147,10002978_3,"Pseudonymity, anonymity and untraceability",Security services
+148,10002978_3,Digital rights management,Security services
+149,10002978_4,- Malware and its mitigation,Intrusion/anomaly detection and malware mitigation
+150,10002978_4,- Intrusion detection systems,Intrusion/anomaly detection and malware mitigation
+151,10002978_4,- Artificial immune systems,Intrusion detection systems
+152,10002978_4,- Social engineering attacks,Intrusion/anomaly detection and malware mitigation
+153,10002978_4,- Spoofing attacks,Social engineering attacks
+154,10002978_4,- Phishing,Social engineering attacks
+155,10002978_5,Hardware attacks and countermeasures,Security in hardware
+156,10002978_5,Side-channel analysis and countermeasures,Security in hardware
+157,10002978_5,Hardware security implementation,Security in hardware
+158,10002978_5,Tamper-proof and tamper-resistant designs,Security in hardware
+159,10002978_5,Hardware reverse engineering,Security in hardware
+160,10002978_5,Embedded systems security,Security in hardware
+161,10002978_5,Malicious design modifications,Security in hardware
+162,10002978_5,Hardware-based security protocols,Security in hardware
+163,10002978_6,Operating systems security,Systems security
+164,10002978_6,File system security,Operating systems security
+165,10002978_6,Browser security,Systems security
+166,10002978_6,Distributed systems security,Systems security
+167,10002978_6,Mobile platform security,Systems security
+168,10002978_6,Virtualization and security,Systems security
+169,10002978_6,Trusted computing,Systems security
+170,10002978_6,Penetration testing,Systems security
+171,10002978_6,Vulnerability management,Systems security
+172,10002978_6,Vulnerability scanners,Vulnerability management
+173,10002978_6,Firewalls,Systems security
+174,10002978_6,Denial-of-service attacks,Systems security
+175,10002978_6,Information flow control,Systems security
+176,10002978_8,Database activity monitoring,Database and storage security
+177,10002978_8,Information accountability and usage control,Database and storage security
+178,10002978_8,Management and querying of encrypted data,Database and storage security
+179,10002978_8,Data anonymization and sanitization,Database and storage security
+180,10002978_9,Web application security,Software and application security
+181,10002978_9,Social network security and privacy,Software and application security
+182,10002978_9,Domain-specific security and privacy architectures,Software and application security
+183,10002978_9,Software security engineering,Software and application security
+184,10002978_9,Software reverse engineering,Software and application security
+185,10003033_1,Network design principles,Network architectures
+186,10003033_1,Layering,Network architectures
+187,10003033_1,Naming and addressing,Network architectures
+188,10003033_1,Programming interfaces,Network architectures
+189,10003033_2,Network protocol design,Network protocols
+190,10003033_2,Protocol correctness,Network protocols
+191,10003033_2,Protocol testing and verification,Network protocols
+192,10003033_2,Formal specifications,Network protocols
+193,10003033_2,Network policy,Network protocols
+194,10003033_2,Application layer protocols,Network protocols
+195,10003033_2,Presentation protocols,Application layer protocols
+196,10003033_2,Session protocols,Application layer protocols
+197,10003033_2,Transport protocols,Network protocols
+198,10003033_2,Peer-to-peer protocols,Transport protocols
+199,10003033_2,Network layer protocols,Network protocols
+200,10003033_2,Routing protocols,Network layer protocols
+201,10003033_2,Signaling protocols,Network layer protocols
+202,10003033_2,Link-layer protocols,Network protocols
+203,10003033_2,Cross-layer protocols,Network protocols
+204,10003033_2,OAM protocols,Link-layer protocols
+205,10003033_2,Time synchronization protocols,Network protocols
+206,10003033_2,Network File System (NFS) protocol,Application layer protocols
+207,10003033_3,Physical links,Network components
+208,10003033_3,Logical nodes,Network components
+209,10003033_3,Network domains,Network components
+210,10003033_3,Intermediate nodes,Network components
+211,10003033_3,Routers,Intermediate nodes
+212,10003033_3,Bridges and switches,Intermediate nodes
+213,10003033_3,Middle boxes / network appliances,Intermediate nodes
+214,10003033_3,Repeaters,Intermediate nodes
+215,10003033_3,End nodes,Network components
+216,10003033_3,Network servers,End nodes
+217,10003033_3,Network adapters,End nodes
+218,10003033_3,"Wireless access points, base stations, and infrastructure",Network components
+219,10003033_3,Cognitive radios,Network components
+220,10003033_4,Network control algorithms,Network algorithms
+221,10003033_4,Control path algorithms,Network control algorithms
+222,10003033_4,Traffic engineering algorithms,Network control algorithms
+223,10003033_4,Network design and planning algorithms,Network algorithms
+224,10003033_4,Network resources allocation,Network control algorithms
+225,10003033_4,Network resources allocation,Network design and planning algorithms
+226,10003033_4,Packet scheduling,Network algorithms
+227,10003033_4,Packet classification,Network algorithms
+228,10003033_4,Deep packet inspection,Packet classification
+229,10003033_4,Data path algorithms,Network algorithms
+230,10003033_4,Network economics,Network algorithms
+231,10003033_5,Network measurement,Network performance evaluation
+232,10003033_5,Network performance modeling,Network performance evaluation
+233,10003033_5,Network experimentation,Network performance evaluation
+234,10003033_5,Network simulations,Network performance evaluation
+235,10003033_5,Network performance analysis,Network performance evaluation
+236,10003033_6,Network topology types,Network structure
+237,10003033_6,Physical topologies,Network topology types
+238,10003033_6,Mesh networks,Physical topologies
+239,10003033_6,Bus networks,Physical topologies
+240,10003033_6,Ring networks,Physical topologies
+241,10003033_6,Star networks,Physical topologies
+242,10003033_6,Point-to-point networks,Physical topologies
+243,10003033_6,Token ring networks,Physical topologies
+244,10003033_6,Hybrid networks,Physical topologies
+245,10003033_6,Logical / virtual topologies,Network topology types
+246,10003033_6,Topology analysis and generation,Network topology types
+247,10003033_6,Network properties,Network structure
+248,10003033_6,Network reliability,Network properties
+249,10003033_6,Network dynamics,Network properties
+250,10003033_6,Network manageability,Network properties
+251,10003033_6,Network range,Network properties
+252,10003033_6,Network privacy and anonymity,Network properties
+253,10003033_6,Network mobility,Network properties
+254,10003033_6,Network security,Network structure
+255,10003033_6,Error detection and error correction,Network structure
+256,10003033_6,Wide area networks,Network types
+257,10003033_6,Local area networks,Network types
+258,10003033_6,Metropolitan area networks,Network types
+259,10003033_6,Short-range networks,Network types
+260,10003033_6,Very long-range networks,Network types
+261,10003033_6,Wireless mesh networks,Network types
+262,10003033_7,Programmable networks,Network management
+263,10003033_7,Network monitoring,Network management
+264,10003033_7,Network services,Network management
+265,10003033_7,Location based services,Network services
+266,10003033_7,In-network processing,Network services
+267,10003033_7,Naming and addressing,Network management
+268,10003033_7,Cloud computing,Network services
+269,10003033_8,Overlay and other logical network structures,Network types
+270,10003033_8,Social media networks,Overlay and other logical network structures
+271,10003033_8,Online social networks,Overlay and other logical network structures
+272,10003033_8,Peer-to-peer networks,Overlay and other logical network structures
+273,10003033_8,World Wide Web (network structure),Overlay and other logical network structures
+274,10003033_8,Packet-switching networks,Network types
+275,10003033_8,Ad hoc networks,Network types
+276,10003033_8,Mobile ad hoc networks,Ad hoc networks
+277,10003033_8,Wireless access networks,Network types
+278,10003033_8,Wireless local area networks,Wireless access networks
+279,10003033_8,Wireless personal area networks,Wireless access networks
+280,10003033_8,Mobile networks,Network types
+281,10003033_8,Wired access networks,Network types
+282,10003033_8,Sensor networks,Network types
+283,10003033_8,Cyber-physical networks,Sensor networks
+284,10003033_8,Storage area networks,Network types
+285,10003033_8,Data center networks,Network types
+286,10003033_8,Network on chip,Network types
+287,10003033_8,Public Internet,Network types
+288,10003033_8,Home networks,Network types
+289,10003120_1,"HCI theory, concepts and models",Human computer interaction (HCI)
+290,10003120_1,HCI design and evaluation methods,Human computer interaction (HCI)
+291,10003120_1,Usability testing,HCI design and evaluation methods
+292,10003120_1,Heuristic evaluations,HCI design and evaluation methods
+293,10003120_1,Walkthrough evaluations,HCI design and evaluation methods
+294,10003120_1,Empirical studies in HCI,Human computer interaction (HCI)
+295,10003120_1,User studies,Empirical studies in HCI
+296,10003120_1,Field studies,Empirical studies in HCI
+297,10003120_1,Laboratory experiments,Empirical studies in HCI
+298,10003120_1,User models,Human computer interaction (HCI)
+299,10003120_1,Interaction paradigms,Human computer interaction (HCI)
+300,10003120_1,Command line interfaces,Interaction paradigms
+301,10003120_1,Natural language interfaces,Interaction paradigms
+302,10003120_1,Collaborative interaction,Interaction paradigms
+303,10003120_1,Interaction techniques,Human computer interaction (HCI)
+304,10003120_1,Pointing,Interaction techniques
+305,10003120_1,Gestural input,Interaction techniques
+306,10003120_1,Text input,Interaction techniques
+307,10003120_1,Interaction devices,Human computer interaction (HCI)
+308,10003120_1,Pointing devices,Interaction devices
+309,10003120_1,Haptic devices,Interaction devices
+310,10003120_1,Graphics input devices,Interaction devices
+311,10003120_1,Keyboards,Interaction devices
+312,10003120_1,Graphical user interfaces,Human computer interaction (HCI)
+313,10003120_1,User interface programming,Graphical user interfaces
+314,10003120_1,User interface toolkits,Graphical user interfaces
+315,10003120_1,Web-based interaction,Human computer interaction (HCI)
+316,10003120_1,Hypertext / hypermedia,Web-based interaction
+317,10003120_1,Interactive systems and tools,Human computer interaction (HCI)
+318,10003120_1,User interface management systems,Interactive systems and tools
+319,10003120_1,Displays and imagers,Human computer interaction (HCI)
+320,10003120_1,Virtual reality,Human computer interaction (HCI)
+321,10003120_1,Mixed / augmented reality,Human computer interaction (HCI)
+322,10003120_1,Touch screens,Human computer interaction (HCI)
+323,10003120_1,Sound-based input / output,Human computer interaction (HCI)
+324,10003120_1,Auditory feedback,Sound-based input / output
+325,10003120_2,"Interaction design theory, concepts and paradigms",Interaction design
+326,10003120_2,Interaction design process and methods,Interaction design
+327,10003120_2,User centered design,Interaction design
+328,10003120_2,Activity centered design,Interaction design
+329,10003120_2,Participatory design,Interaction design
+330,10003120_2,Scenario-based design,Interaction design
+331,10003120_2,Contextual design,Interaction design
+332,10003120_2,Systems and tools for interaction design,Interaction design
+333,10003120_2,Interface design prototyping,Interaction design
+334,10003120_2,User interface design,Interaction design
+335,10003120_2,Wireframes,User interface design
+336,10003120_2,Empirical studies in interaction design,Interaction design
+337,10003120_3,"Collaborative and social computing theory, concepts and paradigms",Collaborative and social computing
+338,10003120_3,Collaborative and social computing systems and tools,Collaborative and social computing
+339,10003120_3,Collaborative content creation,Collaborative and social computing systems and tools
+340,10003120_3,Social content sharing,Collaborative and social computing systems and tools
+341,10003120_3,Social tagging,Collaborative and social computing systems and tools
+342,10003120_3,Social networks,Collaborative and social computing systems and tools
+343,10003120_3,Social media,Collaborative and social computing systems and tools
+344,10003120_3,Social recommendation,Social networks
+345,10003120_3,Collaborative filtering,Social recommendation
+346,10003120_3,Social navigation,Social networks
+347,10003120_3,Social network analysis,Social networks
+348,10003120_3,Collaborative and social computing design and evaluation methods,Collaborative and social computing
+349,10003120_3,Empirical studies in collaborative and social computing,Collaborative and social computing design and evaluation methods
+350,10003120_3,Ethnographic studies,Collaborative and social computing design and evaluation methods
+351,10003120_3,Computer supported cooperative work,Collaborative and social computing
+352,10003120_3,Collaborative and social computing devices,Collaborative and social computing
+353,10003120_4,"Ubiquitous and mobile computing theory, concepts, and paradigms",Ubiquitous and mobile computing
+354,10003120_4,Ubiquitous and mobile computing design and evaluation methods,Ubiquitous and mobile computing
+355,10003120_4,Ubiquitous and mobile computing systems and tools,Ubiquitous and mobile computing
+356,10003120_4,Empirical studies in ubiquitous and mobile computing,Ubiquitous and mobile computing
+357,10003120_4,Ubiquitous computing,Ubiquitous and mobile computing
+358,10003120_4,Ambient intelligence,Ubiquitous computing
+359,10003120_4,Interactive whiteboards,Ubiquitous computing
+360,10003120_4,Mobile computing,Ubiquitous and mobile computing
+361,10003120_4,Mobile devices,Mobile computing
+362,10003120_4,Smartphones,Mobile devices
+363,10003120_4,Personal digital assistants,Mobile devices
+364,10003120_4,Portable media players,Mobile devices
+365,10003120_4,Tablet computers,Mobile devices
+366,10003120_4,E-book readers,Mobile devices
+367,10003120_4,Handheld game consoles,Mobile devices
+368,10003120_4,Mobile phones,Mobile devices
+369,10003120_4,Ubiquitous and mobile devices,Ubiquitous and mobile computing
+370,10003120_5,Visualization techniques,Visualization
+371,10003120_5,Treemaps,Visualization techniques
+372,10003120_5,Graph drawings,Visualization techniques
+373,10003120_5,Hyperbolic trees,Visualization techniques
+374,10003120_5,Heat maps,Visualization techniques
+375,10003120_5,Cladograms,Visualization techniques
+376,10003120_5,Dendrograms,Visualization techniques
+377,10003120_5,Visualization systems and tools,Visualization
+378,10003120_5,Visualization toolkits,Visualization systems and tools
+379,10003120_5,Visualization systems and tools,Visualization systems and tools
+380,10003120_5,"Visualization theory, concepts and paradigms",Visualization
+381,10003120_5,Visualization design and evaluation methods,"Visualization theory, concepts and paradigms"
+382,10003120_5,Visualization application domains,Visualization
+383,10003120_5,Geographic visualization,Visualization application domains
+384,10003120_5,Information visualization,Visualization application domains
+385,10003120_5,Scientific visualization,Visualization application domains
+386,10003120_5,Empirical studies in visualization,Visualization
+387,10003120_5,Visual analytics,Visualization
+388,10003120_6,"Accessibility theory, concepts and paradigms",Accessibility
+389,10003120_6,Accessibility design and evaluation methods,Accessibility
+390,10003120_6,Accessibility systems and tools,Accessibility technologies
+391,10003120_6,Accessibility technologies,Accessibility
+392,10003120_6,Empirical studies in accessibility,Accessibility
+393,10003456_3,Age,Demographic Characteristics
+394,10003456_3,Children,Age
+395,10003456_3,Adolescents,Age
+396,10003456_3,Seniors,Age
+397,10003456_3,Gender,Demographic Characteristics
+398,10003456_3,Men,Gender
+399,10003456_3,Women,Gender
+400,10003456_3,Race and ethnicity,Demographic Characteristics
+401,10003456_3,Geographic characteristics,Demographic Characteristics
+402,10003456_3,Demographic Characteristics,User characteristics
+403,10003456_3,Cultural characteristics,Cultural Characteristics
+404,10003456_3,Religious orientation,Cultural Characteristics
+405,10003456_3,Cultural Characteristics,User characteristics
+406,10003456_3,Sexual orientation,User characteristics
+407,10003456_3,People with disabilities,User characteristics
+408,10003752_1,Turing machines,Models of computation
+409,10003752_1,Lambda calculus,Models of computation
+410,10003752_1,Recursive functions,Models of computation
+411,10003752_1,Abstract machines,Models of computation
+412,10003752_1,Computability,Models of computation
+413,10003752_1,Concurrency,Models of computation
+414,10003752_1,Timed and hybrid models,Models of computation
+415,10003752_1,Process calculi,Models of computation
+416,10003752_1,Parallel computing models,Models of computation
+417,10003752_1,Distributed computing models,Models of computation
+418,10003752_1,Probabilistic computation,Models of computation
+419,10003752_1,Quantum computation theory,Models of computation
+420,10003752_1,Quantum complexity theory,Models of computation
+421,10003752_1,Quantum information theory,Models of computation
+422,10003752_1,Quantum communication complexity,Models of computation
+423,10003752_1,Quantum query complexity,Models of computation
+424,10003752_1,Interactive computation,Models of computation
+425,10003752_1,Streaming models,Models of computation
+426,10003752_2,Automata over infinite objects,Formal languages and automata theory
+427,10003752_2,Automata extensions,Formal languages and automata theory
+428,10003752_2,Quantitative automata,Formal languages and automata theory
+429,10003752_2,Tree languages,Formal languages and automata theory
+430,10003752_2,Regular languages,Formal languages and automata theory
+431,10003752_2,Transducers,Formal languages and automata theory
+432,10003752_2,Algebraic language theory,Formal languages and automata theory
+433,10003752_2,Grammars and context-free languages,Formal languages and automata theory
+434,10003752_2,Rewrite systems,Formal languages and automata theory
+435,10003752_2,Formalisms,Formal languages and automata theory
+436,10003752_3,Complexity classes,Complexity theory and logic
+437,10003752_3,Computational complexity and cryptography,Complexity theory and logic
+438,10003752_3,Cryptographic protocols,Computational complexity and cryptography
+439,10003752_3,Cryptographic primitives,Computational complexity and cryptography
+440,10003752_3,Interactive proof systems,Proof complexity
+441,10003752_3,Proof complexity,Complexity theory and logic
+442,10003752_3,Circuit complexity,Complexity theory and logic
+443,10003752_3,Algebraic complexity theory,Complexity theory and logic
+444,10003752_3,Quantum complexity theory,Complexity theory and logic
+445,10003752_3,Communication complexity,Complexity theory and logic
+446,10003752_3,Oracles and decision trees,Complexity theory and logic
+447,10003752_3,"Problems, reductions and completeness",Complexity theory and logic
+448,10003752_4,Programming logic,Logic
+449,10003752_4,Automated reasoning,Logic
+450,10003752_4,Type theory,Logic
+451,10003752_4,Logic and verification,Logic
+452,10003752_4,Finite Model Theory,Logic
+453,10003752_4,Abstraction,Logic
+454,10003752_4,Linear logic,Logic
+455,10003752_4,Constraint and logic programming,Programming logic
+456,10003752_4,Higher order logic,Logic
+457,10003752_4,Proof theory,Logic
+458,10003752_4,Modal and temporal logics,Logic
+459,10003752_4,Constructive mathematics,Logic
+460,10003752_4,Equational logic and rewriting,Logic
+461,10003752_4,Description logics,Logic
+462,10003752_4,Verification by model checking,Logic and verification
+463,10003752_4,Hoare logic,Logic and verification
+464,10003752_4,Separation logic,Logic and verification
+465,10003752_6,Random projections and metric embeddings,Randomness
+466,10003752_6,"Randomness, geometry and discrete structures",Randomness
+467,10003752_6,Computational geometry,Randomness
+468,10003752_6,Random walks and Markov chains,Randomness
+469,10003752_6,Random network models,Randomness
+470,10003752_6,Error-correcting codes,Randomness
+471,10003752_6,Pseudorandomness and derandomization,Randomness
+472,10003752_6,Generating random combinatorial structures,Randomness
+473,10003752_6,Random search heuristics,Randomness
+474,10003752_6,Expander graphs and randomness extractors,Randomness
+475,10003752_8,Axiomatic semantics,Program semantics
+476,10003752_8,Denotational semantics,Program semantics
+477,10003752_8,Operational semantics,Program semantics
+478,10003752_8,Algebraic semantics,Program semantics
+479,10003752_8,Categorical semantics,Program semantics
+480,10003752_8,Action semantics,Program semantics
+481,10003752_8,Semantics and reasoning,Program semantics
+482,10003752_8,Program reasoning,Program semantics
+483,10003752_8,Object oriented constructs,Program constructs
+484,10003752_8,Functional constructs,Program constructs
+485,10003752_8,Control primitives,Program constructs
+486,10003752_8,Type structures,Program constructs
+487,10003752_8,Program verification,Program analysis
+488,10003752_8,Program specifications,Program analysis
+489,10003752_8,Assertions,Program analysis
+490,10003752_8,Pre- and post-conditions,Program analysis
+491,10003752_8,Invariants,Program analysis
+492,10003752_8,Abstraction,Program schemes
+493,10003752_8,Parsing,Program schemes
+494,10010147_2,Parallel programming languages,Parallel computing methodologies
+495,10010147_2,Parallel algorithms,Parallel computing methodologies
+496,10010147_6,Graphics systems and interfaces,Computer graphics
+497,10010147_6,Graphics processors,Graphics systems and interfaces
+498,10010147_6,Graphics input devices,Graphics systems and interfaces
+499,10010147_6,Rendering,Computer graphics
+500,10010147_6,Ray tracing,Rendering
+501,10010147_6,Rasterization,Rendering
+502,10010147_6,Image-based rendering,Rendering
+503,10010147_6,Non-photorealistic rendering,Rendering
+504,10010147_6,Antialiasing,Rendering
+505,10010147_6,Models and representations,Computer graphics
+506,10010147_6,Mesh models,Models and representations
+507,10010147_6,Mesh geometry models,Mesh models
+508,10010147_6,Point-based models,Models and representations
+509,10010147_6,Volumetric models,Models and representations
+510,10010147_6,Parametric curve and surface models,Models and representations
+511,10010147_6,Shape modeling,Models and representations
+512,10010147_6,Shape analysis,Shape modeling
+513,10010147_6,Animation,Computer graphics
+514,10010147_6,Procedural animation,Animation
+515,10010147_6,Motion capture,Animation
+516,10010147_6,Motion processing,Animation
+517,10010147_6,Collision detection,Animation
+518,10010147_6,Physical simulation,Animation
+519,10010147_6,Image processing and manipulation,Computer graphics
+520,10010147_6,Image compression,Image processing and manipulation
+521,10010147_6,Image manipulation,Image processing and manipulation
+522,10010147_6,Computational photography,Image processing and manipulation
+523,10010147_6,Perception,Image processing and manipulation
+524,10010147_6,Graphics techniques,Computer graphics
+525,10010147_6,Texturing,Graphics techniques
+526,10010147_6,Reflectance modeling,Graphics techniques
+527,10010147_6,Virtual and augmented reality,Computer graphics
+528,10010147_6,Virtual reality,Virtual and augmented reality
+529,10010147_6,Mixed / augmented reality,Virtual and augmented reality
+530,10010147_6,Graphics file formats,Computer graphics
+531,10010147_8,Concurrent algorithms,Concurrent computing methodologies
+532,10010147_8,Concurrent programming languages,Concurrent computing methodologies
+533,10010405_10,E-learning,Education
+534,10010405_10,Learning management systems,E-learning
+535,10010405_10,Distance learning,E-learning
+536,10010405_10,Interactive learning environments,E-learning
+537,10010405_10,Collaborative learning,E-learning
+538,10010405_10,Computer-assisted instruction,E-learning
+539,10010405_10,Computer-managed instruction,E-learning
+540,10010405_10,Digital libraries and archives,Education
+541,10010405_11,Document preparation,Document management and text processing
+542,10010405_11,Document analysis,Document management and text processing
+543,10010405_11,Document management,Document management and text processing
+544,10010405_11,Document scanning,Document preparation
+545,10010405_11,Document capture,Document preparation
+546,10010405_11,Optical character recognition,Document scanning
+547,10010405_11,Online handwriting recognition,Document scanning
+548,10010405_11,Text editing,Document preparation
+549,10010405_11,Annotation,Document preparation
+550,10010405_11,Markup languages,Document preparation
+551,10010405_11,Document scripting languages,Document preparation
+552,10010405_11,Document metadata,Document management
+553,10010405_11,Document searching,Document management
+554,10010405_11,Version control,Document management
+555,10010405_11,Graphics recognition and interpretation,Document analysis
+556,10010405_11,Image composition,Document analysis
+557,10010405_11,Format and notation,Document preparation
+558,10010405_11,Hypertext / hypermedia creation,Document preparation
+559,10010405_11,Multi / mixed media creation,Document preparation
+560,10010405_2,Enterprise architectures,Enterprise computing
+561,10010405_2,Enterprise architecture frameworks,Enterprise architectures
+562,10010405_2,Enterprise architecture modeling,Enterprise architectures
+563,10010405_2,Enterprise architecture management,Enterprise architectures
+564,10010405_2,IT architectures,Enterprise architectures
+565,10010405_2,Enterprise modeling,Enterprise computing
+566,10010405_2,"Enterprise ontologies, taxonomies, and vocabularies",Enterprise modeling
+567,10010405_2,Reference models,Enterprise modeling
+568,10010405_2,Business process modeling,Enterprise modeling
+569,10010405_2,Business rules,Enterprise modeling
+570,10010405_2,Enterprise data management,Enterprise computing
+571,10010405_2,Information integration and interoperability,Enterprise data management
+572,10010405_2,Enterprise interoperability,Enterprise data management
+573,10010405_2,Enterprise application integration,Enterprise data management
+574,10010405_2,Enterprise information systems,Enterprise computing
+575,10010405_2,Service-oriented architectures,Enterprise information systems
+576,10010405_2,Enterprise computing infrastructures,Enterprise information systems
+577,10010405_2,Business process management,Enterprise computing
+578,10010405_2,Business process modeling,Business process management
+579,10010405_2,Business process monitoring,Business process management
+580,10010405_2,Business process management systems,Business process management
+581,10010405_2,Cross-organizational business processes,Business process management
+582,10010405_2,Business intelligence,Enterprise computing
+583,10010405_2,Business-IT alignment,Enterprise computing
+584,10010405_2,Event-driven architectures,Enterprise computing
+585,10010405_2,IT governance,Enterprise computing
+586,10010405_3,Physics,Physical sciences and engineering
+587,10010405_3,Chemistry,Physical sciences and engineering
+588,10010405_3,Astronomy,Physical sciences and engineering
+589,10010405_3,Engineering,Physical sciences and engineering
+590,10010405_3,Aerospace,Engineering
+591,10010405_3,Avionics,Aerospace
+592,10010405_3,Electronics,Engineering
+593,10010405_3,Telecommunications,Engineering
+594,10010405_3,Internet telephony,Telecommunications
+595,10010405_3,Computer-aided design,Engineering
+596,10010405_3,Environmental sciences,Physical sciences and engineering
+597,10010405_3,Earth and atmospheric sciences,Physical sciences and engineering
+598,10010405_3,Mathematics and statistics,Physical sciences and engineering
+599,10010405_3,Archaeology,Physical sciences and engineering
+600,10010405_4,Genomics,Life and medical sciences
+601,10010405_4,Genetics,Life and medical sciences
+602,10010405_4,Bioinformatics,Life and medical sciences
+603,10010405_4,Health informatics,Life and medical sciences
+604,10010405_4,Health care information systems,Life and medical sciences
+605,10010405_4,Computational genomics,Genomics
+606,10010405_4,Transcriptomics,Genomics
+607,10010405_4,Population genetics,Genetics
+608,10010405_4,Molecular sequence analysis,Bioinformatics
+609,10010405_4,Recognition of genes and regulatory elements,Bioinformatics
+610,10010405_4,Sequencing and genotyping technologies,Bioinformatics
+611,10010405_4,Biological networks,Bioinformatics
+612,10010405_4,Computational biology,Bioinformatics
+613,10010405_4,Systems biology,Bioinformatics
+614,10010405_4,Proteomics,Bioinformatics
+615,10010405_4,Metabolomics / metabonomics,Bioinformatics
+616,10010405_4,Molecular structural biology,Bioinformatics
+617,10010405_4,Molecular evolution,Bioinformatics
+618,10010405_4,Computational proteomics,Proteomics
+619,10010405_4,Computational transcriptomics,Transcriptomics
+620,10010405_4,Consumer health,Health informatics
+621,10010405_4,Imaging,Health informatics
+622,10010405_5,Law,"Law, social and behavioral sciences"
+623,10010405_5,Psychology,"Law, social and behavioral sciences"
+624,10010405_5,Sociology,"Law, social and behavioral sciences"
+625,10010405_5,Economics,"Law, social and behavioral sciences"
+626,10010405_5,Anthropology,"Law, social and behavioral sciences"
+627,10010405_5,Ethnography,Anthropology
+628,10010405_6,"Evidence collection, storage and analysis",Computer forensics
+629,10010405_6,Network forensics,Computer forensics
+630,10010405_6,System forensics,Computer forensics
+631,10010405_6,Data recovery,Computer forensics
+632,10010405_6,Investigation techniques,Computer forensics
+633,10010405_6,Surveillance mechanisms,Computer forensics
+634,10010405_7,Fine arts,Arts and humanities
+635,10010405_7,Media arts,Arts and humanities
+636,10010405_7,Sound and music computing,Fine arts
+637,10010405_7,Architecture (buildings),Arts and humanities
+638,10010405_7,Computer-aided design,Architecture (buildings)
+639,10010405_7,Performing arts,Arts and humanities
+640,10010405_7,Language translation,Arts and humanities
+641,10010405_8,Microcomputers,Computers in other domains
+642,10010405_8,Personal computers and PC applications,Microcomputers
+643,10010405_8,Word processors,Personal computers and PC applications
+644,10010405_8,Spreadsheets,Personal computers and PC applications
+645,10010405_8,Computer games,Personal computers and PC applications
+646,10010405_8,Computing in government,Computers in other domains
+647,10010405_8,E-government,Computing in government
+648,10010405_8,Voting / election technologies,Computing in government
+649,10010405_8,Cartography,Computing in government
+650,10010405_8,Military,Computers in other domains
+651,10010405_8,Cyberwarfare,Military
+652,10010405_8,Digital libraries and archives,Computers in other domains
+653,10010405_8,Publishing,Computers in other domains
+654,10010405_8,Agriculture,Computers in other domains
+655,10010405_9,Computer-aided manufacturing,Industry and manufacturing
+656,10010405_9,Supply chain management,Industry and manufacturing
+657,10010405_9,Transportation,Supply chain management
+658,10010405_9,Operations research,Industry and manufacturing
+659,10010405_9,Decision analysis,Operations research
+660,10010405_9,Multi-criterion optimization and decision-making,Decision analysis
+661,10010405_9,Forecasting,Operations research
+662,10010405_9,Consumer products,Industry and manufacturing
+663,10010405_9,Marketing,Consumer products
+664,10010405_9,Command and control,Industry and manufacturing
+665,10010583_1,PCB design and layout,Printed circuit boards
+666,10010583_1,Electromagnetic interference and compatibility,Printed circuit boards
+667,10010583_10,Nanoelectromechanical systems,Emerging technologies
+668,10010583_10,Microelectromechanical systems,Emerging technologies
+669,10010583_10,Emerging simulation,Emerging tools and methodologies
+670,10010583_10,Emerging tools and methodologies,Emerging technologies
+671,10010583_10,Superconducting circuits,Circuit substrates
+672,10010583_10,Reversible logic,Emerging architectures
+673,10010583_10,Spintronics and magnetic technologies,Emerging technologies
+674,10010583_10,Quantum computation,Quantum technologies
+675,10010583_10,III-V compounds,Circuit substrates
+676,10010583_10,Circuit substrates,Emerging technologies
+677,10010583_10,Flexible and printable circuits,Circuit substrates
+678,10010583_10,Cellular neural networks,Neural systems
+679,10010583_10,Neural systems,Emerging technologies
+680,10010583_10,Single electron devices,Emerging devices and systems
+681,10010583_10,Emerging optical and photonic technologies,Emerging technologies
+682,10010583_10,Analysis and design of emerging devices and systems,Emerging devices and systems
+683,10010583_10,Emerging devices and systems,Emerging technologies
+684,10010583_10,Quantum error correction and fault tolerance,Quantum technologies
+685,10010583_10,Electromechanical systems,Emerging technologies
+686,10010583_10,Carbon based electronics,Emerging technologies
+687,10010583_10,Quantum technologies,Emerging technologies
+688,10010583_10,Memory and dense storage,Emerging devices and systems
+689,10010583_10,Plasmonics,Emerging optical and photonic technologies
+690,10010583_10,Bio-embedded electronics,Biology-related information processing
+691,10010583_10,Emerging architectures,Emerging technologies
+692,10010583_10,Emerging interfaces,Emerging technologies
+693,10010583_10,Tunneling devices,Emerging devices and systems
+694,10010583_10,Quantum communication and cryptography,Quantum technologies
+695,10010583_10,Quantum dots and cellular automata,Emerging devices and systems
+696,10010583_10,Biology-related information processing,Emerging technologies
+697,10010583_10,Emerging languages and compilers,Emerging tools and methodologies
+698,10010583_2,Networking hardware,"Communication hardware, interfaces and storage"
+699,10010583_2,Wireless devices,Networking hardware
+700,10010583_2,Wireless integrated network sensors,Wireless devices
+701,10010583_2,Interfaces,"Communication hardware, interfaces and storage"
+702,10010583_2,Sound-based input / output,Interfaces
+703,10010583_2,Touch screens,Interfaces
+704,10010583_2,Tactile and hand-based interfaces,Interfaces
+705,10010583_2,Displays and imagers,"Communication hardware, interfaces and storage"
+706,10010583_2,Scanners,Displays and imagers
+707,10010583_2,Electro-mechanical devices,"Communication hardware, interfaces and storage"
+708,10010583_2,Printers,Electro-mechanical devices
+709,10010583_2,Signal processing systems,"Communication hardware, interfaces and storage"
+710,10010583_2,Digital signal processing,Signal processing systems
+711,10010583_2,Noise reduction,Digital signal processing
+712,10010583_2,Beamforming,Digital signal processing
+713,10010583_2,Sensor devices and platforms,"Communication hardware, interfaces and storage"
+714,10010583_2,Sensors and actuators,Sensor devices and platforms
+715,10010583_2,Sensor applications and deployments,Sensor devices and platforms
+716,10010583_2,External storage,"Communication hardware, interfaces and storage"
+717,10010583_2,Buses and high-speed links,"Communication hardware, interfaces and storage"
+718,10010583_3,Interconnect,Integrated circuits
+719,10010583_3,Photonic and optical interconnect,Interconnect
+720,10010583_3,Metallic interconnect,Interconnect
+721,10010583_3,Radio frequency and wireless interconnect,Interconnect
+722,10010583_3,Programmable interconnect,Interconnect
+723,10010583_3,Input / output circuits,Integrated circuits
+724,10010583_3,High-speed input / output,Input / output circuits
+725,10010583_3,Semiconductor memory,Integrated circuits
+726,10010583_3,Read-only memory,Semiconductor memory
+727,10010583_3,Dynamic memory,Semiconductor memory
+728,10010583_3,Static memory,Semiconductor memory
+729,10010583_3,Non-volatile memory,Semiconductor memory
+730,10010583_3,Transistors,Integrated circuits
+731,10010583_3,Logic circuits,Integrated circuits
+732,10010583_3,Combinational circuits,Logic circuits
+733,10010583_3,Sequential circuits,Logic circuits
+734,10010583_3,Finite state machines,Sequential circuits
+735,10010583_3,Asynchronous circuits,Sequential circuits
+736,10010583_3,Design modules and hierarchy,Integrated circuits
+737,10010583_3,Logic families,Design modules and hierarchy
+738,10010583_3,Arithmetic and datapath circuits,Design modules and hierarchy
+739,10010583_3,Digital switches,Integrated circuits
+740,10010583_3,Reconfigurable logic and FPGAs,Integrated circuits
+741,10010583_3,Programmable logic elements,Reconfigurable logic and FPGAs
+742,10010583_3,Reconfigurable logic applications,Reconfigurable logic and FPGAs
+743,10010583_3,Evolvable hardware,Integrated circuits
+744,10010583_3,Hardware accelerators,Integrated circuits
+745,10010583_3,3D integrated circuits,Integrated circuits
+746,10010583_4,VLSI system specification and constraints,VLSI design
+747,10010583_4,Application specific VLSI designs,VLSI design
+748,10010583_4,Application specific processors,VLSI design
+749,10010583_4,Application specific instruction set processors,Application specific processors
+750,10010583_4,Application specific integrated circuits,Application specific processors
+751,10010583_4,Design rules,VLSI design
+752,10010583_4,Standard cell libraries,VLSI design
+753,10010583_4,Hard and soft IP,VLSI design
+754,10010583_4,Analog and mixed-signal circuits,VLSI design
+755,10010583_4,Analog and mixed-signal circuit synthesis,Analog and mixed-signal circuits
+756,10010583_4,Analog and mixed-signal circuit optimization,Analog and mixed-signal circuits
+757,10010583_4,Full-custom circuits,VLSI design
+758,10010583_4,3D integrated circuits,VLSI design
+759,10010583_4,Multi-chip modules,VLSI design
+760,10010583_4,Radio frequency and wireless circuits,VLSI design
+761,10010583_4,Network on chip,VLSI design
+762,10010583_4,On-chip resource management,VLSI design
+763,10010583_4,On-chip sensors,VLSI design
+764,10010583_4,Data conversion,VLSI design
+765,10010583_4,Input / output styles,VLSI design
+766,10010583_4,System on a chip,VLSI design
+767,10010583_4,Design reuse and communication-based design,VLSI design
+768,10010583_4,Economics of chip design and manufacturing,VLSI design
+769,10010583_4,VLSI design manufacturing considerations,VLSI design
+770,10010583_4,Clock generation and timing,VLSI design
+771,10010583_4,Die and wafer stacking,VLSI design
+772,10010583_4,Wireline communication,VLSI design
+773,10010583_4,Package-level interconnect,VLSI design
+774,10010583_4,VLSI packaging,VLSI design
+775,10010583_4,Platform-based design,VLSI design
+776,10010583_5,Energy generation and storage,Power and energy
+777,10010583_5,Fuel-based energy,Energy generation and storage
+778,10010583_5,Renewable energy,Energy generation and storage
+779,10010583_5,Batteries,Energy generation and storage
+780,10010583_5,Reusable energy storage,Energy generation and storage
+781,10010583_5,Energy distribution,Power and energy
+782,10010583_5,Power networks,Energy distribution
+783,10010583_5,Smart grid,Energy distribution
+784,10010583_5,Power estimation and optimization,Power and energy
+785,10010583_5,Energy metering,Power estimation and optimization
+786,10010583_5,Power conversion,Power estimation and optimization
+787,10010583_5,Temperature simulation and estimation,Power estimation and optimization
+788,10010583_5,Temperature control,Power estimation and optimization
+789,10010583_5,Temperature monitoring,Power estimation and optimization
+790,10010583_5,Temperature optimization,Power estimation and optimization
+791,10010583_5,Impact on the environment,Power and energy
+792,10010583_5,Enterprise level and data centers power issues,Power and energy
+793,10010583_5,Platform power issues,Enterprise level and data centers power issues
+794,10010583_5,Switching devices power issues,Enterprise level and data centers power issues
+795,10010583_5,Chip-level power issues,Enterprise level and data centers power issues
+796,10010583_5,Interconnect power issues,Enterprise level and data centers power issues
+797,10010583_5,Circuits power issues,Enterprise level and data centers power issues
+798,10010583_5,Thermal issues,Power and energy
+799,10010583_6,Best practices for EDA,Methodologies for EDA
+800,10010583_6,Software tools for EDA,Electronic Design Automation (EDA)
+801,10010583_6,Design databases for EDA,Electronic Design Automation (EDA)
+802,10010583_6,Modeling and parameter extraction,Electronic Design Automation (EDA)
+803,10010583_6,Hardware description languages and compilation,Electronic Design Automation (EDA)
+804,10010583_6,Partitioning and floorplanning,Physical design (EDA)
+805,10010583_6,Placement,Physical design (EDA)
+806,10010583_6,Wire routing,Physical design (EDA)
+807,10010583_6,Packaging,Physical design (EDA)
+808,10010583_6,Power grid design,Physical design (EDA)
+809,10010583_6,Static timing analysis,Timing analysis
+810,10010583_6,Statistical timing analysis,Timing analysis
+811,10010583_6,Transition-based timing analysis,Timing analysis
+812,10010583_6,Logic synthesis,Synthesis
+813,10010583_6,Combinational synthesis,Synthesis
+814,10010583_6,Sequential synthesis,Synthesis
+815,10010583_6,Physical synthesis,Synthesis
+816,10010583_6,High-level and register-transfer level synthesis,Synthesis
+817,10010583_6,Transistor-level synthesis,Synthesis
+818,10010583_6,Circuit optimization,Optimization
+819,10010583_6,Datapath optimization,Optimization
+820,10010583_6,Clock-network synthesis,Optimization
+821,10010583_6,Electrical-level simulation,Simulation
+822,10010583_6,Compact delay models,Simulation
+823,10010583_6,Timing analysis,Analysis and verification
+824,10010583_6,Technology mapping,Electronic Design Automation (EDA)
+825,10010583_6,Operations scheduling,Electronic Design Automation (EDA)
+826,10010583_6,Resource binding and sharing,Electronic Design Automation (EDA)
+827,10010583_6,Hardware-software codesign,Electronic Design Automation (EDA)
+828,10010583_6,Model-order reduction,Electronic Design Automation (EDA)
+829,10010583_6,Methodologies for EDA,Electronic Design Automation (EDA)
+830,10010583_6,Physical design (EDA),Electronic Design Automation (EDA)
+831,10010583_7,Functional verification,Hardware validation
+832,10010583_7,Assertion checking,Functional verification
+833,10010583_7,Model checking,Functional verification
+834,10010583_7,Simulation and emulation,Functional verification
+835,10010583_7,Transaction-level verification,Functional verification
+836,10010583_7,Semi-formal verification,Functional verification
+837,10010583_7,Theorem proving and SAT solving,Functional verification
+838,10010583_7,Design verification,Hardware validation
+839,10010583_7,Design rule checking,Design verification
+840,10010583_7,Equivalence checking,Design verification
+841,10010583_7,Layout-versus-schematics,Design verification
+842,10010583_7,Debugging and bug management,Hardware validation
+843,10010583_7,"Bug detection, localization and diagnosis",Debugging and bug management
+844,10010583_7,Bug fixing (hardware),Debugging and bug management
+845,10010583_7,Design for debug,Debugging and bug management
+846,10010583_7,Post-manufacture validation and debug,Debugging and bug management
+847,10010583_7,Verification metrics and analysis,Hardware validation
+848,10010583_7,Coverage metrics,Verification metrics and analysis
+849,10010583_7,Timing analysis and sign-off,Verification metrics and analysis
+850,10010583_7,Power and thermal analysis,Verification metrics and analysis
+851,10010583_7,Physical verification,Hardware validation
+852,10010583_8,Design for testability,Hardware test
+853,10010583_8,Test-pattern generation and fault simulation,Hardware test
+854,10010583_8,Fault models and test metrics,Hardware test
+855,10010583_8,Hardware reliability screening,Hardware test
+856,10010583_8,Built-in self-test,Hardware test
+857,10010583_8,Online test and diagnostics,Hardware test
+858,10010583_8,Memory test and repair,Hardware test
+859,10010583_8,"Analog, mixed-signal, and radio frequency test",Hardware test
+860,10010583_8,Board- and system-level test,Hardware test
+861,10010583_8,Defect-based test,Hardware test
+862,10010583_8,Test data compression,Hardware test
+863,10010583_8,Testing with distributed and parallel systems,Hardware test
+864,10010583_9,Hardware reliability,Safety critical systems
+865,10010583_9,Fault tolerance,Hardware reliability
+866,10010583_9,Redundancy,Fault tolerance
+867,10010583_9,Error detection and error correction,Fault tolerance
+868,10010583_9,Transient errors and upsets,Fault tolerance
+869,10010583_9,System-level fault tolerance,Fault tolerance
+870,10010583_9,Self-checking mechanisms,Fault tolerance
+871,10010583_9,Failure prediction,Hardware reliability
+872,10010583_9,"Failure recovery, maintenance and self-repair",Hardware reliability
+873,10010583_9,Robustness,Hardware reliability
+874,10010583_9,Signal integrity and noise analysis,Robustness
+875,10010583_9,Circuit hardening,Robustness
+876,10010583_9,Process variations,Robustness
+877,10010583_9,"Process, voltage and temperature variations",Robustness
+878,10010583_9,Yield and cost optimization,Safety critical systems
+879,10010583_9,Design for manufacturability,Yield and cost optimization
+880,10010583_9,Yield and cost modeling,Yield and cost optimization
+881,10010583_9,Aging of circuits and systems,Hardware reliability
+882,10010583_9,Early-life failures and infant mortality,Aging of circuits and systems
+883,10011007_3,Software development process management,Software development methods
+884,10011007_3,Software development techniques,Software development methods
+885,10011007_3,Object oriented development,Software development techniques
+886,10011007_3,Agile software development,Software development techniques
+887,10011007_3,Waterfall model,Software development techniques
+888,10011007_3,Spiral model,Software development techniques
+889,10011007_3,V-model,Software development techniques
+890,10011007_3,Rapid application development,Software development techniques
+891,10011007_3,Open source model,Software development techniques
+892,10011007_3,Collaboration in software development,Software development methods
+893,10011007_3,Pair programming,Collaboration in software development
+894,10011007_3,Programming teams,Collaboration in software development
+895,10011007_3,Software design engineering,Software development methods
+896,10011007_3,Software design techniques,Software design engineering
+897,10011007_3,Design patterns,Software design techniques
+898,10011007_3,Software design tradeoffs,Software design techniques
+899,10011007_3,Software product lines,Software design techniques
+900,10011007_3,Software prototyping,Software design engineering
+901,10011007_3,Software implementation planning,Software design engineering
+902,10011007_3,Use cases,Software design engineering
+903,10011007_3,Designing software,Software design engineering
+904,10011007_3,Requirements analysis,Software development methods
+905,10011007_3,Traceability,Requirements analysis
+906,10011007_3,Software testing and debugging,Software development methods
+907,10011007_3,Acceptance testing,Software testing and debugging
+908,10011007_3,Software verification and validation,Software testing and debugging
+909,10011007_3,Formal software verification,Software verification and validation
+910,10011007_3,Empirical software validation,Software verification and validation
+911,10011007_3,Error handling and recovery,Software testing and debugging
+912,10011007_3,Software defect analysis,Software testing and debugging
+913,10011007_3,Walkthroughs,Software testing and debugging
+914,10011007_3,Process validation,Software development methods
+915,10011007_3,Capability Maturity Model,Process validation
+916,10011007_3,Software creation and management,Software development methods
+917,10011007_3,Software version control,Software creation and management
+918,10011007_3,Documentation,Software creation and management
+919,10011007_3,Flowcharts,Software creation and management
+920,10011007_3,Software post-development issues,Software development methods
+921,10011007_3,Maintaining software,Software post-development issues
+922,10011007_3,Backup procedures,Software post-development issues
+923,10011007_3,Software evolution,Software post-development issues
+924,10011007_3,Software reverse engineering,Software post-development issues
+925,10011007_3,Reusability,Software post-development issues
+926,10011007_3,Risk management,Software development methods
+927,10011007_3,Fault tree analysis,Risk management
+928,10011007_3,Operational analysis,Risk management
+929,10011007_3,Search-based software engineering,Software development methods
+930,10011007_3,Genetic programming,Search-based software engineering
+931,10011007_3,Automatic programming,Search-based software engineering
+932,10011007_3,System administration,Software development methods

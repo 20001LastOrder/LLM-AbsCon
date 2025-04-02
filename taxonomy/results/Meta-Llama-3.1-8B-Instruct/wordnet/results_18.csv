@@ -1,0 +1,1772 @@
+,group,child,parent
+0,10,influence,root
+1,10,enticement,influence
+2,10,manipulation,influence
+3,10,ingratiation,influence
+4,10,blandishment,influence
+5,10,exposure,influence
+6,10,overexposure,exposure
+7,10,underexposure,exposure
+8,10,cross-pollination,exposure
+9,10,leading astray,influence
+10,10,hypnotism,leading astray
+11,10,seduction,leading astray
+12,10,mind game,influence
+13,10,solicitation,mind game
+14,101,canvas tent,tent
+15,101,Sibley tent,canvas tent
+16,101,umbrella tent,canvas tent
+17,101,field tent,canvas tent
+18,101,pup tent,canvas tent
+19,101,cottage tent,canvas tent
+20,101,two-man tent,canvas tent
+21,101,bell tent,canvas tent
+22,101,mountain tent,canvas tent
+23,101,storm cellar,canvas tent
+24,101,lean-to tent,canvas tent
+25,101,pop tent,canvas tent
+26,101,pyramidal tent,tent
+27,101,pup tent,tent
+28,101,cottage tent,tent
+29,101,two-man tent,tent
+30,101,canvas tent,tent
+31,101,circus tent,canvas tent
+32,101,pavilion,canvas tent
+33,101,tupik,tent
+34,101,Nissen hut,hut
+35,101,hovel,hut
+36,101,tepee,hut
+37,101,cabana,hut
+38,101,haven,shelter
+39,101,refuge,shelter
+40,101,safe house,shelter
+41,101,harbor,shelter
+42,101,fallout shelter,shelter
+43,101,mantelet,shelter
+44,101,safehold,shelter
+45,101,dugout,tent
+46,101,igloo,tent
+47,101,backpacking tent,tent
+48,105,drum,percussion instrument
+49,105,cymbal,percussion instrument
+50,105,triangle,percussion instrument
+51,105,bass drum,drum
+52,105,snare drum,drum
+53,105,tenor drum,drum
+54,105,tambour,drum
+55,105,bongo,drum
+56,105,tabor,percussion instrument
+57,105,handbell,percussion instrument
+58,105,chime,percussion instrument
+59,105,timbrel,percussion instrument
+60,105,zill,percussion instrument
+61,105,high-hat cymbal,cymbal
+62,105,triangle,percussion instrument
+63,105,tambourine,percussion instrument
+64,105,kettle,drum
+65,105,lagerphone,percussion instrument
+66,105,rain stick,percussion instrument
+67,105,mechanical piano,piano
+68,105,piano,piano
+69,105,grand piano,piano
+70,105,baby grand,piano
+71,105,concert grand,piano
+72,105,spinet,piano
+73,105,steel drum,percussion instrument
+74,105,glockenspiel,percussion instrument
+75,105,vibraphone,percussion instrument
+76,105,gong,percussion instrument
+77,105,marimba,percussion instrument
+78,105,maraca,percussion instrument
+79,105,bones,percussion instrument
+80,105,carillon,percussion instrument
+81,105,cymbal,percussion instrument
+82,13,transmittance,coefficient
+83,13,weight,coefficient
+84,13,modulus,coefficient
+85,13,absorption coefficient,coefficient
+86,13,coefficient of reflection,coefficient
+87,13,coefficient of self induction,coefficient
+88,13,coefficient of mutual induction,coefficient
+89,13,coefficient of friction,coefficient
+90,13,coefficient of viscosity,coefficient
+91,13,coefficient of elasticity,coefficient
+92,13,coefficient of expansion,coefficient
+93,13,coefficient of reflection,coefficient
+94,13,drag coefficient,coefficient
+95,13,modulus of rigidity,modulus
+96,13,Young's modulus,modulus
+97,13,bulk modulus,modulus
+98,137,hemolytic anemia,anemia
+99,137,Cooley's anemia,hemolytic anemia
+100,137,sickle-cell anemia,hemolytic anemia
+101,137,favism,hemolytic anemia
+102,137,erythroblastosis fetalis,hemolytic anemia
+103,137,aplastic anemia,anemia
+104,137,Fanconi's anemia,aplastic anemia
+105,137,metaplastic anemia,aplastic anemia
+106,137,refractory anemia,aplastic anemia
+107,137,megaloblastic anemia,anemia
+108,137,pernicious anemia,megaloblastic anemia
+109,137,microcytic anemia,anemia
+110,137,hypochromic anemia,microcytic anemia
+111,137,iron deficiency anemia,microcytic anemia
+112,137,sideroblastic anemia,microcytic anemia
+113,137,chlorosis,microcytic anemia
+114,137,macrocytic anemia,anemia
+115,138,marriage,marital status
+116,138,bachelorhood,marital status
+117,138,widowhood,marital status
+118,138,spinsterhood,marital status
+119,138,bigamy,marital status
+120,138,common-law marriage,marriage
+121,138,civil union,marriage
+122,138,polyandry,marriage
+123,138,monandry,marriage
+124,138,polygyny,marriage
+125,138,monogamy,marriage
+126,138,polygamy,marriage
+127,138,exogamy,marriage
+128,138,endogamy,marriage
+129,138,monogyny,marriage
+130,138,open marriage,marriage
+131,138,serial monogamy,marriage
+132,138,marriage of convenience,marriage
+133,138,sigeh,polygamy
+134,138,misalliance,marriage
+135,138,mesalliance,marriage
+136,138,cuckoldom,marriage
+137,15,air travel,flight
+138,15,ballooning,flight
+139,15,blind flying,flight
+140,15,sortie,flight
+141,15,solo,flight
+142,15,terrain flight,flight
+143,15,pass,terrain flight
+144,15,overflight,terrain flight
+145,15,hang gliding,flight
+146,15,parasailing,flight
+147,15,maiden flight,flight
+148,15,tailspin,acrobatics
+149,15,acrobatics,flight
+150,15,glide,flight
+151,15,flyover,flight
+152,150,wit,root
+153,150,joke,wit
+154,150,one-liner,joke
+155,150,topper,one-liner
+156,150,pun,joke
+157,150,sarcasm,joke
+158,150,dirty joke,joke
+159,150,sick joke,joke
+160,150,ethnic joke,joke
+161,150,parody,wit
+162,150,mock-heroic,parody
+163,150,persiflage,parody
+164,150,caricature,parody
+165,150,banter,wit
+166,150,badinage,banter
+167,150,bon mot,banter
+168,150,jeu d'esprit,banter
+169,150,esprit de l'escalier,banter
+170,150,repartee,banter
+171,150,drollery,banter
+172,150,ribaldry,wit
+173,150,waggery,wit
+174,150,caricature,parody
+175,150,belly laugh,wit
+176,150,funny story,wit
+177,150,comic strip,wit
+178,150,sight gag,wit
+179,17,adult education,education
+180,17,continuing education,higher education
+181,17,coeducation,elementary education
+182,17,coeducation,secondary education
+183,17,course,education
+184,17,required course,course
+185,17,elective course,course
+186,17,orientation course,course
+187,17,extension course,course
+188,17,refresher course,course
+189,17,industrial arts,education
+190,17,shop class,industrial arts
+191,17,dramatics,industrial arts
+192,17,athletics,education
+193,17,work-study program,industrial arts
+194,17,correspondence course,course
+195,17,seminar,course
+196,17,directed study,course
+197,17,orientation course,course
+198,17,propaedeutic,orientation course
+199,17,childbirth-preparation class,course
+200,17,life class,course
+201,17,home study,course
+202,17,extension,course
+203,17,workshop,course
+204,17,higher education,education
+205,17,elementary education,education
+206,17,secondary education,education
+207,171,woodpecker,piciform bird
+208,171,piculet,piciform bird
+209,171,sapsucker,piciform bird
+210,171,flicker,piciform bird
+211,171,jacamar,piciform bird
+212,171,barbet,piciform bird
+213,171,puffbird,piciform bird
+214,171,toucanet,piciform bird
+215,171,toucan,toucanet
+216,171,honey guide,piciform bird
+217,171,wryneck,piciform bird
+218,171,downy woodpecker,woodpecker
+219,171,red-headed woodpecker,woodpecker
+220,171,green woodpecker,woodpecker
+221,171,red-breasted sapsucker,sapsucker
+222,171,yellow-bellied sapsucker,sapsucker
+223,171,red-shafted flicker,flicker
+224,171,yellow-shafted flicker,flicker
+225,171,gilded flicker,flicker
+226,177,pigeon guillemot,guillemot
+227,177,black guillemot,guillemot
+228,177,razorbill,guillemot
+229,177,common murre,murre
+230,177,thick-billed murre,murre
+231,177,auklet,auk
+232,177,great auk,auk
+233,180,apple,apple tree
+234,180,crab apple,apple
+235,180,American crab apple,crab apple
+236,180,Iowa crab,crab apple
+237,180,Southern crab apple,crab apple
+238,180,wild crab,crab apple
+239,180,Bechtel crab,crab apple
+240,180,Siberian crab,crab apple
+241,180,Oregon crab apple,crab apple
+242,180,wild apple,apple
+243,184,initiation,root
+244,184,installation,initiation
+245,184,inauguration,initiation
+246,184,groundbreaking,initiation
+247,184,induction of labor,initiation
+248,184,jump ball,initiation
+249,184,icebreaker,initiation
+250,184,scrum,initiation
+251,184,tip-off,initiation
+252,184,communization,initiation
+253,184,startup,installation
+254,184,product introduction,installation
+255,184,inauguration,inauguration
+256,184,groundbreaking,inauguration
+257,184,resumption,inauguration
+258,184,induction,induction
+259,184,induction of labor,induction
+260,184,naturalization,induction
+261,184,attack,initiation
+262,184,unionization,initiation
+263,184,beginning,creation
+264,184,creation,creation
+265,184,constitution,creation
+266,184,colonization,creation
+267,184,collectivization,creation
+268,184,peace initiative,initiation
+269,184,face-off,initiation
+270,193,seed fern,gymnosperm
+271,193,progymnosperm,gymnosperm
+272,193,false sago,seed fern
+273,193,cycad,gymnosperm
+274,193,dion,cycad
+275,193,macrozamia,cycad
+276,193,zamia,cycad
+277,193,burrawong,cycad
+278,193,kaffir bread,cycad
+279,193,coontie,cycad
+280,193,dipterocarp,cycad
+281,193,encephalartos,cycad
+282,193,ceratozamia,cycad
+283,193,welwitschia,gymnosperm
+284,198,terrorism,terror
+285,198,domestic terrorism,terrorism
+286,198,international terrorism,terrorism
+287,198,state-sponsored terrorism,terrorism
+288,198,cyber-terrorism,terrorism
+289,198,bioterrorism,terrorism
+290,198,chemical terrorism,terrorism
+291,198,nuclear terrorism,terrorism
+292,198,ecoterrorism,terrorism
+293,198,narcoterrorism,terrorism
+294,198,9/11,domestic terrorism
+295,198,Red Hand Defenders,theoterrorism
+296,198,theoterrorism,terrorism
+297,200,pocket,pocket
+298,200,breast pocket,pocket
+299,200,vest pocket,pocket
+300,200,slash pocket,pocket
+301,200,patch pocket,pocket
+302,200,waist pack,pouch
+303,200,fanny pack,waist pack
+304,200,tobacco pouch,pouch
+305,200,diplomatic pouch,pouch
+306,200,sporrang,pouch
+307,200,fob,pouch
+308,200,hip pocket,pouch
+309,200,mailbag,pouch
+310,212,ceratopsian,ornithischian
+311,212,trachodon,ceratopsian
+312,212,psittacosaur,ceratopsian
+313,212,protoceratops,ceratopsian
+314,212,triceratops,ceratopsian
+315,212,styracosaur,ceratopsian
+316,212,pisanosaur,ceratopsian
+317,212,ornithopod,ornithischian
+318,212,anatotitan,ornithopod
+319,212,hadrosaur,ornithopod
+320,212,edmontosaurus,ornithopod
+321,212,ankylosaur,ornithischian
+322,212,bone-headed dinosaur,ankylosaur
+323,212,armored dinosaur,ankylosaur
+324,212,stegosaur,ornithischian
+325,212,corythosaur,ornithischian
+326,215,microphone,electro-acoustic transducer
+327,215,loudspeaker,electro-acoustic transducer
+328,215,headset,electro-acoustic transducer
+329,215,tweeter,microphone
+330,215,woofer,microphone
+331,215,subwoofer,microphone
+332,215,bullhorn,loudspeaker
+333,215,earphone,headset
+334,215,cartridge,microphone
+335,215,bug,microphone
+336,215,spike mike,microphone
+337,215,crystal microphone,microphone
+338,215,crystal pickup,microphone
+339,215,condenser microphone,microphone
+340,215,cardioid microphone,microphone
+341,215,directional microphone,microphone
+342,215,earplug,headset
+343,215,telephone receiver,headset
+344,215,squawk box,headset
+345,215,tannoy,loudspeaker
+346,236,plot element,null
+347,236,McGuffin,plot element
+348,236,point,plot element
+349,236,component,plot element
+350,236,attractor,component
+351,236,strange attractor,attractor
+352,236,intersection,null
+353,236,metacenter,intersection
+354,236,vertex,intersection
+355,236,be-all and end-all,plot element
+356,236,intercept,plot element
+357,24,marmoset,New World monkey
+358,24,pygmy marmoset,marmoset
+359,24,true marmoset,marmoset
+360,24,tamarin,New World monkey
+361,24,pinche,tamarin
+362,24,silky tamarin,tamarin
+363,24,howler monkey,New World monkey
+364,24,saki,New World monkey
+365,24,uakari,New World monkey
+366,24,douroucouli,New World monkey
+367,24,titi,New World monkey
+368,24,spider monkey,New World monkey
+369,24,squirrel monkey,New World monkey
+370,24,capuchin,New World monkey
+371,24,woolly monkey,New World monkey
+372,242,fraudulence,pretense
+373,242,hypocrisy,pretense
+374,242,trickery,pretense
+375,242,bill of goods,pretense
+376,242,snow job,fraudulence
+377,242,pretext,fraudulence
+378,242,misrepresentation,fraudulence
+379,242,crocodile tears,hypocrisy
+380,242,exaggeration,hypocrisy
+381,242,bluff,trickery
+382,242,doubling-speak,trickery
+383,242,circumlocution,trickery
+384,242,quibble,bill of goods
+385,242,putoff,bill of goods
+386,242,subterfuge,trickery
+387,242,evasion,trickery
+388,242,hedge,trickery
+389,242,facade,trickery
+390,242,humbug,trickery
+391,242,half-truth,misrepresentation
+392,247,pipefitting,fitting
+393,247,gas fitting,fitting
+394,247,electric socket,fitting
+395,247,receptacle,fitting
+396,247,reducer,fitting
+397,247,outlet box,fitting
+398,247,wall socket,receptacle
+399,247,slot,receptacle
+400,247,socket,electric socket
+401,247,point,electric socket
+402,251,quality of life,state
+403,251,emotional state,state
+404,251,happiness,emotional state
+405,251,unhappiness,emotional state
+406,251,sadness,emotional state
+407,251,embarrassment,emotional state
+408,251,gratification,emotional state
+409,251,ecstasy,emotional state
+410,251,blessedness,happiness
+411,251,radiance,happiness
+412,251,mourning,unhappiness
+413,251,embitterment,sadness
+414,251,poignance,sadness
+415,251,nirvana,state
+416,262,farming,culture
+417,262,mixed farming,farming
+418,262,subsistence farming,farming
+419,262,truck farming,farming
+420,262,market gardening,farming
+421,262,arboriculture,farming
+422,262,viticulture,farming
+423,262,aquaculture,culture
+424,262,animal husbandry,culture
+425,262,beekeeping,animal husbandry
+426,262,dairying,animal husbandry
+427,262,ranching,animal husbandry
+428,262,hydroponics,culture
+429,262,drip culture,culture
+430,262,tillage,culture
+431,262,plowing,culture
+432,262,tilling,culture
+433,262,planting,culture
+434,262,cultivation,culture
+435,262,insemination,animal husbandry
+436,262,landscape gardening,culture
+437,262,flower gardening,culture
+438,265,Bantu,Niger-Congo
+439,265,Mande,Niger-Congo
+440,265,Giriama,Bantu
+441,265,Kamba,Bantu
+442,265,Luba,Bantu
+443,265,Luyia,Bantu
+444,265,Pokomo,Bantu
+445,265,Swahili,Bantu
+446,265,Tswana,Bantu
+447,265,Mande,Niger-Congo
+448,265,Gur,Mande
+449,265,Mwera,Mande
+450,265,Fang,Niger-Congo
+451,265,Herero,Niger-Congo
+452,265,Sango,Niger-Congo
+453,265,Yoruba,Niger-Congo
+454,268,binary file,computer file
+455,268,ASCII text file,computer file
+456,268,text file,computer file
+457,268,backup file,computer file
+458,268,disk file,computer file
+459,268,read-only file,disk file
+460,268,master file,disk file
+461,268,input file,disk file
+462,268,output file,disk file
+463,268,source code,computer file
+464,268,home page,web page
+465,268,web page,computer file
+466,268,transaction file,computer file
+467,28,swad,bunch
+468,28,tuft,bunch
+469,28,knot,bunch
+470,28,clew,knot
+471,28,gob,knot
+472,28,ball,knot
+473,28,coma,ball
+474,28,Omega Centauri,coma
+475,28,Pleiades,coma
+476,28,agglomeration,coma
+477,28,clot,agglomeration
+478,28,thrombus,agglomeration
+479,28,wisp,agglomeration
+480,28,embolus,agglomeration
+481,28,witches' broom,agglomeration
+482,292,firework,
+483,292,sparkler,firework
+484,292,maroon,firework
+485,292,low explosive,firework
+486,292,squib,low explosive
+487,292,cannon cracker,low explosive
+488,292,firecracker,low explosive
+489,292,whizbang,low explosive
+490,292,aerial firework,firework
+491,292,fizgig,aerial firework
+492,292,torpedo,aerial firework
+493,292,skyrocket,aerial firework
+494,292,catherine wheel,aerial firework
+495,292,cherry bomb,aerial firework
+496,292,serpent,aerial firework
+497,292,Roman candle,aerial firework
+498,312,instrument,means
+499,312,instrumentation,instrument
+500,312,practice,instrument
+501,312,voice,instrument
+502,312,improvisation,instrument
+503,312,expendient,means
+504,312,pis aller,expendient
+505,312,desperate measure,means
+506,312,open sesame,means
+507,312,instrument,means
+508,312,wings,instrument
+509,312,royal road,instrument
+510,312,crutch,instrument
+511,312,tooth,instrument
+512,312,stepping stone,instrument
+513,312,implementation,instrument
+514,312,salvation,instrument
+515,312,fast track,instrument
+516,312,motorization,instrument
+517,312,dint,instrument
+518,312,expendient,means
+519,312,makehift,expendient
+520,320,landscaping,garden
+521,320,market garden,garden
+522,320,kitchen garden,garden
+523,320,formal garden,garden
+524,320,pot farm,market garden
+525,320,hop garden,market garden
+526,320,herb garden,kitchen garden
+527,320,hotbed,kitchen garden
+528,320,seedbed,kitchen garden
+529,320,lemon grove,kitchen garden
+530,320,parterre,formal garden
+531,320,rose garden,formal garden
+532,320,tulip bed,formal garden
+533,320,asparagus bed,formal garden
+534,320,rose bed,formal garden
+535,320,sunken garden,formal garden
+536,320,flower bed,garden
+537,320,flower garden,garden
+538,320,rock garden,garden
+539,320,topiary,garden
+540,320,Tuileries,garden
+541,320,Hanging Gardens of Babylon,garden
+542,320,roof garden,garden
+543,320,victory garden,garden
+544,320,grove,garden
+545,320,tea garden,garden
+546,320,bed,garden
+547,327,sibling,kinswoman
+548,327,aunt,sibling
+549,327,sister,sibling
+550,327,niece,sibling
+551,327,big sister,sister
+552,327,little sister,sister
+553,327,half sister,sister
+554,327,great-aunt,aunt
+555,327,maiden aunt,aunt
+556,327,great-niece,niece
+557,33,primary,feather
+558,33,flight feather,primary
+559,33,sickle feather,primary
+560,33,bastard wing,primary
+561,33,saddle hackle,feather
+562,33,marabou,feather
+563,33,hackle,feather
+564,33,saddle,hackle
+565,33,marabou,hackle
+566,33,plumule,feather
+567,33,down,feather
+568,33,swan's down,down
+569,33,goose down,down
+570,33,duck down,down
+571,33,eiderdown,down
+572,33,aftershaft,feather
+573,33,tail feather,feather
+574,33,scapular,feather
+575,335,surgical instrument,medical instrument
+576,335,lancet,surgical instrument
+577,335,probe,surgical instrument
+578,335,dilator,surgical instrument
+579,335,surgical knife,surgical instrument
+580,335,scalpel,surgical instrument
+581,335,hemostat,surgical instrument
+582,335,retractor,surgical instrument
+583,335,snare,surgical instrument
+584,335,curette,surgical instrument
+585,335,syringe,medical instrument
+586,335,hypodermic syringe,syringe
+587,335,autoinjector,syringe
+588,335,gastroscope,endoscope
+589,335,colonoscope,endoscope
+590,335,sigmoidoscope,endoscope
+591,335,arthroscope,endoscope
+592,335,laparoscope,endoscope
+593,335,bronchoscope,endoscope
+594,335,proctoscope,endoscope
+595,335,otoscope,ophthalmoscope
+596,335,ophthalmoscope,medical instrument
+597,335,speculum,ophthalmoscope
+598,335,lie detector,medical instrument
+599,335,electroencephalograph,medical instrument
+600,335,polygraph,medical instrument
+601,335,diathermy machine,medical instrument
+602,335,shortwave diathermy machine,diathermy machine
+603,335,microwave diathermy machine,diathermy machine
+604,335,cardiograph,medical instrument
+605,335,ballistocardiograph,medical instrument
+606,335,electromyograph,medical instrument
+607,335,fiberscope,endoscope
+608,335,dialyzer,medical instrument
+609,335,artificial kidney,dialyzer
+610,335,catling,medical instrument
+611,335,fetoscope,medical instrument
+612,350,binder,adhesive material
+613,350,glue,adhesive material
+614,350,animal glue,glue
+615,350,fish glue,animal glue
+616,350,casein glue,animal glue
+617,350,spirit gum,glue
+618,350,marine glue,glue
+619,350,paste,glue
+620,350,birdlime,paste
+621,350,red-lead putty,paste
+622,350,wafer,paste
+623,350,putty,paste
+624,350,mastic,putty
+625,350,iron putty,putty
+626,350,cement,paste
+627,350,rubber cement,cement
+628,353,molded salad,salad
+629,353,green salad,salad
+630,353,fruit salad,salad
+631,353,combination salad,salad
+632,353,tossed salad,salad
+633,353,pasta salad,salad
+634,353,tabbouleh,green salad
+635,353,Caesar salad,green salad
+636,353,Waldorf salad,green salad
+637,353,salad nicoise,fruit salad
+638,353,tuna fish salad,fruit salad
+639,353,coleslaw,salad
+640,353,macaroni salad,pasta salad
+641,353,herring salad,fish-based salad (represented by tuna fish salad)
+642,353,crab Louis,fish-based salad (represented by tuna fish salad)
+643,353,chicken salad,meat-based salad (represented by tuna fish salad)
+644,353,potato salad,vegetable-based salad (represented by green salad)
+645,36,solution,conquest
+646,36,break,solution
+647,36,passing,solution
+648,36,hit,solution
+649,36,winning,conquest
+650,36,hat trick,winning
+651,36,field goal,winning
+652,36,touchdown,winning
+653,36,coup,conquest
+654,36,overturn,conquest
+655,36,seduction,conquest
+656,36,sexual conquest,conquest
+657,36,score,conquest
+658,36,run batted in,score
+659,36,run,score
+660,36,field goal,score
+661,36,point after,score
+662,36,conversion,score
+663,36,safety,conquest
+664,36,open frame,safety
+665,36,bull's eye,safety
+666,36,spare,safety
+667,361,recorder,recorder
+668,361,cassette recorder,recorder
+669,361,tape recorder,recorder
+670,361,wire recorder,recorder
+671,361,multichannel recorder,recorder
+672,361,black box,recorder
+673,361,Dictaphone,tape recorder
+674,361,magnetic recorder,tape recorder
+675,361,oscillograph,recorder
+676,361,compact-disk burner,recorder
+677,361,videocassette recorder,recorder
+678,375,loan,debt
+679,375,personal loan,loan
+680,375,home loan,loan
+681,375,business loan,loan
+682,375,automobile loan,loan
+683,375,real estate loan,loan
+684,375,bank loan,loan
+685,375,interbank loan,loan
+686,375,call loan,loan
+687,375,participation loan,loan
+688,375,direct loan,loan
+689,375,time loan,loan
+690,375,debt,financial obligation
+691,375,bad debt,debt
+692,375,arrears,debt
+693,375,public debt,national debt
+694,375,national debt,debt
+695,375,national debt ceiling,national debt
+696,375,installment debt,debt
+697,375,installment credit,debt
+698,375,score,financial data
+699,391,leukocyte,empty
+700,391,granulocyte,leukocyte
+701,391,basophil,granulocyte
+702,391,eosinophil,granulocyte
+703,391,neutrophil,granulocyte
+704,391,lymphocyte,leukocyte
+705,391,B cell,lymphocyte
+706,391,T cell,lymphocyte
+707,391,killer T cell,T cell
+708,391,helper T cell,T cell
+709,391,plasmablast,lymphocyte
+710,391,plasma cell,plasmablast
+711,391,monocyte,leukocyte
+712,391,monoblast,monocyte
+713,395,disk,circle
+714,395,token,disk
+715,395,subway token,token
+716,395,planchet,token
+717,395,acetate disk,disk
+718,395,deadeye,disk
+719,395,Frisbee,circle
+720,395,diskus,circle
+721,395,puck,disk
+722,395,diaphragm,disk
+723,398,universal set,set
+724,398,subset,set
+725,398,subspace,set
+726,398,null set,set
+727,398,intersection,subset
+728,398,image,subset
+729,398,domain,set
+730,398,locus,set
+731,398,diagonal,subset
+732,398,field,set
+733,398,Abelian group,group
+734,398,subgroup,group
+735,398,Hilbert space,group
+736,398,manifold,group
+737,398,Euclidean space,metric space
+738,398,metric space,set
+739,398,origin,set
+740,398,null space,set
+741,398,scalar field,field
+742,398,closed interval,subset
+743,398,open interval,subset
+744,398,sub-interval,subset
+745,398,solution,set
+746,398,Mandelbrot set,set
+747,398,group,set
+748,407,pawn,lien
+749,407,artisan's lien,lien
+750,407,warehouseman's lien,lien
+751,407,mechanic's lien,lien
+752,407,garageman's lien,lien
+753,407,landlord's lien,lien
+754,407,general lien,lien
+755,407,tax lien,lien
+756,407,federal tax lien,tax lien
+757,407,state tax lien,tax lien
+758,407,mortgage,lien
+759,407,first mortgage,mortgage
+760,407,second mortgage,mortgage
+761,407,pledge,lien
+762,407,collateral,lien
+763,407,security interest,lien
+764,407,guarantee,lien
+765,407,chattel mortgage,lien
+766,409,procedure,legal action
+767,409,bureaucratic procedure,procedure
+768,409,hearing,procedure
+769,409,administrative hearing,hearing
+770,409,competence hearing,hearing
+771,409,review,hearing
+772,409,judicial review,review
+773,409,appeal,review
+774,409,retrial,review
+775,409,quo warranto,review
+776,409,litigation,legal action
+777,409,lawsuit,litigation
+778,409,civil suit,lawsuit
+779,409,criminal suit,lawsuit
+780,409,paternity suit,civil suit
+781,409,class action,civil suit
+782,409,custody case,civil suit
+783,409,adoption,custody case
+784,409,foreclosure,civil suit
+785,409,proceeding,legal action
+786,409,trial,proceeding
+787,409,Scopes trial,trial
+788,409,show trial,trial
+789,409,mistrial,trial
+790,409,court-martial,proceeding
+791,418,picture,<root>
+792,418,portrait,picture
+793,418,panorama,picture
+794,418,bitmap,picture
+795,418,viewgraph,picture
+796,418,graphic,picture
+797,418,sonogram,picture
+798,418,likeness,portrait
+799,418,self-portrait,portrait
+800,418,half-length,portrait
+801,418,reflection,portrait
+802,418,inset,panorama
+803,418,iconography,panorama
+804,418,collage,panorama
+805,418,grisaille,chiaroscuro
+806,418,chiaroscuro,picture
+807,418,Identikit,picture
+808,418,photomontage,picture
+809,418,slide,picture
+810,418,scan,picture
+811,42,lapel,flap
+812,42,coattail,flap
+813,42,tongue,flap
+814,42,jag,flap
+815,42,pocket flap,flap
+816,42,trouser cuff,cuff
+817,42,lap,lapel
+818,42,lappet,lapel
+819,42,barndoor,flap
+820,42,tent-fly,flap
+821,42,codpiece,flap
+822,42,revers,flap
+823,42,cuff,flap
+824,422,bedclothes,none
+825,422,mattress cover,bedclothes
+826,422,bedspread,bedclothes
+827,422,quilted bedspread,bedspread
+828,422,coverlet,bedspread
+829,422,blanket,bedclothes
+830,422,security blanket,blanket
+831,422,throw,blanket
+832,422,mackinaw,blanket
+833,422,quilt,none
+834,422,patchwork,quilt
+835,422,crazy quilt,quilt
+836,422,manta,none
+837,422,eiderdown,none
+838,422,afghan,quilt
+839,422,electric blanket,blanket
+840,430,run,football play
+841,430,tackle,run
+842,430,end run,run
+843,430,reverse,run
+844,430,pass,football play
+845,430,forward pass,pass
+846,430,lateral pass,pass
+847,430,flare pass,pass
+848,430,reverse,pass
+849,430,screen pass,pass
+850,430,spot pass,pass
+851,430,draw,pass
+852,430,touchback,pass
+853,430,double reverse,pass
+854,430,handoff,run
+855,430,power play,football play
+856,430,audible,football play
+857,430,return,football play
+858,440,animal fancier,fancier
+859,440,bird fancier,fancier
+860,440,cat fancier,fancier
+861,440,admirer,fancier
+862,440,suitor,admirer
+863,440,prince charming,admirer
+864,440,technophile,admirer
+865,440,maniac,admirer
+866,440,hero worshiper,admirer
+867,440,horseman,admirer
+868,440,worshiper,admirer
+869,455,pep,esprit
+870,455,pertness,energy
+871,455,mettlesomeness,energy
+872,455,exuberance,energy
+873,455,elan,energy
+874,455,irrepressibility,energy
+875,455,airiness,liveliness
+876,455,breeziness,liveliness
+877,455,sparkle,liveliness
+878,455,vitality,energy
+879,455,vivacity,energy
+880,455,irrepressibility,energy
+881,455,high-spiritedness,energy
+882,455,esprit,energy
+883,455,liveliness,energy
+884,455,alacrity,liveliness
+885,455,madness,energy
+886,455,lyricism,liveliness
+887,460,club,club
+888,460,bat,club
+889,460,knobkerrie,club
+890,460,lathi,club
+891,460,bastinado,club
+892,460,shillelagh,club
+893,460,bludgeon,club
+894,460,cudgel,club
+895,460,truncheon,club
+896,460,paddle,club
+897,460,blackjack,club
+898,460,Indian club,club
+899,460,bastinado,club
+900,460,baseball bat,bat
+901,460,table-tennis racquet,bat
+902,476,deal,
+903,476,award,deal
+904,476,grant,deal
+905,476,allotment,deal
+906,476,new deal,deal
+907,476,reshuffle,deal
+908,476,grant-in-aid,grant
+909,476,rationing,allotment
+910,476,parcel,allotment
+911,476,addiction,deal
+912,476,block grant,grant
+913,476,reallotment,allotment
+914,477,arts and crafts,handicraft
+915,477,bookbinding,handicraft
+916,477,lace making,handicraft
+917,477,netting,handicraft
+918,477,sewing,handicraft
+919,477,needlework,handicraft
+920,477,knitting,arts and crafts
+921,477,crocheting,arts and crafts
+922,477,spinning,arts and crafts
+923,477,weaving,lace making
+924,477,blind stitching,sewing
+925,491,mass culture,culture
+926,491,counterculture,culture
+927,491,vogue,mass culture
+928,491,fashion,mass culture
+929,491,haute couture,fashion
+930,491,New Look,fashion
+931,491,flower power,counterculture
+932,491,retro,counterculture
+933,491,bandwagon,counterculture
+934,491,cult of personality,mass culture
+935,491,delicacy,taste
+936,491,virtu,taste
+937,491,cut,fashion
+938,5,mean,statistic
+939,5,variance,statistic
+940,5,mean,statistic
+941,5,arithmetic mean,mean
+942,5,geometric mean,mean
+943,5,harmonic mean,mean
+944,5,mode,mean
+945,5,variance,statistic
+946,5,standard deviation,variance
+947,5,coefficient of concordance,variance
+948,5,deviation,mean
+949,5,second moment,variance
+950,5,correlation,statistic
+951,5,correlation coefficient,correlation
+952,5,product-moment correlation coefficient,correlation coefficient
+953,5,rank-order correlation coefficient,correlation coefficient
+954,5,tau coefficient of correlation,correlation coefficient
+955,5,biserial correlation coefficient,correlation coefficient
+956,5,phi coefficient,correlation coefficient
+957,5,tetrachoric correlation coefficient,correlation coefficient
+958,5,multiple correlation coefficient,correlation coefficient
+959,5,nonparametric statistic,statistic
+960,5,Kendall partial rank correlation,nonparametric statistic
+961,5,Kendall test,nonparametric statistic
+962,5,parametric statistic,statistic
+963,5,vital statistics,statistic
+964,5,demographic,vital statistics
+965,5,age norm,vital statistics
+966,5,time series,statistic
+967,5,regression coefficient,statistic
+968,5,covariance,statistic
+969,5,nonparametric statistic,statistic
+970,5,split-half correlation,nonparametric statistic
+971,5,outlier,statistic
+972,501,link,connection
+973,501,linkage,connection
+974,501,bridge,connection
+975,501,series,connection
+976,501,concatenation,series
+977,501,inclusion,series
+978,501,involvement,series
+979,501,communication,connection
+980,501,relevance,communication
+981,501,germaneness,communication
+982,501,implication,communication
+983,501,bearing,communication
+984,501,applicability,communication
+985,501,cogency,communication
+986,501,materiality,communication
+987,501,silver cord,link
+988,501,alliance,link
+989,514,metric linear unit,metric unit
+990,514,metric capacity unit,metric unit
+991,514,metric weight unit,metric unit
+992,514,gram atom,metric weight unit
+993,514,gram molecule,metric weight unit
+994,514,milligram,metric weight unit
+995,514,gram,metric weight unit
+996,514,decigram,metric weight unit
+997,514,dekaliter,metric weight unit
+998,514,hectogram,metric weight unit
+999,514,kilogram,metric weight unit
+1000,514,nanogram,metric weight unit
+1001,514,micron,millimeter
+1002,514,angstrom,millimeter
+1003,514,picometer,millimeter
+1004,514,meter,metric linear unit
+1005,514,centimeter,meter
+1006,514,decimeter,meter
+1007,514,dekameter,meter
+1008,514,hectometer,meter
+1009,514,kilometer,meter
+1010,514,myriameter,meter
+1011,514,liter,metric capacity unit
+1012,514,milliliter,liter
+1013,514,centiliter,liter
+1014,514,deciliter,liter
+1015,514,dekaliter,liter
+1016,514,hectoliter,liter
+1017,514,kiloliter,liter
+1018,514,cubic millimeter,liter
+1019,514,milligram,gram
+1020,514,centner,gram
+1021,514,hundredweight,gram
+1022,514,metric ton,gram
+1023,515,lama,priest
+1024,515,magus,priest
+1025,515,medicine man,priest
+1026,515,shaman,priest
+1027,515,votary,priest
+1028,515,Dalai Lama,lama
+1029,515,Panchen Lama,lama
+1030,515,rainmaker,magus
+1031,515,bacchant,magus
+1032,515,Ezra,priest
+1033,515,Rhea Silvia,priest
+1034,515,vestal virgin,priest
+1035,515,bacchante,bacchant
+1036,515,hoodoo,medicine man
+1037,515,flamen,magus
+1038,515,Druid,priest
+1039,525,diet,nothing
+1040,525,asceticism,diet
+1041,525,self-denial,asceticism
+1042,525,mortification,asceticism
+1043,525,inhibition,asceticism
+1044,525,abstinence,diet
+1045,525,teetotaling,abstinence
+1046,525,sobriety,abstinence
+1047,525,fast,diet
+1048,525,Ramadan,fast
+1049,525,sawm,fast
+1050,525,hunger strike,fast
+1051,525,chastity,diet
+1052,531,grand larceny,larceny
+1053,531,petit larceny,larceny
+1054,531,highway robbery,larceny
+1055,531,armed robbery,larceny
+1056,531,embezzlement,larceny
+1057,531,biopiracy,larceny
+1058,531,plunderage,larceny
+1059,531,highjacking,larceny
+1060,531,heist,larceny
+1061,531,shoplifting,larceny
+1062,531,skimming,larceny
+1063,531,breach of trust with fraudulent intent,larceny
+1064,531,pilferage,larceny
+1065,531,dacoity,larceny
+1066,531,rustling,larceny
+1067,531,raids,larceny
+1068,531,caper,larceny
+1069,531,robbery,larceny
+1070,532,plaintiff,litigant
+1071,532,filer,plaintiff
+1072,532,appellant,plaintiff
+1073,532,defendant,litigant
+1074,532,codefendant,defendant
+1075,532,respondent,litigant
+1076,532,correspondent,litigant
+1077,532,prevailing party,litigant
+1078,535,compassion,sympathy
+1079,535,empathy,sympathy
+1080,535,compatibility,empathy
+1081,535,mellowness,empathy
+1082,535,concern,sympathy
+1083,535,forgiveness,concern
+1084,535,commiseration,concern
+1085,535,kindheartedness,concern
+1086,535,solicitude,sympathy
+1087,535,tenderness,sympathy
+1088,535,heartstrings,sympathy
+1089,535,softheartedness,sympathy
+1090,535,mercifulness,sympathy
+1091,559,hang glider,rider
+1092,559,roughrider,rider
+1093,559,cyclist,rider
+1094,559,unicyclist,cyclist
+1095,559,pedaler,cyclist
+1096,559,Merckx,cyclist
+1097,559,jockey,rider
+1098,559,postilion,jockey
+1099,559,horseman,rider
+1100,559,horsewoman,horseman
+1101,559,picador,horseman
+1102,559,Hinault,horseman
+1103,559,fox hunter,horseman
+1104,559,bucker,horseman
+1105,559,bustler,horseman
+1106,561,cabbage,cruciferous vegetable
+1107,561,savoy cabbage,cabbage
+1108,561,red cabbage,cabbage
+1109,561,head cabbage,cabbage
+1110,561,Chinese cabbage,cabbage
+1111,561,broccoli rabe,cabbage
+1112,561,kohlrabi,cabbage
+1113,561,collards,cabbage
+1114,561,turnip,cabbage
+1115,561,white turnip,turnip
+1116,561,rutabaga,turnip
+1117,561,radish,turnip
+1118,561,broccoli,cruciferous vegetable
+1119,561,cauliflower,cruciferous vegetable
+1120,561,kale,cruciferous vegetable
+1121,561,bok choy,cruciferous vegetable
+1122,561,mustard,cruciferous vegetable
+1123,563,pelagic bird,procellariiform seabird
+1124,563,albatross,procellariiform seabird
+1125,563,petrel,procellariiform seabird
+1126,563,shearwater,procellariiform seabird
+1127,563,black-footed albatross,albatross
+1128,563,wandering albatross,albatross
+1129,563,stormy petrel,storm petrel
+1130,563,giant petrel,petrel
+1131,563,diving petrel,petrel
+1132,563,fulmar,shearwater
+1133,563,Manx shearwater,shearwater
+1134,563,Mother Carey's chicken,pelagic bird
+1135,569,musical time,tempo
+1136,569,common time,musical time
+1137,569,in time,common time
+1138,569,backbeat,common time
+1139,569,triple time,musical time
+1140,569,allegro,triple time
+1141,569,allegretto,triple time
+1142,569,duple time,musical time
+1143,569,downbeat,duple time
+1144,569,upbeat,duple time
+1145,569,rhythm,tempo
+1146,569,rubato,rhythm
+1147,569,syncopation,rhythm
+1148,569,meno mosso,tempo
+1149,569,accelerando,tempo
+1150,569,andante,tempo
+1151,577,homo,hominid
+1152,577,Homo sapiens,homo
+1153,577,Homo sapiens sapiens,Homo sapiens
+1154,577,Homo erectus,homo
+1155,577,Homo habilis,homo
+1156,577,australopithecine,hominid
+1157,577,Australopithecus afarensis,australopithecine
+1158,577,Australopithecus africanus,australopithecine
+1159,577,Australopithecus robustus,australopithecine
+1160,577,Australopithecus boisei,australopithecine
+1161,577,Paranthropus,australopithecine
+1162,577,Neandertal man,hominid
+1163,577,Pithecanthropus,hominid
+1164,577,Javanthropus,hominid
+1165,577,Peking man,hominid
+1166,577,Rhodesian man,hominid
+1167,577,Boskop man,hominid
+1168,577,Cro-magnon,hominid
+1169,577,dryopithecine,hominid
+1170,577,rudapithecus,hominid
+1171,577,Sinanthropus,hominid
+1172,577,Solo man,hominid
+1173,577,Homo soloensis,Homo soloensis
+1174,577,Zinjanthropus,hominid
+1175,577,Java man,hominid
+1176,577,Lucy,Australopithecus afarensis
+1177,577,Sivapithecus,hominid
+1178,577,Australopithecus africanus,australopithecine
+1179,58,salicylate,nonsteroidal anti-inflammatory
+1180,58,methyl salicylate,salicylate
+1181,58,salicylate,salicylate
+1182,58,aspirin,nonsteroidal anti-inflammatory
+1183,58,aspirin powder,aspirin
+1184,58,enteric-coated aspirin,aspirin
+1185,58,buffered aspirin,aspirin
+1186,58,naproxen sodium,nonsteroidal anti-inflammatory
+1187,58,diclofenac,nonsteroidal anti-inflammatory
+1188,58,diclofenac sodium,diclofenac
+1189,58,diclofenac potassium,diclofenac
+1190,58,nabumetone,nonsteroidal anti-inflammatory
+1191,58,mefenamic acid,nonsteroidal anti-inflammatory
+1192,58,piroxicam,nonsteroidal anti-inflammatory
+1193,58,oxaprozin,nonsteroidal anti-inflammatory
+1194,58,meclofenamate,nonsteroidal anti-inflammatory
+1195,58,fenoprofen,nonsteroidal anti-inflammatory
+1196,58,diflunisal,nonsteroidal anti-inflammatory
+1197,58,salol,nonsteroidal anti-inflammatory
+1198,58,ketoprofen,nonsteroidal anti-inflammatory
+1199,58,sulindac,nonsteroidal anti-inflammatory
+1200,58,indomethacin,nonsteroidal anti-inflammatory
+1201,58,flurbiprofen,nonsteroidal anti-inflammatory
+1202,58,etodolac,nonsteroidal anti-inflammatory
+1203,58,tolmetin sodium,nonsteroidal anti-inflammatory
+1204,58,ketorolac tromethamine,nonsteroidal anti-inflammatory
+1205,58,ibuprofen,aspirin
+1206,58,nabumetone,nonsteroidal anti-inflammatory
+1207,58,naproxen,nonsteroidal anti-inflammatory
+1208,584,genital herpes,venereal disease
+1209,584,chlamydia,venereal disease
+1210,584,gonorrhea,venereal disease
+1211,584,syphilis,venereal disease
+1212,584,primary syphilis,syphilis
+1213,584,secondary syphilis,syphilis
+1214,584,tertiary syphilis,syphilis
+1215,584,neurosyphilis,tertiary syphilis
+1216,584,tabes dorsalis,tertiary syphilis
+1217,584,granuloma inguinale,venereal disease
+1218,584,lymphogranuloma venereum,venereal disease
+1219,589,stanchion,post
+1220,589,shafts,post
+1221,589,support column,post
+1222,589,pilaster,post
+1223,589,telephone pole,post
+1224,589,newel post,post
+1225,589,lamppost,post
+1226,589,caryatid,post
+1227,589,whipping post,support column
+1228,589,hinging post,support column
+1229,589,carrick bitt,support column
+1230,589,column,support column
+1231,589,doorjamb,column
+1232,589,newel,column
+1233,589,stake,column
+1234,589,corner post,column
+1235,589,goalpost,column
+1236,589,sheet pile,pile
+1237,589,standard,pile
+1238,589,stake,pile
+1239,589,riderpost,support column
+1240,589,hitching post,support column
+1241,599,common horsetail,horsetail
+1242,599,marsh horsetail,horsetail
+1243,599,swamp horsetail,horsetail
+1244,599,wood horsetail,horsetail
+1245,599,variegated horsetail,horsetail
+1246,599,scouring rush,horsetail
+1247,599,spikemoss,root
+1248,599,meadow spikemoss,spikemoss
+1249,599,rock spikemoss,spikemoss
+1250,599,resurrection plant,spikemoss
+1251,599,club moss,root
+1252,599,club moss,club moss
+1253,599,shining clubmoss,club moss
+1254,599,alpine clubmoss,club moss
+1255,599,fir clubmoss,club moss
+1256,599,ground pine,root
+1257,599,ground fir,root
+1258,599,ground cedar,root
+1259,599,foxtail grass,root
+1260,599,selaginella,root
+1261,599,desert selaginella,selaginella
+1262,599,florida selaginella,selaginella
+1263,599,fern ally,root
+1264,599,whisk fern,fern ally
+1265,599,skeleton fork fern,fern ally
+1266,599,running pine,fern ally
+1267,599,quillwort,root
+1268,607,tribal society,society
+1269,607,hunting and gathering tribe,tribal society
+1270,607,civilization,society
+1271,607,Minoan civilization,civilization
+1272,607,Mycenaean civilization,civilization
+1273,607,Helladic civilization,civilization
+1274,607,Aegean civilization,civilization
+1275,607,Cycladic civilization,civilization
+1276,607,Indus civilization,civilization
+1277,607,Paleo-American culture,civilization
+1278,607,Clovis culture,Paleo-American culture
+1279,607,Folsom culture,Paleo-American culture
+1280,607,Western culture,civilization
+1281,607,Islam,civilization
+1282,607,open society,society
+1283,608,exhibitionism,paraphilia
+1284,608,voyeurism,paraphilia
+1285,608,fetishism,paraphilia
+1286,608,perversion,paraphilia
+1287,608,pedophilia,paraphilia
+1288,608,zoophilia,paraphilia
+1289,608,sodomy,paraphilia
+1290,608,oral sex,paraphilia
+1291,608,cunnilingus,oral sex
+1292,608,fellatio,oral sex
+1293,608,cock sucking,oral sex
+1294,608,soixante-neuf,oral sex
+1295,608,pederasty,paraphilia
+1296,619,corrugated board,cardboard
+1297,619,paperboard,cardboard
+1298,619,millboard,paperboard
+1299,619,pasteboard,paperboard
+1300,619,card,paperboard
+1301,619,timecard,card
+1302,619,excelsior,packing material
+1303,619,binder's board,paperboard
+1304,619,strawboard,paperboard
+1305,625,summer squash,squash
+1306,625,winter squash,squash
+1307,625,zucchini,summer squash
+1308,625,yellow squash,summer squash
+1309,625,cushaw,summer squash
+1310,625,cocozelle,summer squash
+1311,625,spaghetti squash,summer squash
+1312,625,acorn squash,winter squash
+1313,625,butternut squash,winter squash
+1314,625,marrow,winter squash
+1315,625,turbin squash,winter squash
+1316,625,buttercup squash,winter squash
+1317,625,hubbard squash,winter squash
+1318,625,cymling,winter squash
+1319,625,winter crookneck,winter squash
+1320,625,pumpkin,winter squash
+1321,626,salesperson,salesperson
+1322,626,salesclerk,salesperson
+1323,626,salesgirl,salesperson
+1324,626,salesman,salesperson
+1325,626,shop boy,salesperson
+1326,626,pitchman,salesperson
+1327,626,demonstrator,salesperson
+1328,626,book agent,salesperson
+1329,626,midinette,salesperson
+1330,626,tallyman,salesperson
+1331,626,traveling salesman,salesperson
+1332,631,adelgid,aphid
+1333,631,greenfly,aphid
+1334,631,plant louse,aphid
+1335,631,apple aphid,plant louse
+1336,631,pine leaf aphid,greenfly
+1337,631,blackfly,greenfly
+1338,631,spruce gall aphid,greenfly
+1339,631,green peach aphid,greenfly
+1340,631,woolly alder aphid,plant louse
+1341,631,pale chrysanthemum aphid,plant louse
+1342,631,woolly aphid,plant louse
+1343,631,balsam woolly aphid,aphid
+1344,631,woolly adelgid,adelgid
+1345,635,anthropoid ape,great ape
+1346,635,lesser ape,great ape
+1347,635,gibbon,anthropoid ape
+1348,635,siamang,anthropoid ape
+1349,635,chimpanzee,great ape
+1350,635,pygmy chimpanzee,chimpanzee
+1351,635,central chimpanzee,chimpanzee
+1352,635,eastern chimpanzee,chimpanzee
+1353,635,gorilla,great ape
+1354,635,eastern lowland gorilla,gorilla
+1355,635,western lowland gorilla,gorilla
+1356,635,mountain gorilla,gorilla
+1357,635,silverback,gorilla
+1358,635,orangutan,great ape
+1359,64,fragment,root
+1360,64,scraping,fragment
+1361,64,spark,fragment
+1362,64,splint,fragment
+1363,64,bit,splint
+1364,64,clast,splint
+1365,64,matchwood,splint
+1366,64,paring,scraping
+1367,64,filing,scraping
+1368,64,iron filing,filing
+1369,64,splinter,splint
+1370,64,scale,fragment
+1371,64,dandruff,scale
+1372,64,scurf,scale
+1373,64,ember,spark
+1374,64,cinder,spark
+1375,64,dander,scale
+1376,64,restriction fragment,bit
+1377,64,metal filing,filing
+1378,640,prophet,diviner
+1379,640,prophetess,diviner
+1380,640,augur,prophet
+1381,640,sibyl,prophet
+1382,640,necromancer,diviner
+1383,640,Cassandra,necromancer
+1384,640,geomancer,diviner
+1385,640,water witch,diviner
+1386,640,hydromancer,diviner
+1387,640,pyromancer,diviner
+1388,640,onomancer,diviner
+1389,640,oneiromancer,diviner
+1390,640,lithomancer,diviner
+1391,648,presenile dementia,dementia
+1392,648,senile dementia,dementia
+1393,648,Alzheimer's disease,dementia
+1394,648,Pick's disease,dementia
+1395,648,craziness,dementia
+1396,648,insanity,dementia
+1397,648,lunacy,dementia
+1398,648,irrationality,dementia
+1399,648,derangement,dementia
+1400,648,alcoholic dementia,dementia
+1401,652,ascomycete,none
+1402,652,discomycete,ascomycete
+1403,652,Sarcosomataceae,discomycete
+1404,652,Sarcoscypha coccinea,Sarcosomataceae
+1405,652,Caloscypha fulgens,Sarcosomataceae
+1406,652,Leotia lubrica,Geglossaceae
+1407,652,Geglossaceae,discomycete
+1408,652,Pezizaceae,discomycete
+1409,652,Peziza domicilina,Pezizaceae
+1410,652,Aleuria aurantia,Pezizaceae
+1411,652,Clavicipitaceae,ascomycete
+1412,652,Jafnea semitosta,Clavicipitaceae
+1413,652,Urnula craterium,discomycete
+1414,652,Mitrula elegans,discomycete
+1415,652,Galiella rufa,discomycete
+1416,652,devil's cigar,discomycete
+1417,652,devil's urn,discomycete
+1418,652,grainy club,discomycete
+1419,661,calculator,calculator
+1420,661,abacus,calculator
+1421,661,Napier's bones,calculator
+1422,661,hand calculator,calculator
+1423,661,counter,abacus
+1424,661,adder,hand calculator
+1425,661,subtracter,hand calculator
+1426,661,scaler,hand calculator
+1427,661,adding machine,hand calculator
+1428,661,pulse counter,adding machine
+1429,661,quipu,calculator
+1430,675,law enforcement agency,none
+1431,675,police,law enforcement agency
+1432,675,secret police,police
+1433,675,gendarmerie,police
+1434,675,Royal Canadian Mounted Police,police
+1435,675,posse,police
+1436,675,Mutawa'een,police
+1437,675,Scotland Yard,police
+1438,675,Federal Bureau of Investigation,police
+1439,675,Bureau of Alcohol Tobacco and Firearms,police
+1440,675,Drug Enforcement Administration,police
+1441,675,Criminal Investigation Command,police
+1442,675,United States Marshals Service,police
+1443,675,Federal Bureau of Prisons,police
+1444,675,Federal Law Enforcement Training Center,police
+1445,675,Federal Judiciary,none
+1446,675,National Institute of Justice,none
+1447,675,Schutzstaffel,secret police
+1448,675,Gestapo,secret police
+1449,675,Europol,law enforcement agency
+1450,675,Financial Crimes Enforcement Network,law enforcement agency
+1451,683,fatal accident,accident
+1452,683,crash,accident
+1453,683,collision,accident
+1454,683,capsizing,accident
+1455,683,shipwreck,accident
+1456,683,injury,accident
+1457,683,concussion,injury
+1458,683,mutilation,injury
+1459,683,dismemberment,injury
+1460,683,fender-bender,crash
+1461,683,smash,crash
+1462,683,pileup,collision
+1463,683,prang,crash
+1464,683,collateral damage,accident
+1465,685,insult,behavior
+1466,685,discourtesy,behavior
+1467,685,indignity,behavior
+1468,685,self-assertion,behavior
+1469,685,insolence,self-assertion
+1470,685,aggression,insolence
+1471,685,bullying,insolence
+1472,685,derision,insolence
+1473,685,bohemianism,self-assertion
+1474,685,insolence,behavior
+1475,685,scandalization,insult
+1476,685,terrorization,insult
+1477,685,twit,insult
+1478,685,discourtesy,behavior
+1479,685,rebuff,discourtesy
+1480,685,raising hell,discourtesy
+1481,685,aggravation,discourtesy
+1482,685,aggro,discourtesy
+1483,685,dirty tricks,discourtesy
+1484,685,indelicacy,behavior
+1485,685,indignity,indelicacy
+1486,685,mock,indelicacy
+1487,685,bitchery,indelicacy
+1488,685,easiness,indelicacy
+1489,685,the way of the world,behavior
+1490,685,dirty pool,behavior
+1491,685,last straw,behavior
+1492,685,silent treatment,behavior
+1493,697,sunlight,light
+1494,697,moonlight,light
+1495,697,daylight,light
+1496,697,starlight,light
+1497,697,laser beam,light
+1498,697,sunbeam,sunlight
+1499,697,sunburst,sunlight
+1500,697,heat ray,sunlight
+1501,697,moonbeam,moonlight
+1502,697,corona,moonlight
+1503,697,torchlight,light
+1504,697,lamplight,light
+1505,697,candlelight,light
+1506,697,firelight,light
+1507,697,incandescence,light
+1508,697,glow,light
+1509,697,fluorescence,light
+1510,697,phosphorescence,light
+1511,697,bioluminescence,light
+1512,697,radiance,light
+1513,697,scintillation,light
+1514,697,autofluorescence,light
+1515,697,chemiluminescence,light
+1516,697,infrared ray,light
+1517,697,streamer,light
+1518,697,twilight,light
+1519,697,friar's lantern,light
+1520,697,sky glow,light
+1521,697,counterglow,light
+1522,697,aureole,light
+1523,697,high beam,light
+1524,697,low beam,light
+1525,697,meteor,light
+1526,698,crucifix,gymnastic exercise
+1527,698,hang,gymnastic exercise
+1528,698,straight hang,hang
+1529,698,reverse hang,hang
+1530,698,inverted hang,hang
+1531,698,bent hang,hang
+1532,698,scissors,gymnastic exercise
+1533,698,double leg circle,gymnastic exercise
+1534,698,kip,gymnastic exercise
+1535,698,grand circle,gymnastic exercise
+1536,698,straddle,gymnastic exercise
+1537,698,lever hang,hang
+1538,698,dip,gymnastic exercise
+1539,698,long fly,gymnastic exercise
+1540,698,piked reverse hang,reverse hang
+1541,710,neckwear,neckwear
+1542,710,necktie,neckwear
+1543,710,four-in-hand,necktie
+1544,710,Windsor tie,necktie
+1545,710,black tie,necktie
+1546,710,white tie,necktie
+1547,710,string tie,necktie
+1548,710,bolo tie,necktie
+1549,710,bow tie,necktie
+1550,710,cravat,bow tie
+1551,710,old school tie,necktie
+1552,710,ascot,necktie
+1553,735,vestment,vestment
+1554,735,chasuble,vestment
+1555,735,alb,vestment
+1556,735,surplice,vestment
+1557,735,soutane,vestment
+1558,735,pallium,vestment
+1559,735,pontifical,vestment
+1560,735,humeral veil,chasuble
+1561,735,Geneva gown,surplice
+1562,735,academic gown,gown
+1563,735,cassock,vestment
+1564,737,acrobatic stunt,root
+1565,737,walkover,acrobatic stunt
+1566,737,headstand,acrobatic stunt
+1567,737,back circle,acrobatic stunt
+1568,737,backbend,acrobatic stunt
+1569,737,somersault,acrobatic stunt
+1570,737,tumble,acrobatic stunt
+1571,737,flip-flop,somersault
+1572,737,cartwheel,handspring
+1573,737,handspring,acrobatic stunt
+1574,737,split,acrobatic stunt
+1575,742,thymus gland,endocrine gland
+1576,742,thyroid gland,endocrine gland
+1577,742,parathyroid gland,endocrine gland
+1578,742,pineal gland,endocrine gland
+1579,742,adrenal gland,endocrine gland
+1580,742,adrenal medulla,adrenal gland
+1581,742,adrenal cortex,adrenal gland
+1582,742,testis,gonad
+1583,742,ovary,gonad
+1584,742,ovotestis,gonad
+1585,742,undescended testis,testis
+1586,742,posterior pituitary,testis
+1587,742,pars intermedia,testis
+1588,742,anterior pituitary,testis
+1589,742,corpus luteum,ovary
+1590,742,prostate gland,gonad
+1591,742,pituitary,testis
+1592,752,possible,applicant
+1593,752,probable,applicant
+1594,752,aspirant,applicant
+1595,752,postulant,aspirant
+1596,752,fundraiser,aspirant
+1597,752,bidder,applicant
+1598,752,submitter,bidder
+1599,752,claimant,applicant
+1600,752,petitioner,claimant
+1601,752,besieger,claimant
+1602,752,material,applicant
+1603,752,solicitor,applicant
+1604,752,pretender,applicant
+1605,752,job candidate,bidder
+1606,755,saw,saw
+1607,755,hacksaw,saw
+1608,755,compass saw,saw
+1609,755,ripsaw,saw
+1610,755,backsaw,saw
+1611,755,keyhole saw,saw
+1612,755,folding saw,saw
+1613,755,coping saw,saw
+1614,755,crosscut saw,saw
+1615,755,two-handed saw,hacksaw
+1616,755,pruning saw,hacksaw
+1617,755,pitsaw,keyhole saw
+1618,755,crown saw,keyhole saw
+1619,755,buck saw,ripsaw
+1620,755,handsaw,saw
+1621,755,bill saw,handsaw
+1622,755,pruner,handsaw
+1623,757,pollen,spore
+1624,757,megaspore,spore
+1625,757,microspore,spore
+1626,757,conidium,spore
+1627,757,pollinium,pollen
+1628,757,endospore,spore
+1629,757,chlamydospore,spore
+1630,757,resting spore,spore
+1631,757,zoospore,spore
+1632,757,ascospore,spore
+1633,757,basidiospore,spore
+1634,757,teliospore,spore
+1635,757,oospore,spore
+1636,757,zygospore,spore
+1637,757,tetraspore,spore
+1638,757,carpospore,spore
+1639,757,aeciospore,spore
+1640,757,agamete,spore
+1641,757,fern seed,spore
+1642,757,ragweed pollen,pollen
+1643,78,native,root
+1644,78,Russian,native
+1645,78,Muscovite,Russian
+1646,78,Great Russian,Russian
+1647,78,Siberian,Russian
+1648,78,Mordva,Russian
+1649,78,Filipino,native
+1650,78,Tagalog,Filipino
+1651,78,Moro,Filipino
+1652,78,Visayan,Filipino
+1653,78,Seychellois,native
+1654,78,Levantine,native
+1655,78,Karelian,Russian
+1656,78,Ingrian,Russian
+1657,78,Samoyed,native
+1658,78,Vogul,Samoyed
+1659,78,Selkup,Samoyed
+1660,78,Nganasan,Samoyed
+1661,78,Ostyak,Samoyed
+1662,78,Georgian,native
+1663,78,Chechen,native
+1664,78,Mauritian,native
+1665,78,Cebuan,Filipino
+1666,78,Chukchi,native
+1667,78,Tatar,Russian
+1668,8,square dance,
+1669,8,country-dance,square dance
+1670,8,promenade,country-dance
+1671,8,longways,country-dance
+1672,8,reel,square dance
+1673,8,do-si-do,square dance
+1674,8,lancers,square dance
+1675,8,sashay,square dance
+1676,8,quadrille,square dance
+1677,8,Virginia reel,reel
+1678,8,eightsome,reel
+1679,8,landler,reel
+1680,8,highland fling,reel
+1681,8,swing,country-dance
+1682,86,bottlenose dolphin,toothed whale
+1683,86,common dolphin,toothed whale
+1684,86,porpoise,toothed whale
+1685,86,pilot whale,toothed whale
+1686,86,sperm whale,toothed whale
+1687,86,vaquita,toothed whale
+1688,86,killer whale,toothed whale
+1689,86,bottle-nosed whale,killer whale
+1690,86,Pacific bottlenose dolphin,bottlenose dolphin
+1691,86,Atlantic bottlenose dolphin,bottlenose dolphin
+1692,86,pygmy sperm whale,sperm whale
+1693,86,dwarf sperm whale,sperm whale
+1694,86,harbor porpoise,porpoise
+1695,86,grampus,toothed whale
+1696,86,beaked whale,toothed whale
+1697,86,river dolphin,toothed whale
+1698,86,white whale,toothed whale
+1699,88,screening,examination
+1700,88,contrast,examination
+1701,88,audit,examination
+1702,88,comparison,examination
+1703,88,search,examination
+1704,88,palpation,search
+1705,88,keratoscopy,search
+1706,88,confrontation,palpation
+1707,88,endoscopy,examination
+1708,88,gastroscopy,endoscopy
+1709,88,sigmoidoscopy,endoscopy
+1710,88,proctoscopy,endoscopy
+1711,88,colonoscopy,endoscopy
+1712,88,rhinoscopy,examination
+1713,88,ophthalmoscopy,examination
+1714,88,gonioscopy,ophthalmoscopy
+1715,88,genetic screening,examination
+1716,88,ballottement,examination
+1717,88,autopsy,examination
+1718,88,celioscopy,examination
+1719,88,checkup,examination
+1720,88,spot check,checkup
+1721,88,follow-up,checkup
+1722,88,inspection,examination
+1723,88,going-over,inspection
+1724,88,bank examination,examination
+1725,88,culdoscopy,examination
+1726,88,screening,examination
+1727,88,scan,search
+1728,88,resurvey,search
+1729,88,fine-tooth comb,search
+1730,88,collation,search
+1731,88,testing,examination
+1732,88,once-over,inspection
+1733,88,analogy,comparison
+1734,88,likening,analogy
+1735,88,confrontation,palpation
+1736,88,hysteroscopy,endoscopy
+1737,88,culdoscopy,endoscopy
+1738,88,gastroscopy,endoscopy
+1739,9,withdrawer,addict
+1740,9,drug addict,addict
+1741,9,head,addict
+1742,9,tripper,head
+1743,9,pothead,head
+1744,9,hash head,head
+1745,9,speed freak,head
+1746,9,pill head,drug addict
+1747,9,heroin addict,drug addict
+1748,9,cocaine addict,drug addict
+1749,9,acid head,drug addict
+1750,9,crack addict,drug addict
+1751,9,opium addict,drug addict
+1752,9,caffeine addict,drug user
+1753,92,Eagle Scout,Boy Scout
+1754,92,Cub Scout,Boy Scout
+1755,92,Scout,Boy Scout
+1756,92,schoolboy,Boy Scout
+1757,92,Sea Scout,Scout
+1758,92,Girl Scout,Scout
+1759,92,farm boy,Boy Scout
+1760,92,plowboy,Boy Scout
+1761,92,altar boy,Boy Scout
+1762,92,rover,Boy Scout
+1763,92,shop boy,Boy Scout
+1764,92,bat boy,Boy Scout
+1765,92,ball boy,Boy Scout
+1766,92,male child,Boy Scout
+1767,92,catamite,Boy Scout
+1768,92,Cub,Girl Scout
+1769,92,Fauntleroy,Boy Scout
+1770,92,Brownie,Girl Scout

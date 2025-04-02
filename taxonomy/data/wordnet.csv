@@ -1,0 +1,1948 @@
+,parent,child,group,type
+99,statistic,deviation,5,train
+100,statistic,demographic,5,train
+101,statistic,average,5,train
+102,statistic,nonparametric statistic,5,train
+103,statistic,moment,5,train
+104,statistic,vital statistics,5,train
+105,statistic,parametric statistic,5,train
+106,statistic,time series,5,train
+107,deviation,outlier,5,train
+108,deviation,mean deviation,5,train
+109,average,median,5,train
+110,average,mean,5,train
+111,average,age norm,5,train
+112,average,mode,5,train
+113,mean,arithmetic mean,5,train
+114,mean,harmonic mean,5,train
+115,mean,geometric mean,5,train
+116,nonparametric statistic,rank-order correlation coefficient,5,train
+117,nonparametric statistic,Kendall test,5,train
+118,nonparametric statistic,phi coefficient,5,train
+119,Kendall test,coefficient of concordance,5,train
+120,Kendall test,tau coefficient of correlation,5,train
+121,Kendall test,Kendall partial rank correlation,5,train
+122,moment,second moment,5,train
+123,moment,variance,5,train
+124,variance,standard deviation,5,train
+125,variance,covariance,5,train
+126,parametric statistic,regression coefficient,5,train
+127,parametric statistic,correlation coefficient,5,train
+128,correlation coefficient,multiple correlation coefficient,5,train
+129,correlation coefficient,tetrachoric correlation coefficient,5,train
+130,correlation coefficient,product-moment correlation coefficient,5,train
+131,correlation coefficient,split-half correlation,5,train
+132,correlation coefficient,biserial correlation coefficient,5,train
+180,country-dance,landler,8,train
+181,country-dance,square dance,8,train
+182,country-dance,promenade,8,train
+183,country-dance,longways,8,train
+184,country-dance,do-si-do,8,train
+185,country-dance,sashay,8,train
+186,country-dance,swing,8,train
+187,square dance,reel,8,train
+188,square dance,quadrille,8,train
+189,reel,eightsome,8,train
+190,reel,highland fling,8,train
+191,quadrille,lancers,8,train
+192,longways,Virginia reel,8,train
+193,drug user,head,9,train
+194,drug user,tripper,9,train
+195,drug user,addict,9,train
+196,head,pill head,9,train
+197,head,pothead,9,train
+198,head,acid head,9,train
+199,head,hash head,9,train
+200,addict,drug addict,9,train
+201,addict,caffeine addict,9,train
+202,addict,speed freak,9,train
+203,drug addict,cocaine addict,9,train
+204,drug addict,opium addict,9,train
+205,drug addict,crack addict,9,train
+206,drug addict,withdrawer,9,train
+207,drug addict,heroin addict,9,train
+208,influence,hypnotism,10,train
+209,influence,exposure,10,train
+210,influence,enticement,10,train
+211,influence,manipulation,10,train
+212,influence,impingement,10,train
+213,influence,cross-pollination,10,train
+214,exposure,overexposure,10,train
+215,exposure,underexposure,10,train
+216,enticement,blandishment,10,train
+217,enticement,leading astray,10,train
+218,enticement,solicitation,10,train
+219,enticement,seduction,10,train
+220,blandishment,ingratiation,10,train
+221,manipulation,mind game,10,train
+251,coefficient,coefficient of viscosity,13,train
+252,coefficient,transmittance,13,train
+253,coefficient,drag coefficient,13,train
+254,coefficient,coefficient of self induction,13,train
+255,coefficient,weight,13,train
+256,coefficient,absorption coefficient,13,train
+257,coefficient,coefficient of reflection,13,train
+258,coefficient,modulus,13,train
+259,coefficient,coefficient of mutual induction,13,train
+260,coefficient,coefficient of friction,13,train
+261,coefficient,coefficient of expansion,13,train
+262,modulus,coefficient of elasticity,13,train
+263,coefficient of elasticity,bulk modulus,13,train
+264,coefficient of elasticity,modulus of rigidity,13,train
+265,coefficient of elasticity,Young's modulus,13,train
+293,air travel,flight,15,train
+294,flight,pass,15,train
+295,flight,terrain flight,15,train
+296,flight,ballooning,15,train
+297,flight,blind flying,15,train
+298,flight,solo,15,train
+299,flight,acrobatics,15,train
+300,flight,overflight,15,train
+301,flight,maiden flight,15,train
+302,flight,sortie,15,train
+303,flight,glide,15,train
+304,flight,flyover,15,train
+305,acrobatics,tailspin,15,train
+306,glide,hang gliding,15,train
+307,glide,parasailing,15,train
+321,education,elementary education,17,train
+322,education,continuing education,17,train
+323,education,coeducation,17,train
+324,education,course,17,train
+325,education,team teaching,17,train
+326,education,work-study program,17,train
+327,education,higher education,17,train
+328,education,secondary education,17,train
+329,education,extracurricular activity,17,train
+330,education,extension,17,train
+331,course,orientation course,17,train
+332,course,course of lectures,17,train
+333,course,propaedeutic,17,train
+334,course,shop class,17,train
+335,course,home study,17,train
+336,course,childbirth-preparation class,17,train
+337,course,seminar,17,train
+338,course,refresher course,17,train
+339,course,adult education,17,train
+340,course,directed study,17,train
+341,course,extension course,17,train
+342,course,correspondence course,17,train
+343,course,elective course,17,train
+344,course,required course,17,train
+345,course,workshop,17,train
+346,course,industrial arts,17,train
+347,course,art class,17,train
+348,art class,life class,17,train
+349,extracurricular activity,dramatics,17,train
+350,extracurricular activity,athletics,17,train
+470,New World monkey,squirrel monkey,24,train
+471,New World monkey,howler monkey,24,train
+472,New World monkey,titi,24,train
+473,New World monkey,uakari,24,train
+474,New World monkey,capuchin,24,train
+475,New World monkey,woolly monkey,24,train
+476,New World monkey,marmoset,24,train
+477,New World monkey,spider monkey,24,train
+478,New World monkey,saki,24,train
+479,New World monkey,douroucouli,24,train
+480,marmoset,tamarin,24,train
+481,marmoset,pygmy marmoset,24,train
+482,marmoset,true marmoset,24,train
+483,tamarin,silky tamarin,24,train
+484,tamarin,pinche,24,train
+538,agglomeration,ball,28,train
+539,agglomeration,bunch,28,train
+540,ball,clew,28,train
+541,ball,clot,28,train
+542,ball,gob,28,train
+543,clot,embolus,28,train
+544,clot,thrombus,28,train
+545,bunch,Omega Centauri,28,train
+546,bunch,Pleiades,28,train
+547,bunch,knot,28,train
+548,bunch,Northern Cross,28,train
+549,bunch,swad,28,train
+550,bunch,tuft,28,train
+551,tuft,witches' broom,28,train
+552,tuft,coma,28,train
+553,tuft,wisp,28,train
+633,feather,marabou,33,train
+634,feather,contour feather,33,train
+635,feather,aftershaft,33,train
+636,feather,hackle,33,train
+637,feather,bastard wing,33,train
+638,feather,down,33,train
+639,feather,scapular,33,train
+640,feather,flight feather,33,train
+641,hackle,saddle hackle,33,train
+642,down,goose down,33,train
+643,down,plumule,33,train
+644,down,duck down,33,train
+645,down,swan's down,33,train
+646,duck down,eiderdown,33,train
+647,flight feather,primary,33,train
+648,flight feather,tail feather,33,train
+649,tail feather,sickle feather,33,train
+676,success,winning,36,train
+677,success,passing,36,train
+678,success,seduction,36,train
+679,success,bell ringer,36,train
+680,success,conquest,36,train
+681,success,flying colors,36,train
+682,success,hit,36,train
+683,success,coup,36,train
+684,success,solution,36,train
+685,success,score,36,train
+686,success,overturn,36,train
+687,seduction,sexual conquest,36,train
+688,sexual conquest,cuckoldry,36,train
+689,hit,blockbuster,36,train
+690,hit,sleeper,36,train
+691,score,strike,36,train
+692,score,spare,36,train
+693,score,goal,36,train
+694,score,conversion,36,train
+695,score,equalizer,36,train
+696,score,field goal,36,train
+697,score,basket,36,train
+698,score,run,36,train
+699,score,bull's eye,36,train
+700,score,open frame,36,train
+701,score,touchdown,36,train
+702,score,break,36,train
+703,score,safety,36,train
+704,score,hat trick,36,train
+705,goal,own goal,36,train
+706,conversion,point after,36,train
+707,run,earned run,36,train
+708,run,run batted in,36,train
+709,run,unearned run,36,train
+844,flap,codpiece,42,train
+845,flap,pocket flap,42,train
+846,flap,lap,42,train
+847,flap,tent-fly,42,train
+848,flap,earflap,42,train
+849,flap,jag,42,train
+850,flap,coattail,42,train
+851,flap,tongue,42,train
+852,flap,barndoor,42,train
+853,lap,cuff,42,train
+854,lap,lappet,42,train
+855,lap,lapel,42,train
+856,cuff,trouser cuff,42,train
+857,lapel,revers,42,train
+1154,nonsteroidal anti-inflammatory,meclofenamate,58,train
+1155,nonsteroidal anti-inflammatory,oxaprozin,58,train
+1156,nonsteroidal anti-inflammatory,naproxen,58,train
+1157,nonsteroidal anti-inflammatory,nabumetone,58,train
+1158,nonsteroidal anti-inflammatory,fenoprofen,58,train
+1159,nonsteroidal anti-inflammatory,etodolac,58,train
+1160,nonsteroidal anti-inflammatory,diclofenac sodium,58,train
+1161,nonsteroidal anti-inflammatory,tolmetin sodium,58,train
+1162,nonsteroidal anti-inflammatory,ibuprofen,58,train
+1163,nonsteroidal anti-inflammatory,diclofenac potassium,58,train
+1164,nonsteroidal anti-inflammatory,salicylate,58,train
+1165,nonsteroidal anti-inflammatory,sulindac,58,train
+1166,nonsteroidal anti-inflammatory,ketorolac tromethamine,58,train
+1167,nonsteroidal anti-inflammatory,piroxicam,58,train
+1168,nonsteroidal anti-inflammatory,ketoprofen,58,train
+1169,nonsteroidal anti-inflammatory,indomethacin,58,train
+1170,nonsteroidal anti-inflammatory,ketorolac,58,train
+1171,nonsteroidal anti-inflammatory,flurbiprofen,58,train
+1172,nonsteroidal anti-inflammatory,diflunisal,58,train
+1173,nonsteroidal anti-inflammatory,naproxen sodium,58,train
+1174,nonsteroidal anti-inflammatory,mefenamic acid,58,train
+1175,salicylate,aspirin,58,train
+1176,salicylate,methyl salicylate,58,train
+1177,salicylate,salol,58,train
+1178,aspirin,aspirin powder,58,train
+1179,aspirin,buffered aspirin,58,train
+1180,aspirin,enteric-coated aspirin,58,train
+1294,fragment,spall,64,train
+1295,fragment,ember,64,train
+1296,fragment,bit,64,train
+1297,fragment,paring,64,train
+1298,fragment,filing,64,train
+1299,fragment,cinder,64,train
+1300,fragment,brickbat,64,train
+1301,fragment,scraping,64,train
+1302,fragment,clast,64,train
+1303,fragment,restriction fragment,64,train
+1304,fragment,spark,64,train
+1305,bit,splinter,64,train
+1306,bit,scurf,64,train
+1307,bit,scale,64,train
+1308,bit,matchwood,64,train
+1309,scale,dandruff,64,train
+1310,scale,dander,64,train
+1311,paring,splint,64,train
+1312,paring,turning,64,train
+1313,filing,metal filing,64,train
+1314,metal filing,iron filing,64,train
+1550,native,Seychellois,78,train
+1551,native,Filipino,78,train
+1552,native,Russian,78,train
+1553,native,Levantine,78,train
+1554,native,Mauritian,78,train
+1555,Filipino,Moro,78,train
+1556,Filipino,Tagalog,78,train
+1557,Filipino,Visayan,78,train
+1558,Visayan,Cebuan,78,train
+1559,Russian,Mordva,78,train
+1560,Russian,Karelian,78,train
+1561,Russian,Cheremis,78,train
+1562,Russian,Georgian,78,train
+1563,Russian,Vogul,78,train
+1564,Russian,Ostyak,78,train
+1565,Russian,Selkup,78,train
+1566,Russian,Komi,78,train
+1567,Russian,Yeniseian,78,train
+1568,Russian,Chechen,78,train
+1569,Russian,Nganasan,78,train
+1570,Russian,Veps,78,train
+1571,Russian,Udmurt,78,train
+1572,Russian,Siberian,78,train
+1573,Russian,Samoyed,78,train
+1574,Russian,Muscovite,78,train
+1575,Russian,Tatar,78,train
+1576,Russian,Ingrian,78,train
+1577,Russian,Great Russian,78,train
+1578,Siberian,Chukchi,78,train
+1698,toothed whale,beaked whale,86,train
+1699,toothed whale,sperm whale,86,train
+1700,toothed whale,dwarf sperm whale,86,train
+1701,toothed whale,pygmy sperm whale,86,train
+1702,toothed whale,dolphin,86,train
+1703,beaked whale,bottle-nosed whale,86,train
+1704,dolphin,white whale,86,train
+1705,dolphin,common dolphin,86,train
+1706,dolphin,killer whale,86,train
+1707,dolphin,pilot whale,86,train
+1708,dolphin,river dolphin,86,train
+1709,dolphin,bottlenose dolphin,86,train
+1710,dolphin,grampus,86,train
+1711,dolphin,porpoise,86,train
+1712,bottlenose dolphin,Atlantic bottlenose dolphin,86,train
+1713,bottlenose dolphin,Pacific bottlenose dolphin,86,train
+1714,porpoise,harbor porpoise,86,train
+1715,porpoise,vaquita,86,train
+1740,examination,bank examination,88,train
+1741,examination,ophthalmoscopy,88,train
+1742,examination,comparison,88,train
+1743,examination,once-over,88,train
+1744,examination,survey,88,train
+1745,examination,rhinoscopy,88,train
+1746,examination,audit,88,train
+1747,examination,testing,88,train
+1748,examination,scan,88,train
+1749,examination,palpation,88,train
+1750,examination,gonioscopy,88,train
+1751,examination,fine-tooth comb,88,train
+1752,examination,endoscopy,88,train
+1753,examination,search,88,train
+1754,examination,going-over,88,train
+1755,examination,checkup,88,train
+1756,examination,inspection,88,train
+1757,examination,keratoscopy,88,train
+1758,examination,follow-up,88,train
+1759,examination,autopsy,88,train
+1760,examination,time and motion study,88,train
+1761,comparison,likening,88,train
+1762,comparison,confrontation,88,train
+1763,comparison,collation,88,train
+1764,comparison,analogy,88,train
+1765,comparison,contrast,88,train
+1766,survey,resurvey,88,train
+1767,testing,screening,88,train
+1768,screening,genetic screening,88,train
+1769,palpation,ballottement,88,train
+1770,endoscopy,gastroscopy,88,train
+1771,endoscopy,proctoscopy,88,train
+1772,endoscopy,sigmoidoscopy,88,train
+1773,endoscopy,celioscopy,88,train
+1774,endoscopy,hysteroscopy,88,train
+1775,endoscopy,colonoscopy,88,train
+1776,endoscopy,culdoscopy,88,train
+1777,inspection,check,88,train
+1778,check,spot check,88,train
+1820,male child,bat boy,92,train
+1821,male child,Fauntleroy,92,train
+1822,male child,ball boy,92,train
+1823,male child,farm boy,92,train
+1824,male child,cub,92,train
+1825,male child,shop boy,92,train
+1826,male child,catamite,92,train
+1827,male child,schoolboy,92,train
+1828,male child,plowboy,92,train
+1829,male child,altar boy,92,train
+1830,male child,Scout,92,train
+1831,Scout,Boy Scout,92,train
+1832,Scout,Girl Scout,92,train
+1833,Boy Scout,Cub Scout,92,train
+1834,Boy Scout,Sea Scout,92,train
+1835,Boy Scout,Eagle Scout,92,train
+1836,Boy Scout,rover,92,train
+1837,Girl Scout,Brownie,92,train
+2007,shelter,refuge,101,train
+2008,shelter,dugout,101,train
+2009,shelter,haven,101,train
+2010,shelter,cookhouse,101,train
+2011,shelter,loft,101,train
+2012,shelter,tent,101,train
+2013,shelter,hovel,101,train
+2014,shelter,storm cellar,101,train
+2015,shelter,sconce,101,train
+2016,shelter,fallout shelter,101,train
+2017,shelter,mantelet,101,train
+2018,shelter,hut,101,train
+2019,refuge,safehold,101,train
+2020,refuge,harbor,101,train
+2021,refuge,safe house,101,train
+2022,tent,umbrella tent,101,train
+2023,tent,tepee,101,train
+2024,tent,backpacking tent,101,train
+2025,tent,praetorium,101,train
+2026,tent,fly tent,101,train
+2027,tent,cabana,101,train
+2028,tent,pop tent,101,train
+2029,tent,mountain tent,101,train
+2030,tent,lean-to tent,101,train
+2031,tent,tupik,101,train
+2032,tent,bell tent,101,train
+2033,tent,canvas tent,101,train
+2034,tent,pup tent,101,train
+2035,tent,pavilion,101,train
+2036,tent,two-man tent,101,train
+2037,tent,cottage tent,101,train
+2038,tent,pyramidal tent,101,train
+2039,canvas tent,Sibley tent,101,train
+2040,canvas tent,field tent,101,train
+2041,canvas tent,wall tent,101,train
+2042,canvas tent,circus tent,101,train
+2043,hovel,mudhif,101,train
+2044,hovel,igloo,101,train
+2045,hut,Nissen hut,101,train
+2109,percussion instrument,steel drum,105,train
+2110,percussion instrument,glockenspiel,105,train
+2111,percussion instrument,chime,105,train
+2112,percussion instrument,cymbal,105,train
+2113,percussion instrument,vibraphone,105,train
+2114,percussion instrument,lagerphone,105,train
+2115,percussion instrument,rain stick,105,train
+2116,percussion instrument,bones,105,train
+2117,percussion instrument,triangle,105,train
+2118,percussion instrument,gong,105,train
+2119,percussion instrument,marimba,105,train
+2120,percussion instrument,kettle,105,train
+2121,percussion instrument,piano,105,train
+2122,percussion instrument,drum,105,train
+2123,percussion instrument,maraca,105,train
+2124,chime,carillon,105,train
+2125,chime,handbell,105,train
+2126,cymbal,zill,105,train
+2127,cymbal,high-hat cymbal,105,train
+2128,piano,grand piano,105,train
+2129,piano,mechanical piano,105,train
+2130,piano,upright,105,train
+2131,grand piano,baby grand,105,train
+2132,grand piano,concert grand,105,train
+2133,upright,spinet,105,train
+2134,drum,tambourine,105,train
+2135,drum,tabor,105,train
+2136,drum,timbrel,105,train
+2137,drum,tambour,105,train
+2138,drum,snare drum,105,train
+2139,drum,tenor drum,105,train
+2140,drum,bass drum,105,train
+2141,drum,bongo,105,train
+2759,anemia,iron deficiency anemia,137,train
+2760,anemia,erythroblastosis fetalis,137,train
+2761,anemia,aplastic anemia,137,train
+2762,anemia,ischemia,137,train
+2763,anemia,hypoplastic anemia,137,train
+2764,anemia,hyperchromic anemia,137,train
+2765,anemia,macrocytic anemia,137,train
+2766,anemia,pernicious anemia,137,train
+2767,anemia,microcytic anemia,137,train
+2768,anemia,Fanconi's anemia,137,train
+2769,anemia,refractory anemia,137,train
+2770,anemia,sickle-cell anemia,137,train
+2771,anemia,hypochromic anemia,137,train
+2772,anemia,hemolytic anemia,137,train
+2773,anemia,favism,137,train
+2774,iron deficiency anemia,chlorosis,137,train
+2775,ischemia,transient ischemic attack,137,train
+2776,ischemia,ischemic stroke,137,train
+2777,pernicious anemia,metaplastic anemia,137,train
+2778,pernicious anemia,megaloblastic anemia,137,train
+2779,refractory anemia,sideroblastic anemia,137,train
+2780,hypochromic anemia,thalassemia,137,train
+2781,thalassemia,Cooley's anemia,137,train
+2782,marital status,widowhood,138,train
+2783,marital status,civil union,138,train
+2784,marital status,spinsterhood,138,train
+2785,marital status,marriage,138,train
+2786,marital status,bachelorhood,138,train
+2787,marriage,cuckoldom,138,train
+2788,marriage,endogamy,138,train
+2789,marriage,open marriage,138,train
+2790,marriage,exogamy,138,train
+2791,marriage,common-law marriage,138,train
+2792,marriage,polygamy,138,train
+2793,marriage,monogamy,138,train
+2794,marriage,sigeh,138,train
+2795,marriage,misalliance,138,train
+2796,marriage,bigamy,138,train
+2797,marriage,marriage of convenience,138,train
+2798,marriage,monandry,138,train
+2799,polygamy,polyandry,138,train
+2800,polygamy,polygyny,138,train
+2801,monogamy,serial monogamy,138,train
+2802,monogamy,monogyny,138,train
+2803,misalliance,mesalliance,138,train
+3004,wit,esprit de l'escalier,150,train
+3005,wit,repartee,150,train
+3006,wit,joke,150,train
+3007,wit,caricature,150,train
+3008,wit,sarcasm,150,train
+3009,wit,bon mot,150,train
+3010,wit,fun,150,train
+3011,wit,cartoon,150,train
+3012,wit,ribaldry,150,train
+3013,wit,topper,150,train
+3014,wit,pungency,150,train
+3015,wit,jeu d'esprit,150,train
+3016,repartee,banter,150,train
+3017,banter,persiflage,150,train
+3018,banter,badinage,150,train
+3019,joke,sick joke,150,train
+3020,joke,sight gag,150,train
+3021,joke,ethnic joke,150,train
+3022,joke,dirty joke,150,train
+3023,joke,funny story,150,train
+3024,joke,in-joke,150,train
+3025,joke,one-liner,150,train
+3026,joke,belly laugh,150,train
+3027,joke,shaggy dog story,150,train
+3028,caricature,mock-heroic,150,train
+3029,caricature,parody,150,train
+3030,fun,pun,150,train
+3031,fun,jocosity,150,train
+3032,fun,waggery,150,train
+3033,fun,drollery,150,train
+3034,cartoon,comic strip,150,train
+3465,piciform bird,puffbird,171,train
+3466,piciform bird,woodpecker,171,train
+3467,piciform bird,barbet,171,train
+3468,piciform bird,jacamar,171,train
+3469,piciform bird,honey guide,171,train
+3470,piciform bird,toucan,171,train
+3471,woodpecker,redheaded woodpecker,171,train
+3472,woodpecker,green woodpecker,171,train
+3473,woodpecker,flicker,171,train
+3474,woodpecker,piculet,171,train
+3475,woodpecker,ivorybill,171,train
+3476,woodpecker,wryneck,171,train
+3477,woodpecker,sapsucker,171,train
+3478,woodpecker,downy woodpecker,171,train
+3479,flicker,gilded flicker,171,train
+3480,flicker,red-shafted flicker,171,train
+3481,flicker,yellow-shafted flicker,171,train
+3482,sapsucker,yellow-bellied sapsucker,171,train
+3483,sapsucker,red-breasted sapsucker,171,train
+3484,toucan,toucanet,171,train
+3582,auk,great auk,177,train
+3583,auk,razorbill,177,train
+3584,auk,guillemot,177,train
+3585,auk,auklet,177,train
+3586,auk,little auk,177,train
+3587,guillemot,black guillemot,177,train
+3588,guillemot,murre,177,train
+3589,guillemot,pigeon guillemot,177,train
+3590,murre,thick-billed murre,177,train
+3591,murre,common murre,177,train
+3624,apple tree,crab apple,180,train
+3625,apple tree,apple,180,train
+3626,apple tree,wild apple,180,train
+3627,crab apple,Southern crab apple,180,train
+3628,crab apple,Siberian crab,180,train
+3629,wild apple,wild crab,180,train
+3630,wild apple,Iowa crab,180,train
+3631,wild apple,American crab apple,180,train
+3632,wild apple,Oregon crab apple,180,train
+3633,Iowa crab,Bechtel crab,180,train
+3690,beginning,resumption,184,train
+3691,beginning,jump ball,184,train
+3692,beginning,housing start,184,train
+3693,beginning,installation,184,train
+3694,beginning,first step,184,train
+3695,beginning,face-off,184,train
+3696,beginning,groundbreaking,184,train
+3697,beginning,Creation,184,train
+3698,beginning,scrum,184,train
+3699,beginning,activation,184,train
+3700,beginning,inauguration,184,train
+3701,beginning,springboard,184,train
+3702,beginning,attack,184,train
+3703,beginning,introduction,184,train
+3704,beginning,icebreaker,184,train
+3705,beginning,startup,184,train
+3706,beginning,initiation,184,train
+3707,beginning,kickoff,184,train
+3708,beginning,constitution,184,train
+3709,jump ball,tip-off,184,train
+3710,first step,first base,184,train
+3711,first step,peace initiative,184,train
+3712,first step,curtain raiser,184,train
+3713,introduction,ushering in,184,train
+3714,introduction,naturalization,184,train
+3715,introduction,product introduction,184,train
+3716,introduction,induction,184,train
+3717,induction,hypnogenesis,184,train
+3718,induction,induction of labor,184,train
+3719,initiation,authorship,184,train
+3720,constitution,federation,184,train
+3721,constitution,unionization,184,train
+3722,constitution,colonization,184,train
+3723,constitution,communization,184,train
+3724,constitution,collectivization,184,train
+3725,colonization,population,184,train
+3893,gymnosperm,cycad,193,train
+3894,gymnosperm,seed fern,193,train
+3895,gymnosperm,progymnosperm,193,train
+3896,gymnosperm,welwitschia,193,train
+3897,cycad,zamia,193,train
+3898,cycad,encephalartos,193,train
+3899,cycad,kaffir bread,193,train
+3900,cycad,ceratozamia,193,train
+3901,cycad,macrozamia,193,train
+3902,cycad,burrawong,193,train
+3903,cycad,sago palm,193,train
+3904,cycad,dioon,193,train
+3905,zamia,coontie,193,train
+3906,sago palm,false sago,193,train
+4011,terror,terrorism,198,train
+4012,terrorism,domestic terrorism,198,train
+4013,terrorism,chemical terrorism,198,train
+4014,terrorism,cyber-terrorism,198,train
+4015,terrorism,theoterrorism,198,train
+4016,terrorism,terrorist attack,198,train
+4017,terrorism,bioterrorism,198,train
+4018,terrorism,Red Hand Defenders,198,train
+4019,terrorism,nuclear terrorism,198,train
+4020,terrorism,state-sponsored terrorism,198,train
+4021,terrorism,narcoterrorism,198,train
+4022,terrorism,international terrorism,198,train
+4023,terrorism,ecoterrorism,198,train
+4024,terrorist attack,9/11,198,train
+4062,pouch,pocket,200,train
+4063,pouch,sporran,200,train
+4064,pouch,tobacco pouch,200,train
+4065,pouch,waist pack,200,train
+4066,pouch,mailbag,200,train
+4067,pocket,vest pocket,200,train
+4068,pocket,hip pocket,200,train
+4069,pocket,patch pocket,200,train
+4070,pocket,breast pocket,200,train
+4071,pocket,slash pocket,200,train
+4072,vest pocket,fob,200,train
+4073,waist pack,fanny pack,200,train
+4074,mailbag,diplomatic pouch,200,train
+4314,ornithischian,ornithopod,212,train
+4315,ornithischian,pisanosaur,212,train
+4316,ornithischian,armored dinosaur,212,train
+4317,ornithischian,hadrosaur,212,train
+4318,ornithischian,bone-headed dinosaur,212,train
+4319,ornithischian,ceratopsian,212,train
+4320,ornithischian,staurikosaur,212,train
+4321,armored dinosaur,ankylosaur,212,train
+4322,armored dinosaur,stegosaur,212,train
+4323,ankylosaur,Edmontonia,212,train
+4324,hadrosaur,corythosaur,212,train
+4325,hadrosaur,edmontosaurus,212,train
+4326,hadrosaur,anatotitan,212,train
+4327,hadrosaur,trachodon,212,train
+4328,bone-headed dinosaur,pachycephalosaur,212,train
+4329,ceratopsian,triceratops,212,train
+4330,ceratopsian,protoceratops,212,train
+4331,ceratopsian,psittacosaur,212,train
+4332,ceratopsian,styracosaur,212,train
+4382,electro-acoustic transducer,loudspeaker,215,train
+4383,electro-acoustic transducer,microphone,215,train
+4384,electro-acoustic transducer,cartridge,215,train
+4385,electro-acoustic transducer,earphone,215,train
+4386,loudspeaker,woofer,215,train
+4387,loudspeaker,squawk box,215,train
+4388,loudspeaker,subwoofer,215,train
+4389,loudspeaker,tweeter,215,train
+4390,loudspeaker,tannoy,215,train
+4391,loudspeaker,bullhorn,215,train
+4392,microphone,crystal microphone,215,train
+4393,microphone,directional microphone,215,train
+4394,microphone,bug,215,train
+4395,microphone,spike mike,215,train
+4396,microphone,condenser microphone,215,train
+4397,directional microphone,cardioid microphone,215,train
+4398,cartridge,crystal pickup,215,train
+4399,earphone,earplug,215,train
+4400,earphone,telephone receiver,215,train
+4401,telephone receiver,headset,215,train
+4773,component,be-all and end-all,236,train
+4774,component,point,236,train
+4775,component,plot element,236,train
+4776,point,intersection,236,train
+4777,point,attractor,236,train
+4778,point,intercept,236,train
+4779,intersection,metacenter,236,train
+4780,intersection,vertex,236,train
+4781,attractor,strange attractor,236,train
+4782,plot element,McGuffin,236,train
+4866,misrepresentation,evasion,242,train
+4867,misrepresentation,bill of goods,242,train
+4868,misrepresentation,fraudulence,242,train
+4869,misrepresentation,snow job,242,train
+4870,misrepresentation,pretense,242,train
+4871,misrepresentation,subterfuge,242,train
+4872,misrepresentation,trickery,242,train
+4873,misrepresentation,humbug,242,train
+4874,misrepresentation,facade,242,train
+4875,misrepresentation,exaggeration,242,train
+4876,misrepresentation,half-truth,242,train
+4877,evasion,hedge,242,train
+4878,evasion,doublespeak,242,train
+4879,evasion,circumlocution,242,train
+4880,evasion,quibble,242,train
+4881,pretense,hypocrisy,242,train
+4882,pretense,pretext,242,train
+4883,pretense,bluff,242,train
+4884,hypocrisy,crocodile tears,242,train
+4885,pretext,putoff,242,train
+4959,fitting,pipefitting,247,train
+4960,fitting,receptacle,247,train
+4961,fitting,gas fitting,247,train
+4962,pipefitting,reducer,247,train
+4963,receptacle,wall socket,247,train
+4964,receptacle,socket,247,train
+4965,receptacle,slot,247,train
+4966,receptacle,outlet box,247,train
+4967,wall socket,point,247,train
+4968,socket,electric socket,247,train
+5028,emotional state,unhappiness,251,train
+5029,emotional state,happiness,251,train
+5030,emotional state,ecstasy,251,train
+5031,emotional state,embarrassment,251,train
+5032,emotional state,state,251,train
+5033,emotional state,gratification,251,train
+5034,unhappiness,embitterment,251,train
+5035,unhappiness,sadness,251,train
+5036,sadness,poignance,251,train
+5037,sadness,mourning,251,train
+5038,happiness,radiance,251,train
+5039,happiness,blessedness,251,train
+5040,blessedness,nirvana,251,train
+5041,gratification,quality of life,251,train
+5042,gratification,comfort,251,train
+5246,cultivation,aquaculture,262,train
+5247,cultivation,culture,262,train
+5248,cultivation,farming,262,train
+5249,cultivation,beekeeping,262,train
+5250,cultivation,tilling,262,train
+5251,culture,monoculture,262,train
+5252,culture,cranberry culture,262,train
+5253,culture,tillage,262,train
+5254,culture,viticulture,262,train
+5255,farming,arboriculture,262,train
+5256,farming,truck farming,262,train
+5257,farming,mixed farming,262,train
+5258,farming,dairying,262,train
+5259,farming,gardening,262,train
+5260,farming,subsistence farming,262,train
+5261,farming,animal husbandry,262,train
+5262,farming,planting,262,train
+5263,farming,strip cropping,262,train
+5264,farming,hydroponics,262,train
+5265,farming,ranching,262,train
+5266,gardening,landscaping,262,train
+5267,gardening,flower gardening,262,train
+5268,gardening,market gardening,262,train
+5269,planting,insemination,262,train
+5270,hydroponics,drip culture,262,train
+5271,ranching,roundup,262,train
+5272,tilling,plowing,262,train
+5315,Niger-Congo,Gur,265,train
+5316,Niger-Congo,West African,265,train
+5317,Niger-Congo,Mande,265,train
+5318,Niger-Congo,Bantu,265,train
+5319,Niger-Congo,Kwa,265,train
+5320,Niger-Congo,Sango,265,train
+5321,West African,Wolof,265,train
+5322,West African,Serer,265,train
+5323,West African,Fula,265,train
+5324,Bantu,Fang,265,train
+5325,Bantu,Kongo,265,train
+5326,Bantu,Sotho,265,train
+5327,Bantu,Mashi,265,train
+5328,Bantu,Nyamwezi,265,train
+5329,Bantu,Mwera,265,train
+5330,Bantu,Nguni,265,train
+5331,Bantu,Herero,265,train
+5332,Bantu,Luba,265,train
+5333,Bantu,LuGanda,265,train
+5334,Bantu,Luyia,265,train
+5335,Bantu,Chichewa,265,train
+5336,Bantu,ChiMwini,265,train
+5337,Bantu,Chishona,265,train
+5338,Bantu,Shona,265,train
+5339,Bantu,Gikuyu,265,train
+5340,Bantu,Tonga,265,train
+5341,Bantu,Kamba,265,train
+5342,Bantu,Giriama,265,train
+5343,Bantu,Kichaga,265,train
+5344,Bantu,Umbundu,265,train
+5345,Bantu,Swahili,265,train
+5346,Bantu,Kinyarwanda,265,train
+5347,Bantu,Kiswahili,265,train
+5348,Bantu,Pokomo,265,train
+5349,Sotho,Sesotho,265,train
+5350,Sotho,Tswana,265,train
+5351,Nguni,Xhosa,265,train
+5352,Nguni,Ndebele,265,train
+5353,Nguni,Zulu,265,train
+5354,Nguni,Swazi,265,train
+5355,Kwa,Yoruba,265,train
+5356,Kwa,Akan,265,train
+5357,Kwa,Ewe,265,train
+5397,computer file,read-only file,268,train
+5398,computer file,input file,268,train
+5399,computer file,transaction file,268,train
+5400,computer file,disk file,268,train
+5401,computer file,master file,268,train
+5402,computer file,backup file,268,train
+5403,computer file,text file,268,train
+5404,computer file,output file,268,train
+5405,computer file,binary file,268,train
+5406,text file,web page,268,train
+5407,text file,ASCII text file,268,train
+5408,web page,home page,268,train
+5409,ASCII text file,source code,268,train
+5830,low explosive,firework,292,train
+5831,firework,sparkler,292,train
+5832,firework,torpedo,292,train
+5833,firework,maroon,292,train
+5834,firework,skyrocket,292,train
+5835,firework,Roman candle,292,train
+5836,firework,firecracker,292,train
+5837,firework,serpent,292,train
+5838,firework,squib,292,train
+5839,firework,fizgig,292,train
+5840,firework,catherine wheel,292,train
+5841,firecracker,cherry bomb,292,train
+5842,firecracker,cannon cracker,292,train
+5843,firecracker,whizbang,292,train
+6205,implementation,instrumentation,312,train
+6206,implementation,practice,312,train
+6207,implementation,invocation,312,train
+6208,implementation,motorization,312,train
+6209,implementation,means,312,train
+6210,means,wings,312,train
+6211,means,road,312,train
+6212,means,escape,312,train
+6213,means,fast track,312,train
+6214,means,salvation,312,train
+6215,means,voice,312,train
+6216,means,dint,312,train
+6217,means,tooth,312,train
+6218,means,expedient,312,train
+6219,means,desperate measure,312,train
+6220,means,instrument,312,train
+6221,means,stepping stone,312,train
+6222,means,open sesame,312,train
+6223,road,royal road,312,train
+6224,expedient,makeshift,312,train
+6225,expedient,pis aller,312,train
+6226,expedient,crutch,312,train
+6227,expedient,improvisation,312,train
+6354,plot,bed,320,train
+6355,plot,garden,320,train
+6356,bed,seedbed,320,train
+6357,bed,turnip bed,320,train
+6358,bed,hotbed,320,train
+6359,bed,asparagus bed,320,train
+6360,bed,flowerbed,320,train
+6361,flowerbed,rose bed,320,train
+6362,flowerbed,tulip bed,320,train
+6363,garden,roof garden,320,train
+6364,garden,grove,320,train
+6365,garden,rose garden,320,train
+6366,garden,rock garden,320,train
+6367,garden,tea garden,320,train
+6368,garden,hop garden,320,train
+6369,garden,flower garden,320,train
+6370,garden,kitchen garden,320,train
+6371,garden,herb garden,320,train
+6372,garden,topiary,320,train
+6373,garden,formal garden,320,train
+6374,garden,pot farm,320,train
+6375,garden,Hanging Gardens of Babylon,320,train
+6376,garden,market garden,320,train
+6377,garden,sunken garden,320,train
+6378,garden,landscaping,320,train
+6379,grove,apple orchard,320,train
+6380,grove,lemon grove,320,train
+6381,grove,orange grove,320,train
+6382,grove,peach orchard,320,train
+6383,flower garden,parterre,320,train
+6384,kitchen garden,victory garden,320,train
+6385,formal garden,Tuileries,320,train
+6485,kinswoman,niece,327,train
+6486,kinswoman,female sibling,327,train
+6487,kinswoman,aunt,327,train
+6488,niece,great-niece,327,train
+6489,female sibling,sister,327,train
+6490,sister,little sister,327,train
+6491,sister,half sister,327,train
+6492,sister,big sister,327,train
+6493,aunt,maiden aunt,327,train
+6494,aunt,great-aunt,327,train
+6608,medical instrument,endoscope,335,train
+6609,medical instrument,rhinoscope,335,train
+6610,medical instrument,ophthalmoscope,335,train
+6611,medical instrument,stethoscope,335,train
+6612,medical instrument,bronchoscope,335,train
+6613,medical instrument,speculum,335,train
+6614,medical instrument,thermograph,335,train
+6615,medical instrument,ballistocardiograph,335,train
+6616,medical instrument,otoscope,335,train
+6617,medical instrument,electroencephalograph,335,train
+6618,medical instrument,fiberscope,335,train
+6619,medical instrument,electromyograph,335,train
+6620,medical instrument,surgical instrument,335,train
+6621,medical instrument,polygraph,335,train
+6622,medical instrument,cardiograph,335,train
+6623,medical instrument,keratoscope,335,train
+6624,medical instrument,dialyzer,335,train
+6625,medical instrument,diathermy machine,335,train
+6626,medical instrument,laryngoscope,335,train
+6627,medical instrument,syringe,335,train
+6628,endoscope,arthroscope,335,train
+6629,endoscope,sigmoidoscope,335,train
+6630,endoscope,colonoscope,335,train
+6631,endoscope,culdoscope,335,train
+6632,endoscope,laparoscope,335,train
+6633,endoscope,proctoscope,335,train
+6634,endoscope,gastroscope,335,train
+6635,ophthalmoscope,orthoscope,335,train
+6636,stethoscope,fetoscope,335,train
+6637,surgical instrument,snare,335,train
+6638,surgical instrument,probe,335,train
+6639,surgical instrument,trepan,335,train
+6640,surgical instrument,dermatome,335,train
+6641,surgical instrument,retractor,335,train
+6642,surgical instrument,dilator,335,train
+6643,surgical instrument,surgical knife,335,train
+6644,surgical instrument,curette,335,train
+6645,surgical instrument,photocoagulator,335,train
+6646,surgical instrument,hemostat,335,train
+6647,surgical knife,catling,335,train
+6648,surgical knife,lancet,335,train
+6649,surgical knife,scalpel,335,train
+6650,polygraph,lie detector,335,train
+6651,dialyzer,artificial kidney,335,train
+6652,diathermy machine,microwave diathermy machine,335,train
+6653,diathermy machine,shortwave diathermy machine,335,train
+6654,syringe,hypodermic syringe,335,train
+6655,syringe,douche,335,train
+6656,hypodermic syringe,autoinjector,335,train
+6903,adhesive material,paste,350,train
+6904,adhesive material,binder,350,train
+6905,adhesive material,spirit gum,350,train
+6906,adhesive material,rubber cement,350,train
+6907,adhesive material,birdlime,350,train
+6908,adhesive material,cement,350,train
+6909,paste,wafer,350,train
+6910,cement,mastic,350,train
+6911,cement,putty,350,train
+6912,cement,red-lead putty,350,train
+6913,cement,glue,350,train
+6914,cement,iron putty,350,train
+6915,glue,marine glue,350,train
+6916,glue,animal glue,350,train
+6917,glue,fish glue,350,train
+6918,glue,casein glue,350,train
+6942,salad,molded salad,353,train
+6943,salad,pasta salad,353,train
+6944,salad,fruit salad,353,train
+6945,salad,coleslaw,353,train
+6946,salad,chicken salad,353,train
+6947,salad,crab Louis,353,train
+6948,salad,potato salad,353,train
+6949,salad,tuna fish salad,353,train
+6950,salad,salad nicoise,353,train
+6951,salad,herring salad,353,train
+6952,salad,salmagundi,353,train
+6953,salad,tabbouleh,353,train
+6954,salad,tossed salad,353,train
+6955,pasta salad,macaroni salad,353,train
+6956,fruit salad,Waldorf salad,353,train
+6957,tossed salad,combination salad,353,train
+6958,tossed salad,green salad,353,train
+6959,tossed salad,Caesar salad,353,train
+6960,combination salad,chef's salad,353,train
+7102,recorder,cassette recorder,361,train
+7103,recorder,oscillograph,361,train
+7104,recorder,multichannel recorder,361,train
+7105,recorder,black box,361,train
+7106,recorder,magnetic recorder,361,train
+7107,recorder,compact-disk burner,361,train
+7108,magnetic recorder,wire recorder,361,train
+7109,magnetic recorder,tape recorder,361,train
+7110,tape recorder,videocassette recorder,361,train
+7111,tape recorder,Dictaphone,361,train
+7389,debt,loan,375,train
+7390,debt,principal,375,train
+7391,debt,public debt,375,train
+7392,debt,bad debt,375,train
+7393,debt,national debt,375,train
+7394,debt,debt limit,375,train
+7395,debt,installment debt,375,train
+7396,debt,arrears,375,train
+7397,debt,score,375,train
+7398,loan,point,375,train
+7399,loan,personal loan,375,train
+7400,loan,installment credit,375,train
+7401,loan,bank loan,375,train
+7402,loan,real estate loan,375,train
+7403,loan,direct loan,375,train
+7404,loan,participation loan,375,train
+7405,loan,home loan,375,train
+7406,loan,time loan,375,train
+7407,loan,call loan,375,train
+7408,personal loan,automobile loan,375,train
+7409,bank loan,interbank loan,375,train
+7410,bank loan,business loan,375,train
+7411,debt limit,national debt ceiling,375,train
+7714,leukocyte,eosinophil,391,train
+7715,leukocyte,myelocyte,391,train
+7716,leukocyte,neutrophil,391,train
+7717,leukocyte,myeloblast,391,train
+7718,leukocyte,lymphocyte,391,train
+7719,leukocyte,basophil,391,train
+7720,leukocyte,monocyte,391,train
+7721,leukocyte,granulocyte,391,train
+7722,neutrophil,microphage,391,train
+7723,lymphocyte,plasma cell,391,train
+7724,lymphocyte,lymphoblast,391,train
+7725,lymphocyte,B cell,391,train
+7726,lymphocyte,T cell,391,train
+7727,plasma cell,plasmablast,391,train
+7728,T cell,killer T cell,391,train
+7729,T cell,helper T cell,391,train
+7730,monocyte,monoblast,391,train
+7802,circle,disk,395,train
+7803,disk,puck,395,train
+7804,disk,acetate disk,395,train
+7805,disk,deadeye,395,train
+7806,disk,Frisbee,395,train
+7807,disk,diaphragm,395,train
+7808,disk,discus,395,train
+7809,disk,planchet,395,train
+7810,disk,brake disk,395,train
+7811,disk,token,395,train
+7812,token,subway token,395,train
+7834,set,solution,398,train
+7835,set,interval,398,train
+7836,set,image,398,train
+7837,set,universal set,398,train
+7838,set,mathematical space,398,train
+7839,set,Mandelbrot set,398,train
+7840,set,domain,398,train
+7841,set,null set,398,train
+7842,set,field,398,train
+7843,set,diagonal,398,train
+7844,set,intersection,398,train
+7845,set,subset,398,train
+7846,set,locus,398,train
+7847,set,group,398,train
+7848,interval,sub-interval,398,train
+7849,interval,open interval,398,train
+7850,interval,closed interval,398,train
+7851,mathematical space,manifold,398,train
+7852,mathematical space,subspace,398,train
+7853,mathematical space,metric space,398,train
+7854,mathematical space,null space,398,train
+7855,metric space,Euclidean space,398,train
+7856,metric space,Hilbert space,398,train
+7857,field,scalar field,398,train
+7858,intersection,origin,398,train
+7859,group,Abelian group,398,train
+7860,group,subgroup,398,train
+8011,security interest,mortgage,407,train
+8012,security interest,pledge,407,train
+8013,security interest,conditional sale,407,train
+8014,security interest,collateral,407,train
+8015,security interest,lien,407,train
+8016,mortgage,chattel mortgage,407,train
+8017,mortgage,first mortgage,407,train
+8018,mortgage,second mortgage,407,train
+8019,pledge,pawn,407,train
+8020,collateral,guarantee,407,train
+8021,lien,mechanic's lien,407,train
+8022,lien,judgment lien,407,train
+8023,lien,artisan's lien,407,train
+8024,lien,landlord's lien,407,train
+8025,lien,tax lien,407,train
+8026,lien,general lien,407,train
+8027,lien,warehouseman's lien,407,train
+8028,mechanic's lien,garageman's lien,407,train
+8029,tax lien,federal tax lien,407,train
+8030,tax lien,state tax lien,407,train
+8048,proceeding,lawsuit,409,train
+8049,proceeding,review,409,train
+8050,proceeding,appeal,409,train
+8051,proceeding,bankruptcy,409,train
+8052,proceeding,foreclosure,409,train
+8053,proceeding,litigation,409,train
+8054,proceeding,trial,409,train
+8055,proceeding,naturalization,409,train
+8056,proceeding,receivership,409,train
+8057,proceeding,procedure,409,train
+8058,proceeding,adoption,409,train
+8059,proceeding,intervention,409,train
+8060,proceeding,legal action,409,train
+8061,proceeding,hearing,409,train
+8062,lawsuit,criminal suit,409,train
+8063,lawsuit,countersuit,409,train
+8064,lawsuit,civil suit,409,train
+8065,lawsuit,moot,409,train
+8066,lawsuit,class action,409,train
+8067,lawsuit,paternity suit,409,train
+8068,review,judicial review,409,train
+8069,review,bill of review,409,train
+8070,litigation,custody battle,409,train
+8071,litigation,vexatious litigation,409,train
+8072,trial,show trial,409,train
+8073,trial,court-martial,409,train
+8074,trial,retrial,409,train
+8075,trial,Scopes trial,409,train
+8076,trial,mistrial,409,train
+8077,trial,ordeal,409,train
+8078,procedure,objection,409,train
+8079,procedure,bureaucratic procedure,409,train
+8080,objection,recusation,409,train
+8081,legal action,custody case,409,train
+8082,legal action,prosecution,409,train
+8083,legal action,counterclaim,409,train
+8084,legal action,civil action,409,train
+8085,legal action,antitrust case,409,train
+8086,legal action,test case,409,train
+8087,legal action,lis pendens,409,train
+8088,prosecution,double jeopardy,409,train
+8089,hearing,administrative hearing,409,train
+8090,hearing,quo warranto,409,train
+8091,hearing,fair hearing,409,train
+8092,hearing,competence hearing,409,train
+8273,picture,chiaroscuro,418,train
+8274,picture,iconography,418,train
+8275,picture,likeness,418,train
+8276,picture,sonogram,418,train
+8277,picture,reflection,418,train
+8278,picture,bitmap,418,train
+8279,picture,scan,418,train
+8280,picture,foil,418,train
+8281,picture,panorama,418,train
+8282,picture,graphic,418,train
+8283,picture,inset,418,train
+8284,picture,collage,418,train
+8285,chiaroscuro,grisaille,418,train
+8286,likeness,Identikit,418,train
+8287,likeness,portrait,418,train
+8288,portrait,half-length,418,train
+8289,portrait,self-portrait,418,train
+8290,foil,slide,418,train
+8291,foil,viewgraph,418,train
+8292,collage,photomontage,418,train
+8345,bedclothes,blanket,422,train
+8346,bedclothes,quilt,422,train
+8347,bedclothes,bedspread,422,train
+8348,bedclothes,bedroll,422,train
+8349,bedclothes,throw,422,train
+8350,bedclothes,mattress cover,422,train
+8351,blanket,manta,422,train
+8352,blanket,security blanket,422,train
+8353,blanket,afghan,422,train
+8354,blanket,electric blanket,422,train
+8355,blanket,mackinaw,422,train
+8356,quilt,patchwork,422,train
+8357,quilt,eiderdown,422,train
+8358,patchwork,crazy quilt,422,train
+8359,bedspread,coverlet,422,train
+8360,bedspread,quilted bedspread,422,train
+8485,football play,audible,430,train
+8486,football play,pass,430,train
+8487,football play,touchback,430,train
+8488,football play,power play,430,train
+8489,football play,handoff,430,train
+8490,football play,run,430,train
+8491,football play,tackle,430,train
+8492,pass,spot pass,430,train
+8493,pass,forward pass,430,train
+8494,pass,lateral pass,430,train
+8495,forward pass,flare pass,430,train
+8496,forward pass,screen pass,430,train
+8497,run,end run,430,train
+8498,run,rush,430,train
+8499,run,return,430,train
+8500,run,draw,430,train
+8501,run,reverse,430,train
+8502,reverse,double reverse,430,train
+8692,admirer,suitor,440,train
+8693,admirer,worshiper,440,train
+8694,admirer,fancier,440,train
+8695,suitor,prince charming,440,train
+8696,worshiper,hero worshiper,440,train
+8697,fancier,maniac,440,train
+8698,fancier,bird fancier,440,train
+8699,fancier,animal fancier,440,train
+8700,fancier,technophile,440,train
+8701,animal fancier,cat fancier,440,train
+8702,animal fancier,horseman,440,train
+8983,liveliness,pep,455,train
+8984,liveliness,irrepressibility,455,train
+8985,liveliness,breeziness,455,train
+8986,liveliness,pertness,455,train
+8987,liveliness,airiness,455,train
+8988,liveliness,alacrity,455,train
+8989,liveliness,high-spiritedness,455,train
+8990,liveliness,exuberance,455,train
+8991,liveliness,energy,455,train
+8992,liveliness,elan,455,train
+8993,liveliness,esprit,455,train
+8994,high-spiritedness,vivacity,455,train
+8995,high-spiritedness,mettlesomeness,455,train
+8996,exuberance,lyricism,455,train
+8997,exuberance,madness,455,train
+8998,energy,vitality,455,train
+8999,vitality,sparkle,455,train
+9067,club,lathi,460,train
+9068,club,truncheon,460,train
+9069,club,knobkerrie,460,train
+9070,club,cudgel,460,train
+9071,club,Indian club,460,train
+9072,club,bludgeon,460,train
+9073,club,bat,460,train
+9074,cudgel,bastinado,460,train
+9075,cudgel,shillelagh,460,train
+9076,bludgeon,blackjack,460,train
+9077,bat,paddle,460,train
+9078,bat,baseball bat,460,train
+9079,paddle,table-tennis racquet,460,train
+9345,allotment,rationing,476,train
+9346,allotment,grant,476,train
+9347,allotment,deal,476,train
+9348,allotment,reallotment,476,train
+9349,allotment,parcel,476,train
+9350,grant,grant-in-aid,476,train
+9351,grant,award,476,train
+9352,grant,block grant,476,train
+9353,award,addiction,476,train
+9354,deal,new deal,476,train
+9355,reallotment,reshuffle,476,train
+9356,arts and crafts,handicraft,477,train
+9357,handicraft,sewing,477,train
+9358,handicraft,bookbinding,477,train
+9359,handicraft,needlework,477,train
+9360,handicraft,knitting,477,train
+9361,handicraft,spinning,477,train
+9362,handicraft,lace making,477,train
+9363,handicraft,crocheting,477,train
+9364,handicraft,weaving,477,train
+9365,sewing,blind stitching,477,train
+9366,sewing,suturing,477,train
+9367,weaving,netting,477,train
+9627,taste,delicacy,491,train
+9628,taste,culture,491,train
+9629,taste,virtu,491,train
+9630,taste,vogue,491,train
+9631,culture,letters,491,train
+9632,culture,mass culture,491,train
+9633,culture,counterculture,491,train
+9634,counterculture,flower power,491,train
+9635,vogue,fashion,491,train
+9636,vogue,bandwagon,491,train
+9637,vogue,New Look,491,train
+9638,fashion,fad,491,train
+9639,fashion,cult of personality,491,train
+9640,fashion,haute couture,491,train
+9641,fashion,cut,491,train
+9642,fashion,retro,491,train
+9809,connection,relevance,501,train
+9810,connection,series,501,train
+9811,connection,alliance,501,train
+9812,connection,relatedness,501,train
+9813,connection,involvement,501,train
+9814,connection,linkage,501,train
+9815,connection,communication,501,train
+9816,connection,bridge,501,train
+9817,connection,concatenation,501,train
+9818,relevance,cogency,501,train
+9819,relevance,point,501,train
+9820,relevance,applicability,501,train
+9821,relevance,materiality,501,train
+9822,applicability,germaneness,501,train
+9823,alliance,silver cord,501,train
+9824,relatedness,bearing,501,train
+9825,involvement,implication,501,train
+9826,involvement,inclusion,501,train
+9827,linkage,link,501,train
+10012,metric unit,metric linear unit,514,train
+10013,metric unit,metric capacity unit,514,train
+10014,metric unit,metric weight unit,514,train
+10015,metric linear unit,meter,514,train
+10016,metric linear unit,nanometer,514,train
+10017,metric linear unit,millimeter,514,train
+10018,metric linear unit,centimeter,514,train
+10019,metric linear unit,kilometer,514,train
+10020,metric linear unit,micron,514,train
+10021,metric linear unit,femtometer,514,train
+10022,metric linear unit,decimeter,514,train
+10023,metric linear unit,hectometer,514,train
+10024,metric linear unit,myriameter,514,train
+10025,metric linear unit,picometer,514,train
+10026,metric linear unit,decameter,514,train
+10027,metric linear unit,angstrom,514,train
+10028,metric capacity unit,cubic kilometer,514,train
+10029,metric capacity unit,deciliter,514,train
+10030,metric capacity unit,dekaliter,514,train
+10031,metric capacity unit,liter,514,train
+10032,metric capacity unit,cubic millimeter,514,train
+10033,metric capacity unit,kiloliter,514,train
+10034,metric capacity unit,centiliter,514,train
+10035,metric capacity unit,hectoliter,514,train
+10036,metric capacity unit,milliliter,514,train
+10037,metric weight unit,kilogram,514,train
+10038,metric weight unit,centner,514,train
+10039,metric weight unit,gram atom,514,train
+10040,metric weight unit,hectogram,514,train
+10041,metric weight unit,milligram,514,train
+10042,metric weight unit,decigram,514,train
+10043,metric weight unit,carat,514,train
+10044,metric weight unit,microgram,514,train
+10045,metric weight unit,grain,514,train
+10046,metric weight unit,gram,514,train
+10047,metric weight unit,myriagram,514,train
+10048,metric weight unit,nanogram,514,train
+10049,metric weight unit,quintal,514,train
+10050,metric weight unit,hundredweight,514,train
+10051,metric weight unit,dekagram,514,train
+10052,metric weight unit,metric ton,514,train
+10053,metric weight unit,gram molecule,514,train
+10054,kilogram,key,514,train
+10055,priest,Druid,515,train
+10056,priest,shaman,515,train
+10057,priest,lama,515,train
+10058,priest,magus,515,train
+10059,priest,Ezra,515,train
+10060,priest,flamen,515,train
+10061,priest,hoodoo,515,train
+10062,priest,votary,515,train
+10063,shaman,medicine man,515,train
+10064,medicine man,rainmaker,515,train
+10065,lama,Panchen Lama,515,train
+10066,lama,Dalai Lama,515,train
+10067,votary,vestal virgin,515,train
+10068,votary,bacchant,515,train
+10069,votary,bacchante,515,train
+10070,vestal virgin,Rhea Silvia,515,train
+10217,self-denial,abstinence,525,train
+10218,self-denial,mortification,525,train
+10219,self-denial,asceticism,525,train
+10220,abstinence,fast,525,train
+10221,abstinence,inhibition,525,train
+10222,abstinence,sawm,525,train
+10223,abstinence,teetotaling,525,train
+10224,abstinence,sobriety,525,train
+10225,abstinence,chastity,525,train
+10226,fast,hunger strike,525,train
+10227,fast,Ramadan,525,train
+10228,fast,diet,525,train
+10334,larceny,rustling,531,train
+10335,larceny,breach of trust with fraudulent intent,531,train
+10336,larceny,grand larceny,531,train
+10337,larceny,skimming,531,train
+10338,larceny,shoplifting,531,train
+10339,larceny,biopiracy,531,train
+10340,larceny,embezzlement,531,train
+10341,larceny,robbery,531,train
+10342,larceny,petit larceny,531,train
+10343,larceny,pilferage,531,train
+10344,embezzlement,raid,531,train
+10345,embezzlement,plunderage,531,train
+10346,robbery,highway robbery,531,train
+10347,robbery,dacoity,531,train
+10348,robbery,highjacking,531,train
+10349,robbery,heist,531,train
+10350,robbery,caper,531,train
+10351,robbery,rolling,531,train
+10352,robbery,armed robbery,531,train
+10353,highjacking,piracy,531,train
+10354,litigant,defendant,532,train
+10355,litigant,plaintiff,532,train
+10356,litigant,prevailing party,532,train
+10357,litigant,filer,532,train
+10358,litigant,appellant,532,train
+10359,defendant,codefendant,532,train
+10360,defendant,accused,532,train
+10361,codefendant,respondent,532,train
+10362,codefendant,corespondent,532,train
+10363,plaintiff,suer,532,train
+10395,sympathy,empathy,535,dev
+10396,sympathy,compassion,535,dev
+10397,sympathy,compatibility,535,dev
+10398,sympathy,concern,535,dev
+10399,sympathy,kindheartedness,535,dev
+10400,sympathy,commiseration,535,dev
+10401,compassion,mercifulness,535,dev
+10402,compassion,heartstrings,535,dev
+10403,compassion,tenderness,535,dev
+10404,mercifulness,forgiveness,535,dev
+10405,concern,solicitude,535,dev
+10406,concern,softheartedness,535,dev
+10407,kindheartedness,mellowness,535,dev
+10954,rider,hang glider,559,dev
+10955,rider,horseman,559,dev
+10956,rider,pedaler,559,dev
+10957,horseman,jockey,559,dev
+10958,horseman,fox hunter,559,dev
+10959,horseman,postilion,559,dev
+10960,horseman,buster,559,dev
+10961,horseman,roughrider,559,dev
+10962,horseman,horsewoman,559,dev
+10963,horseman,picador,559,dev
+10964,pedaler,unicyclist,559,dev
+10965,pedaler,cyclist,559,dev
+10966,cyclist,Merckx,559,dev
+10967,cyclist,Hinault,559,dev
+10987,cruciferous vegetable,broccoli rabe,561,dev
+10988,cruciferous vegetable,cabbage,561,dev
+10989,cruciferous vegetable,radish,561,dev
+10990,cruciferous vegetable,turnip,561,dev
+10991,cruciferous vegetable,cauliflower,561,dev
+10992,cruciferous vegetable,mustard,561,dev
+10993,cruciferous vegetable,kohlrabi,561,dev
+10994,cruciferous vegetable,brussels sprouts,561,dev
+10995,cruciferous vegetable,broccoli,561,dev
+10996,cabbage,head cabbage,561,dev
+10997,cabbage,Chinese cabbage,561,dev
+10998,cabbage,kale,561,dev
+10999,cabbage,bok choy,561,dev
+11000,head cabbage,red cabbage,561,dev
+11001,head cabbage,savoy cabbage,561,dev
+11002,kale,collards,561,dev
+11003,turnip,white turnip,561,dev
+11004,turnip,rutabaga,561,dev
+11040,pelagic bird,diving petrel,563,dev
+11041,pelagic bird,procellariiform seabird,563,dev
+11042,pelagic bird,petrel,563,dev
+11043,pelagic bird,albatross,563,dev
+11044,petrel,shearwater,563,dev
+11045,petrel,fulmar,563,dev
+11046,petrel,white-chinned petrel,563,dev
+11047,petrel,giant petrel,563,dev
+11048,petrel,storm petrel,563,dev
+11049,shearwater,Manx shearwater,563,dev
+11050,storm petrel,stormy petrel,563,dev
+11051,storm petrel,Mother Carey's chicken,563,dev
+11052,albatross,wandering albatross,563,dev
+11053,albatross,black-footed albatross,563,dev
+11147,musical time,triple time,569,dev
+11148,musical time,in time,569,dev
+11149,musical time,common time,569,dev
+11150,musical time,rhythm,569,dev
+11151,musical time,duple time,569,dev
+11152,musical time,tempo,569,dev
+11153,rhythm,backbeat,569,dev
+11154,rhythm,upbeat,569,dev
+11155,rhythm,syncopation,569,dev
+11156,rhythm,downbeat,569,dev
+11157,tempo,allegro,569,dev
+11158,tempo,rubato,569,dev
+11159,tempo,meno mosso,569,dev
+11160,tempo,andante,569,dev
+11161,tempo,accelerando,569,dev
+11162,tempo,allegretto,569,dev
+11163,allegro,allegro con spirito,569,dev
+11304,hominid,Sinanthropus,577,dev
+11305,hominid,australopithecine,577,dev
+11306,hominid,Javanthropus,577,dev
+11307,hominid,homo,577,dev
+11308,hominid,dryopithecine,577,dev
+11309,hominid,Sivapithecus,577,dev
+11310,hominid,Pithecanthropus,577,dev
+11311,australopithecine,Zinjanthropus,577,dev
+11312,australopithecine,Australopithecus afarensis,577,dev
+11313,australopithecine,Australopithecus africanus,577,dev
+11314,australopithecine,Australopithecus boisei,577,dev
+11315,australopithecine,Australopithecus robustus,577,dev
+11316,australopithecine,Paranthropus,577,dev
+11317,Australopithecus afarensis,Lucy,577,dev
+11318,homo,Homo soloensis,577,dev
+11319,homo,Rhodesian man,577,dev
+11320,homo,Homo erectus,577,dev
+11321,homo,Homo sapiens,577,dev
+11322,homo,world,577,dev
+11323,homo,Homo habilis,577,dev
+11324,homo,Neandertal man,577,dev
+11325,Homo soloensis,Solo man,577,dev
+11326,Homo erectus,Peking man,577,dev
+11327,Homo erectus,Java man,577,dev
+11328,Homo sapiens,Boskop man,577,dev
+11329,Homo sapiens,Cro-magnon,577,dev
+11330,Homo sapiens,Homo sapiens sapiens,577,dev
+11331,dryopithecine,rudapithecus,577,dev
+11491,venereal disease,genital herpes,584,dev
+11492,venereal disease,lymphogranuloma venereum,584,dev
+11493,venereal disease,gonorrhea,584,dev
+11494,venereal disease,granuloma inguinale,584,dev
+11495,venereal disease,syphilis,584,dev
+11496,venereal disease,chlamydia,584,dev
+11497,syphilis,tertiary syphilis,584,dev
+11498,syphilis,neurosyphilis,584,dev
+11499,syphilis,primary syphilis,584,dev
+11500,syphilis,secondary syphilis,584,dev
+11501,neurosyphilis,tabes dorsalis,584,dev
+11577,upright,column,589,dev
+11578,upright,shaft,589,dev
+11579,upright,post,589,dev
+11580,upright,stile,589,dev
+11581,upright,scantling,589,dev
+11582,upright,jamb,589,dev
+11583,column,caryatid,589,dev
+11584,column,atlas,589,dev
+11585,column,newel,589,dev
+11586,column,support column,589,dev
+11587,column,pilaster,589,dev
+11588,column,pile,589,dev
+11589,support column,lally,589,dev
+11590,pile,sheet pile,589,dev
+11591,post,stump,589,dev
+11592,post,whipping post,589,dev
+11593,post,lamppost,589,dev
+11594,post,stake,589,dev
+11595,post,corner post,589,dev
+11596,post,maypole,589,dev
+11597,post,king post,589,dev
+11598,post,stanchion,589,dev
+11599,post,hop pole,589,dev
+11600,post,rudderpost,589,dev
+11601,post,timber,589,dev
+11602,post,carrick bitt,589,dev
+11603,post,queen post,589,dev
+11604,post,bollard,589,dev
+11605,post,goalpost,589,dev
+11606,post,hitching post,589,dev
+11607,post,standard,589,dev
+11608,post,gatepost,589,dev
+11609,post,newel post,589,dev
+11610,post,telephone pole,589,dev
+11611,bollard,riding bitt,589,dev
+11612,gatepost,hinging post,589,dev
+11613,gatepost,shutting post,589,dev
+11614,jamb,doorjamb,589,dev
+11803,fern ally,quillwort,599,dev
+11804,fern ally,club moss,599,dev
+11805,fern ally,whisk fern,599,dev
+11806,fern ally,horsetail,599,dev
+11807,club moss,spikemoss,599,dev
+11808,club moss,ground pine,599,dev
+11809,club moss,fir clubmoss,599,dev
+11810,club moss,alpine clubmoss,599,dev
+11811,club moss,shining clubmoss,599,dev
+11812,spikemoss,meadow spikemoss,599,dev
+11813,spikemoss,florida selaginella,599,dev
+11814,spikemoss,resurrection plant,599,dev
+11815,spikemoss,rock spikemoss,599,dev
+11816,spikemoss,desert selaginella,599,dev
+11817,ground pine,ground fir,599,dev
+11818,ground pine,foxtail grass,599,dev
+11819,ground pine,ground cedar,599,dev
+11820,ground pine,running pine,599,dev
+11821,whisk fern,skeleton fork fern,599,dev
+11822,horsetail,marsh horsetail,599,dev
+11823,horsetail,variegated horsetail,599,dev
+11824,horsetail,wood horsetail,599,dev
+11825,horsetail,swamp horsetail,599,dev
+11826,horsetail,common horsetail,599,dev
+11827,horsetail,scouring rush,599,dev
+11941,society,civilization,607,dev
+11942,society,open society,607,dev
+11943,society,culture,607,dev
+11944,society,tribal society,607,dev
+11945,civilization,Islam,607,dev
+11946,culture,Indus civilization,607,dev
+11947,culture,Paleo-American culture,607,dev
+11948,culture,Western culture,607,dev
+11949,culture,Aegean civilization,607,dev
+11950,culture,Minoan civilization,607,dev
+11951,culture,Mycenaean civilization,607,dev
+11952,culture,Helladic civilization,607,dev
+11953,Paleo-American culture,Clovis culture,607,dev
+11954,Paleo-American culture,Folsom culture,607,dev
+11955,Aegean civilization,Cycladic civilization,607,dev
+11956,tribal society,hunting and gathering tribe,607,dev
+11957,perversion,sodomy,608,dev
+11958,perversion,oral sex,608,dev
+11959,perversion,paraphilia,608,dev
+11960,oral sex,cunnilingus,608,dev
+11961,oral sex,fellatio,608,dev
+11962,oral sex,soixante-neuf,608,dev
+11963,fellatio,cock sucking,608,dev
+11964,paraphilia,pedophilia,608,dev
+11965,paraphilia,fetishism,608,dev
+11966,paraphilia,voyeurism,608,dev
+11967,paraphilia,zoophilia,608,dev
+11968,paraphilia,exhibitionism,608,dev
+11969,paraphilia,pederasty,608,dev
+12127,packing material,cardboard,619,dev
+12128,packing material,excelsior,619,dev
+12129,cardboard,paperboard,619,dev
+12130,cardboard,pasteboard,619,dev
+12131,cardboard,binder's board,619,dev
+12132,cardboard,card,619,dev
+12133,cardboard,strawboard,619,dev
+12134,cardboard,corrugated board,619,dev
+12135,pasteboard,millboard,619,dev
+12136,card,timecard,619,dev
+12241,squash,summer squash,625,dev
+12242,squash,winter squash,625,dev
+12243,squash,pumpkin,625,dev
+12244,summer squash,yellow squash,625,dev
+12245,summer squash,marrow,625,dev
+12246,summer squash,cymling,625,dev
+12247,summer squash,spaghetti squash,625,dev
+12248,marrow,cocozelle,625,dev
+12249,marrow,zucchini,625,dev
+12250,winter squash,acorn squash,625,dev
+12251,winter squash,winter crookneck,625,dev
+12252,winter squash,butternut squash,625,dev
+12253,winter squash,cushaw,625,dev
+12254,winter squash,hubbard squash,625,dev
+12255,winter squash,turban squash,625,dev
+12256,turban squash,buttercup squash,625,dev
+12257,salesperson,salesclerk,626,dev
+12258,salesperson,demonstrator,626,dev
+12259,salesperson,salesman,626,dev
+12260,salesperson,salesgirl,626,dev
+12261,salesclerk,shop boy,626,dev
+12262,salesclerk,shop girl,626,dev
+12263,salesman,pitchman,626,dev
+12264,salesman,traveling salesman,626,dev
+12265,salesman,book agent,626,dev
+12266,traveling salesman,tallyman,626,dev
+12267,salesgirl,midinette,626,dev
+12324,plant louse,grape louse,631,dev
+12325,plant louse,jumping plant louse,631,dev
+12326,plant louse,adelgid,631,dev
+12327,plant louse,aphid,631,dev
+12328,plant louse,oak blight,631,dev
+12329,adelgid,woolly adelgid,631,dev
+12330,adelgid,spruce gall aphid,631,dev
+12331,adelgid,pine leaf aphid,631,dev
+12332,adelgid,balsam woolly aphid,631,dev
+12333,aphid,woolly aphid,631,dev
+12334,aphid,greenfly,631,dev
+12335,aphid,apple aphid,631,dev
+12336,aphid,ant cow,631,dev
+12337,aphid,blackfly,631,dev
+12338,woolly aphid,woolly apple aphid,631,dev
+12339,woolly aphid,woolly alder aphid,631,dev
+12340,greenfly,green peach aphid,631,dev
+12341,greenfly,pale chrysanthemum aphid,631,dev
+12419,anthropoid ape,lesser ape,635,dev
+12420,anthropoid ape,great ape,635,dev
+12421,lesser ape,gibbon,635,dev
+12422,lesser ape,siamang,635,dev
+12423,great ape,chimpanzee,635,dev
+12424,great ape,gorilla,635,dev
+12425,great ape,orangutan,635,dev
+12426,chimpanzee,central chimpanzee,635,dev
+12427,chimpanzee,eastern chimpanzee,635,dev
+12428,chimpanzee,pygmy chimpanzee,635,dev
+12429,chimpanzee,western chimpanzee,635,dev
+12430,gorilla,western lowland gorilla,635,dev
+12431,gorilla,mountain gorilla,635,dev
+12432,gorilla,eastern lowland gorilla,635,dev
+12433,gorilla,silverback,635,dev
+12552,diviner,oneiromancer,640,dev
+12553,diviner,hydromancer,640,dev
+12554,diviner,geomancer,640,dev
+12555,diviner,prophet,640,dev
+12556,diviner,onomancer,640,dev
+12557,diviner,pyromancer,640,dev
+12558,diviner,necromancer,640,dev
+12559,diviner,water witch,640,dev
+12560,diviner,lithomancer,640,dev
+12561,prophet,augur,640,dev
+12562,prophet,sibyl,640,dev
+12563,prophet,prophetess,640,dev
+12564,prophetess,Cassandra,640,dev
+12656,insanity,irrationality,648,test
+12657,insanity,dementia,648,test
+12658,insanity,craziness,648,test
+12659,insanity,derangement,648,test
+12660,insanity,lunacy,648,test
+12661,dementia,presenile dementia,648,test
+12662,dementia,alcoholic dementia,648,test
+12663,dementia,senile dementia,648,test
+12664,presenile dementia,Alzheimer's disease,648,test
+12665,presenile dementia,Pick's disease,648,test
+12725,ascomycete,discomycete,652,test
+12726,ascomycete,Geglossaceae,652,test
+12727,ascomycete,Sarcosomataceae,652,test
+12728,ascomycete,Clavicipitaceae,652,test
+12729,discomycete,Mitrula elegans,652,test
+12730,discomycete,Sarcoscypha coccinea,652,test
+12731,discomycete,blood cup,652,test
+12732,discomycete,Caloscypha fulgens,652,test
+12733,discomycete,Leotia lubrica,652,test
+12734,discomycete,Peziza domicilina,652,test
+12735,discomycete,Aleuria aurantia,652,test
+12736,discomycete,Jafnea semitosta,652,test
+12737,discomycete,Urnula craterium,652,test
+12738,discomycete,Galiella rufa,652,test
+12739,Sarcosomataceae,black felt cup,652,test
+12740,Sarcosomataceae,devil's urn,652,test
+12741,Sarcosomataceae,winter urn,652,test
+12742,Sarcosomataceae,charred pancake cup,652,test
+12743,Sarcosomataceae,devil's cigar,652,test
+12744,Sarcosomataceae,Rufous rubber cup,652,test
+12745,Clavicipitaceae,grainy club,652,test
+12746,grainy club,soldier grainy club,652,test
+12887,calculator,hand calculator,661,test
+12888,calculator,quipu,661,test
+12889,calculator,adding machine,661,test
+12890,calculator,Napier's bones,661,test
+12891,calculator,adder,661,test
+12892,calculator,counter,661,test
+12893,calculator,subtracter,661,test
+12894,calculator,abacus,661,test
+12895,counter,pulse counter,661,test
+12896,pulse counter,scaler,661,test
+13188,law enforcement agency,Federal Judiciary,675,test
+13189,law enforcement agency,police,675,test
+13190,law enforcement agency,Federal Law Enforcement Training Center,675,test
+13191,law enforcement agency,Drug Enforcement Administration,675,test
+13192,law enforcement agency,Criminal Investigation Command,675,test
+13193,law enforcement agency,Financial Crimes Enforcement Network,675,test
+13194,law enforcement agency,National Institute of Justice,675,test
+13195,law enforcement agency,Bureau of Alcohol Tobacco and Firearms,675,test
+13196,law enforcement agency,United States Marshals Service,675,test
+13197,law enforcement agency,Federal Bureau of Prisons,675,test
+13198,law enforcement agency,Federal Bureau of Investigation,675,test
+13199,police,Schutzstaffel,675,test
+13200,police,posse,675,test
+13201,police,gendarmerie,675,test
+13202,police,Mutawa'een,675,test
+13203,police,Royal Canadian Mounted Police,675,test
+13204,police,secret police,675,test
+13205,police,Europol,675,test
+13206,police,Scotland Yard,675,test
+13207,secret police,Gestapo,675,test
+13342,accident,shipwreck,683,test
+13343,accident,crash,683,test
+13344,accident,fatal accident,683,test
+13345,accident,injury,683,test
+13346,accident,collision,683,test
+13347,shipwreck,capsizing,683,test
+13348,crash,prang,683,test
+13349,fatal accident,collateral damage,683,test
+13350,injury,concussion,683,test
+13351,injury,mutilation,683,test
+13352,mutilation,dismemberment,683,test
+13353,collision,smash,683,test
+13354,collision,fender-bender,683,test
+13355,collision,pileup,683,test
+13368,behavior,discourtesy,685,test
+13369,behavior,bohemianism,685,test
+13370,behavior,dirty pool,685,test
+13371,behavior,dirty tricks,685,test
+13372,behavior,easiness,685,test
+13373,behavior,the way of the world,685,test
+13374,behavior,aggression,685,test
+13375,discourtesy,insolence,685,test
+13376,discourtesy,insult,685,test
+13377,discourtesy,presumption,685,test
+13378,discourtesy,indelicacy,685,test
+13379,discourtesy,derision,685,test
+13380,discourtesy,rebuff,685,test
+13381,insult,indignity,685,test
+13382,insult,scandalization,685,test
+13383,derision,mock,685,test
+13384,rebuff,snub,685,test
+13385,rebuff,silent treatment,685,test
+13386,aggression,bullying,685,test
+13387,aggression,self-assertion,685,test
+13388,aggression,bitchery,685,test
+13389,aggression,aggravation,685,test
+13390,aggression,raising hell,685,test
+13391,bullying,terrorization,685,test
+13392,aggravation,aggro,685,test
+13393,aggravation,twit,685,test
+13394,aggravation,last straw,685,test
+13623,light,corona,697,test
+13624,light,moonlight,697,test
+13625,light,firelight,697,test
+13626,light,luminescence,697,test
+13627,light,candlelight,697,test
+13628,light,counterglow,697,test
+13629,light,radiance,697,test
+13630,light,beam,697,test
+13631,light,half-light,697,test
+13632,light,glow,697,test
+13633,light,lamplight,697,test
+13634,light,gaslight,697,test
+13635,light,twilight,697,test
+13636,light,fluorescence,697,test
+13637,light,friar's lantern,697,test
+13638,light,sunlight,697,test
+13639,light,torchlight,697,test
+13640,light,daylight,697,test
+13641,light,incandescence,697,test
+13642,light,starlight,697,test
+13643,light,streamer,697,test
+13644,light,meteor,697,test
+13645,light,scintillation,697,test
+13646,luminescence,chemiluminescence,697,test
+13647,luminescence,bioluminescence,697,test
+13648,radiance,aureole,697,test
+13649,beam,laser beam,697,test
+13650,beam,high beam,697,test
+13651,beam,low beam,697,test
+13652,beam,moonbeam,697,test
+13653,beam,sunbeam,697,test
+13654,beam,heat ray,697,test
+13655,heat ray,infrared ray,697,test
+13656,glow,sky glow,697,test
+13657,fluorescence,phosphorescence,697,test
+13658,fluorescence,autofluorescence,697,test
+13659,sunlight,sunburst,697,test
+13660,meteor,bolide,697,test
+13661,gymnastic exercise,handstand,698,test
+13662,gymnastic exercise,double leg circle,698,test
+13663,gymnastic exercise,dip,698,test
+13664,gymnastic exercise,crucifix,698,test
+13665,gymnastic exercise,hang,698,test
+13666,gymnastic exercise,scissors,698,test
+13667,gymnastic exercise,long fly,698,test
+13668,gymnastic exercise,kip,698,test
+13669,gymnastic exercise,straddle,698,test
+13670,gymnastic exercise,grand circle,698,test
+13671,hang,straight hang,698,test
+13672,hang,inverted hang,698,test
+13673,hang,reverse hang,698,test
+13674,hang,bent hang,698,test
+13675,hang,lever hang,698,test
+13676,reverse hang,piked reverse hang,698,test
+13895,neckwear,necktie,710,test
+13896,neckwear,cravat,710,test
+13897,necktie,string tie,710,test
+13898,necktie,old school tie,710,test
+13899,necktie,Windsor tie,710,test
+13900,necktie,bow tie,710,test
+13901,necktie,four-in-hand,710,test
+13902,necktie,bolo tie,710,test
+13903,bow tie,white tie,710,test
+13904,bow tie,black tie,710,test
+13905,cravat,neckcloth,710,test
+13906,cravat,ascot,710,test
+14421,gown,academic gown,735,test
+14422,gown,vestment,735,test
+14423,academic gown,Geneva gown,735,test
+14424,vestment,pallium,735,test
+14425,vestment,pontifical,735,test
+14426,vestment,humeral veil,735,test
+14427,vestment,chasuble,735,test
+14428,vestment,surplice,735,test
+14429,vestment,cassock,735,test
+14430,vestment,alb,735,test
+14431,cassock,soutane,735,test
+14450,acrobatic stunt,split,737,test
+14451,acrobatic stunt,back circle,737,test
+14452,acrobatic stunt,walkover,737,test
+14453,acrobatic stunt,cartwheel,737,test
+14454,acrobatic stunt,headstand,737,test
+14455,acrobatic stunt,tumble,737,test
+14456,acrobatic stunt,backbend,737,test
+14457,acrobatic stunt,handspring,737,test
+14458,tumble,somersault,737,test
+14459,somersault,flip-flop,737,test
+14558,endocrine gland,thymus gland,742,test
+14559,endocrine gland,islands of Langerhans,742,test
+14560,endocrine gland,adrenal gland,742,test
+14561,endocrine gland,parathyroid gland,742,test
+14562,endocrine gland,adrenal cortex,742,test
+14563,endocrine gland,pineal gland,742,test
+14564,endocrine gland,pituitary,742,test
+14565,endocrine gland,prostate gland,742,test
+14566,endocrine gland,pars distilis,742,test
+14567,endocrine gland,pars intermedia,742,test
+14568,endocrine gland,thyroid gland,742,test
+14569,endocrine gland,posterior pituitary,742,test
+14570,endocrine gland,gonad,742,test
+14571,endocrine gland,anterior pituitary,742,test
+14572,endocrine gland,corpus luteum,742,test
+14573,endocrine gland,adrenal medulla,742,test
+14574,gonad,testis,742,test
+14575,gonad,ovary,742,test
+14576,gonad,ovotestis,742,test
+14577,testis,cobblers,742,test
+14578,testis,undescended testis,742,test
+14715,applicant,probable,752,test
+14716,applicant,material,752,test
+14717,applicant,aspirant,752,test
+14718,applicant,claimant,752,test
+14719,applicant,petitioner,752,test
+14720,applicant,bidder,752,test
+14721,applicant,job candidate,752,test
+14722,applicant,possible,752,test
+14723,applicant,submitter,752,test
+14724,claimant,Pretender,752,test
+14725,petitioner,postulant,752,test
+14726,petitioner,besieger,752,test
+14727,petitioner,solicitor,752,test
+14728,solicitor,fundraiser,752,test
+14755,saw,crown saw,755,test
+14756,saw,two-handed saw,755,test
+14757,saw,folding saw,755,test
+14758,saw,hacksaw,755,test
+14759,saw,bill,755,test
+14760,saw,bucksaw,755,test
+14761,saw,handsaw,755,test
+14762,two-handed saw,pitsaw,755,test
+14763,handsaw,keyhole saw,755,test
+14764,handsaw,ripsaw,755,test
+14765,handsaw,pruning saw,755,test
+14766,handsaw,crosscut saw,755,test
+14767,handsaw,backsaw,755,test
+14768,handsaw,compass saw,755,test
+14769,handsaw,coping saw,755,test
+14770,pruning saw,pruner,755,test
+14790,agamete,spore,757,test
+14791,spore,zygospore,757,test
+14792,spore,chlamydospore,757,test
+14793,spore,microspore,757,test
+14794,spore,ascospore,757,test
+14795,spore,resting spore,757,test
+14796,spore,conidium,757,test
+14797,spore,megaspore,757,test
+14798,spore,fern seed,757,test
+14799,spore,basidiospore,757,test
+14800,spore,pollen,757,test
+14801,spore,tetraspore,757,test
+14802,spore,carpospore,757,test
+14803,spore,aeciospore,757,test
+14804,spore,zoospore,757,test
+14805,spore,oospore,757,test
+14806,spore,endospore,757,test
+14807,chlamydospore,teliospore,757,test
+14808,pollen,pollinium,757,test
+14809,pollen,ragweed pollen,757,test
